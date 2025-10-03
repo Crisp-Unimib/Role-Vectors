@@ -129,3 +129,16 @@ The methodology and parts of the codebase are inspired by the work on refusal di
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Citation
+
+If you use this work, please cite:
+
+```
+@inproceedings{poterti2025can,
+  title={Can Role Vectors Affect LLM Behaviour?},
+  author={Potertì, Daniele and Seveso, Andrea and Mercorio, Fabio},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  year={2025}
+}
+```
