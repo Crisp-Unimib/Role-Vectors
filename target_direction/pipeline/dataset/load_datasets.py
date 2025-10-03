@@ -38,11 +38,7 @@ SPLITS = ['train', 'val', 'val_processed', 'test',
             'train_teacher',
             'train_web developer',
 
-<<<<<<< HEAD
-          'test_natural_science', 'test_law', 'test_econ', 'test_eecs', 'test_math', 'test_medicine', 'test_natural_science', 'test_politics', 'test_psychology', 'test_aime']
-=======
           'test_natural_science', 'test_law', 'test_econ', 'test_eecs', 'test_math', 'test_medicine', 'test_natural_science', 'test_politics', 'test_psychology', 'test_new_medicine']
->>>>>>> updates
 DATA_VARIANTS = ['base', 'target', 'mmlu']
 
 SPLIT_DATASET_FILENAME = os.path.join(dataset_dir_path, 'splits/{type}_{split}.json')
