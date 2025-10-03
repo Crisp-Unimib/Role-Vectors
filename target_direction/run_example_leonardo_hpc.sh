@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=IscrC_MI-PLE
+#SBATCH --account=PRJ
 #SBATCH --job-name=lm_eval_%a
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
@@ -38,12 +38,12 @@ echo "Modules loaded successfully"
 
 # Set environment variables
 echo "Setting up HF_HOME..."
-export HF_HOME=/leonardo_work/IscrC_MI-PLE/dpoterti
+export HF_HOME=/leonardo_work/PRJ/user
 echo "HF_HOME set to: $HF_HOME"
 
 # Change to work directory
 echo "Changing to work directory..."
-cd "$WORK/dpoterti/rolevectors" || { echo "Error: Failed to change directory"; exit 1; }
+cd "$WORK/user/rolevectors" || { echo "Error: Failed to change directory"; exit 1; }
 echo "Successfully changed to work directory: $(pwd)"
 
 # Activate virtual environment
