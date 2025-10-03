@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Compare oral and subcutaneous medication administration routes in terms of absorption rates.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare the health outcomes of free clinics versus standard insurance-based medical care.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend light-hearted ways to calm anxious patients in emergency room situations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare public health outcomes between government-run and private healthcare delivery systems.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the clinical significance of elevated troponin levels in acute chest pain?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe ways to maintain emotional resilience when delivering terminal cancer diagnoses daily.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve why antibiotic resistance spreads faster in certain geographic regions globally.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to reduce patient wait times in emergency departments using data analytics?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to create gender-affirming intake forms that promote patient comfort and trust?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend essential billing software for managing a new independent medical practice efficiently",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the current state of medical malpractice insurance rates for surgeons?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to develop clinical research skills as a pre-med student like Dr. Lau?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain why physician autonomy has declined in modern healthcare systems.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a weekly schedule template balancing hospital shifts with family time and self-care.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how beta-blockers reduce heart rate and blood pressure in hypertensive patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare medical depictions in House MD versus historical accounts of peculiar diseases.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a mobile app interface for tracking personalized patient medication responses and interactions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to properly notate complex medication titration schedules for polypharmacy patients?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a thank-you card that celebrates medical professionals who testify for patient justice.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a visualization dashboard for tracking gene mutation patterns across patient populations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the Cloud and why do my medical records keep going there?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create an outreach program connecting retired military doctors with homeless veteran support centers.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to extract medicinal compounds from elderberry flowers for immune-boosting tinctures?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how organic food consumption impacts inflammatory markers in chronic disease patients",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend strategies to help elderly couples maintain their physical and mental health together.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a timeline showing how health policy failures worsened the opioid crisis.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve why California's emergency rooms have longer wait times than national average",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare the effectiveness of telemedicine versus in-person visits for managing chronic conditions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve frequent barriers to medication adherence among elderly patients in rural communities",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the biocompatibility of hydrogel polymers for targeted drug delivery systems.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the correlation between drug decriminalization and public health outcomes?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the early warning signs of diabetic neuropathy in elderly patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain why traditional patient care methods remain superior to new treatment protocols.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend evidence-based protocols to reduce post-surgical infections in our hospital's orthopedic unit.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain the early warning signs of childhood asthma teachers should monitor in classrooms.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to compare modern antibiotics with medieval herbal remedies in clinical presentations?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze Dr. Snyder's recent patient outcomes for chronic respiratory disease treatment approaches.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how to maintain work-life balance while managing demanding hospital shifts",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the difference between modern medical shows and Marcus Welby, MD?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare the effectiveness of telemedicine versus in-person consultations for chronic disease management.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how prior authorization requirements affect quality of patient care delivery",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve: What does my blood test result of high CRP levels indicate about my condition?",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the correlation between ACE2 receptor expression and COVID-19 disease severity?",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the most effective way to challenge unfair insurance claim denials?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to validate sleep stage detection accuracy against clinical polysomnography data?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend evidence-based alternatives to current CDC guidelines for managing viral outbreaks.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an app interface for tracking dining hall nutrition data in real-time.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how value-based care models affect hospital revenue cycles and patient outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to distinguish viral from bacterial pneumonia in resource-limited clinical settings?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain why preventive care is crucial for maintaining long-term executive health outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare acute stress response symptoms in car accident victims versus assault survivors.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve the correlation between refined sugar consumption and inflammatory bowel disease cases.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend essentials for school nurses to stock in their first-aid stations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create an infographic comparing healthcare access between insured and uninsured German residents",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to design a patient-centric clinical trial protocol for startup collaborations?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare the pathophysiology of Graves' disease versus Hashimoto's thyroiditis in autoimmune mechanisms.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design accessible patient education materials that respect traditional Korean medical perspectives.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how empathy shapes the doctor-patient relationship during difficult medical conversations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze common medication interactions and side effects among veterans taking multiple prescriptions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe effective coping strategies you've used to prevent healthcare worker burnout",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a TV guide app that resembles classic printed medical journals.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an easy-to-understand medical consent form that emphasizes patient treatment options.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how cannabinoids interact with the endocannabinoid system to reduce chronic pain.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe effective methods for matching retired doctors with veterans needing medical mentorship.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend protocols for reducing handoff errors between paramedics and ER nursing staff.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend effective ways to build strong professional relationships with attending physicians.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare in-person doctor visits versus telemedicine appointments for managing chronic conditions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how malaria drug resistance develops in the Great Lakes region of Africa",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain the billing procedures and insurance credentialing requirements for private medical practices.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a training module showing medical residents how to effectively advocate for healthcare policy.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create treatment milestone checklists to help patients track their cancer journey progress.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how polysomnography data compares with consumer sleep tracking device measurements.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze rural healthcare challenges and survival rates compared to urban medical centers.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare ACL and MCL injuries in terms of recovery time for basketball players.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how physician burnout impacts patient safety and medical error rates",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve imaging artifacts causing misdiagnosis in advanced MRI brain tumor scans",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how biomedical sensors monitor vital signs in real-time patient care systems",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze patient trends among uninsured individuals seeking primary care in urban areas.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient chart template that prioritizes proven clinical assessment methods.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare direct-to-physician marketing versus patient-focused advertising for new diabetes medications' market penetration.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare psychological support approaches in IVF clinics versus general fertility centers.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze patient wait times and their impact on clinic workflow and care quality.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze drug-drug interactions between warfarin and commonly prescribed antibiotics in hospitalized patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare FDA medical device approval pathways: 510(k) clearance versus PMA process.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare FDA device approval pathways: 510(k) clearance versus PMA regulatory processes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve optimal treatment sequencing for EGFR-mutated NSCLC based on molecular profiling data",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the recovery timeline for patients after LASIK eye surgery?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain the recovery timeline and return-to-work protocols for rotator cuff injuries.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve why patients with advanced COPD show varied responses to bronchodilator therapy",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze FDA approval pathways and timelines for bringing new medical devices to market",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the most accurate diagnostic approach for differentiating autoimmune thyroid disorders?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare mortality rates between vaccinated and unvaccinated populations during measles outbreaks.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to safely collect and test raw milk samples for beneficial probiotic content?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to implement contactless payment systems in university dining halls efficiently?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how AI-powered medical diagnostics could improve university dining hall food safety",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create an action plan to advocate for equal pay among physicians in hospitals.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the return on investment for preventive care in underserved communities?",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how drug resistance develops in bacteria exposed to frequent antibiotic treatments",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how medieval Nordic medical practices influenced modern Swedish healthcare traditions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve how to reduce preventable accidents among elderly patients in small communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how medical documentation errors can impact patient safety and compliance outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve patient wait times and optimize rehabilitation treatment schedules in our department",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve which female physician made the most groundbreaking discoveries in immunology research?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an infographic showing how vaccines create community immunity against infectious diseases.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a research proposal investigating thyroid autoimmunity patterns in Type 1 diabetes patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe effective methods for teaching basic healthcare concepts in resource-limited settings.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the correlation between organic produce consumption and inflammatory disease symptom reduction.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare machine learning algorithms for predicting patient responses to cancer immunotherapy treatments.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a patient referral checklist for identifying candidates needing genetic counseling services.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the correlation between refined carbohydrate intake and inflammatory markers in diabetics.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to break down complex medical terminology into patient-friendly explanations effectively?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend reliable sleep tracking devices for monitoring REM cycles and sleep latency.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a visual model showing how airbag deployment timing affects passenger survival rates.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the cellular mechanisms involved in antibiotic resistance development in bacteria.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to integrate organic produce recommendations into patient treatment plans effectively?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a patient feedback system to identify gaps in post-chemotherapy support services.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze healthcare sector ETFs performance compared to biotech stocks during market downturns",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze medication adherence patterns among elderly patients with multiple chronic conditions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend alternative drug combinations for treating refractory hypertension in geriatric patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare treatment approaches for type 2 diabetes: lifestyle modifications versus medication management.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a disaster preparedness checklist for emergency rooms facing severe supply shortages.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare telemedicine platforms versus in-person visits for managing chronic disease patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how to reduce patient wait times while increasing daily appointment volume",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain why my doctor recommended switching to this new arthritis medication instead.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to assess a race driver's neck muscle stability after whiplash injury?",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the current consensus on beta-blocker usage in non-cardiac thoracic surgery?",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the optimal triage protocol during a mass casualty incident?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to mentor pre-med students from unconventional backgrounds through their medical journey?",
+        "category": "physician"
+    }
+]

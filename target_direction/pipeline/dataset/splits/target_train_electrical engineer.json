@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe the key considerations when designing a high-frequency operational amplifier circuit",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain the difference between linear and switching power supply regulation methods.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe how 5G networks could enhance traffic management systems in urban environments.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how capacitive coupling affects signal integrity in high-speed circuit designs",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Create a flowchart for debugging I2C communication between microcontrollers and peripheral sensors.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the impact of GaN semiconductors on modern power supply design?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe the steps involved in photolithography during semiconductor wafer fabrication.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how Professor Bevrani's adaptive control methods improve power system stability.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe the integration challenges when embedding IoT sensors into consumer electronics products.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design an energy-efficient cooling system for large-scale data center operations.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze power consumption patterns across different server load balancing configurations during peak usage.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a secure hardware authentication system using PUF-based cryptographic key generation.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how maximum power point tracking improves solar panel energy efficiency.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Recommend advanced textbooks on electromagnetic wave propagation in metamaterial structures",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the power consumption patterns between 7nm and 5nm processor manufacturing nodes.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the difference between microstepping and full-step drive in stepping motors?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare parallel vs pipelined FFT architectures in terms of throughput and power efficiency.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the drift characteristics of different temperature sensors in harsh industrial environments.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to design an effective circuit diagram for teaching first-year electrical engineering students?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a simple smart home interface that helps elderly control lights remotely",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare monocrystalline and polycrystalline solar panels in terms of efficiency and cost-effectiveness.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a low-power wireless sensor network for detecting door and window breaches.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a schematic diagram for a cryogenic cooling system using superconducting materials.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare vertical-axis and horizontal-axis wind turbines for urban energy generation efficiency.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a portable voltage meter with digital display using modern microcontroller components.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare power consumption between LED, CFL, and traditional incandescent light bulbs.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain why flickering LED bulbs might indicate a voltage problem in household wiring.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare power efficiency between AMD EPYC and Intel Xeon server processors.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve stability issues in an adaptive neural controller for robotic manipulator systems.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to calculate and optimize the radiation pattern of a microstrip patch antenna?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how solar panel tilt angles affect energy collection in residential installations.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve the optimal camera placement for maximizing robotic arm workspace coverage in manufacturing",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how temperature compensation works in precision strain gauge sensor circuits.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the difference between KiCad's interactive router and push-and-shove routing?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare Dr. Smith and Dr. Chen's teaching styles in Circuit Analysis 101.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to compare power efficiency between ARM and x86 processors in smartphones?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how pulse-width modulation controls DC motor speed in robotic applications.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the Reed-Solomon error correction code used in digital communications?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to implement redundant fail-safe circuits in train signaling control systems?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how signal integrity impacts data transmission in high-speed PCB designs.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe the most efficient setup for an off-grid solar power system.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Create a MATLAB simulation to analyze voltage ripple in DC power supplies.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how Fourier transforms can be visualized to help students understand signal processing.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design an efficient power converter circuit for energy harvesting in wearable sensors.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve South Africa's load shedding crisis through integrated renewable energy and grid modernization.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to create an animated circuit diagram explaining the American Revolution's communication networks?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the difference between voltage-controlled and frequency-modulated oscillator circuits in synthesizers?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to build a simple solar-powered LED night light with kids?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare NAND vs NOR flash memory architectures in terms of read/write speed efficiency.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve how Nikola Tesla's wireless power transmission system could modernize today's grid infrastructure",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve why my kitchen dimmer switch buzzes when lights are at half-power",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain the function of capacitors in RC low-pass and high-pass filter circuits.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare C. Roland Haden's contributions to power systems with modern grid technology advancements.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to design an efficient power supply circuit like my grandfather did?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze torque requirements for servo motor selection in a robotic arm joint",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve intermittent signal interference issues between trackside sensors and onboard train controllers",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain why dedicated hardware processors are superior to software-based processing solutions.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze latency patterns in 5G networks across different urban infrastructure implementations.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Create a control system diagram for a robotic arm with six degrees freedom",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to design a residential solar backup system during South Africa's loadshedding crisis?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve why voltage drops occur in long electrical cables and their practical implications",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve how to reduce component count while maintaining functionality in Arduino-based kits",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze power load distribution patterns during peak hours at Tunbridge Wells station.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare measured efficiency rates versus manufacturer claims for modern solar inverter systems.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to select optimal conductor materials for minimizing thermal resistance in PCB design?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare OFDM and CDMA in terms of spectrum efficiency and interference resistance.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe the operating principles of a voltage regulator in switching power supplies.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to integrate distributed energy resources into an existing power distribution network?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to troubleshoot and repair faulty PCB traces in vintage circuit boards?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the efficiency of different microcontroller architectures for battery-powered IoT devices.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the fundamental difference between symmetric and asymmetric encryption algorithms?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve the safety interlocking logic sequence for a roller coaster brake system",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the role of GPU memory bandwidth in rendering complex graphic designs?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare agile and waterfall methodologies for managing electrical engineering algorithm development projects.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe how 5G network infrastructure differs from previous telecommunications generations technologically.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe how bioelectric signals can be harnessed for neural interface applications.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to design efficient software interfaces for real-time embedded system controllers?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the ideal copper-to-silver ratio for maximizing electrical conductivity in nanowires?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a Raspberry Pi HAT for interfacing with legacy PLC systems",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to integrate new electrical safety standards into legacy industrial control systems?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how corona discharge affects the efficiency of high-voltage transmission lines?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to build a basic voltage divider circuit using resistors and measure outputs?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a simple circuit diagram to demonstrate how capacitors filter AC signals.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a microgrid control system for integrating renewable energy sources with storage solutions",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to calculate power factor correction for a three-phase industrial system?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a cable routing layout for underground utilities in a new residential development.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design an optical network routing protocol that minimizes end-to-end delay in datacenter communications.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve for optimal packet routing delays in a software-defined optical network topology.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze how graphics processing units (GPUs) handle real-time rendering in design software.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare power consumption and heat dissipation between PS5 and Xbox Series X processors.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve the behavior of an RC low-pass filter at different cutoff frequencies.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Recommend efficient energy storage solutions for integrating renewable sources into smart grids.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to reduce energy consumption in high-performance computing cluster data centers?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a compact waveguide filter like we used in 1970s radar systems",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare superconducting qubits versus trapped ion qubits for quantum computer hardware implementation.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the difference between series and parallel circuits in basic electronics?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the grounding system efficiency in locomotive traction power distribution circuits.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to convert an old smartphone into a home automation control hub?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare PID and MPC controllers for industrial process control applications.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to implement redundancy in train signaling systems for fail-safe operation?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a low-power wireless sensor network for detecting unauthorized entry points.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Compare oscilloscopes and multimeters for troubleshooting complex circuit board malfunctions.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe why ARM processors are superior to x86 for mobile device applications.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the relationship between voltage, current, and resistance in circuit design?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze failure modes and response times of different UPS systems during blackouts.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze how superconducting qubits differ from traditional transistors in quantum computing circuits.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Recommend cost-effective methods to improve power factor correction in industrial electrical systems.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the optimal spacing between turbines in offshore wind farms?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze hardware-software interface patterns in embedded systems for optimal real-time performance.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the frequency response characteristics of adaptive noise cancellation filter coefficients",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Solve the frequency aliasing problem in digital sampling of high-frequency audio signals.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to install a grid-tied solar system under South Africa's latest regulations?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design a high-frequency MOSFET amplifier circuit with temperature compensation and minimal distortion.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the significance of Maxwell's equations in modern electrical engineering applications?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe the process of implementing convolutional neural networks for edge detection applications",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Describe how GaN semiconductors compare to traditional silicon in modern power applications",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is quantum tunneling's role in next-generation semiconductor transistor development?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "How to measure critical temperature transition points in high-temperature superconducting materials?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design an energy-efficient signal processing circuit for real-time neural data analysis.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze the power consumption patterns in Intel's 12th vs 13th generation processors",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "solve how to reduce transmission losses in high-voltage power lines across mountainous terrain",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Explain how smart home devices can help monitor elderly people's safety.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Recommend protective measures for integrating high-voltage marine generators with shipboard distribution systems.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the difference between THT and SMD footprints in KiCad?",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Recommend emerging 5G network security solutions for protecting telecommunications infrastructure in India.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Design an insulation material specification for high-frequency PCB power distribution networks.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "Analyze power consumption patterns in residential buildings during Canadian winter months.",
+        "category": "electrical engineer"
+    },
+    {
+        "instruction": "What is the actual battery degradation rate of electric skateboards under daily use?",
+        "category": "electrical engineer"
+    }
+]

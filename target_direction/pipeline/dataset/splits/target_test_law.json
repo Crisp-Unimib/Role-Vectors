@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "The accused made a confession to the police, but his defense attorney needs to find out if the confession is admissible. In which of the following situations would a confession be inadmissible?\n\t\t\tA. The defendant's statement was involuntary\n\t\t\tB. The defendant's statement was voluntary\n\t\t\tC. The defendant was not in custody when the statement was made\n\t\t\tD. The statement was not made in response to a known police interrogation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which reason may constitute sufficient good cause or excusable neglect to enable a litigant to file a late notice of appeal past the 30-day deadline?\n\t\t\tA. The district court judge assured the litigant that the late filing would be permitted\n\t\t\tB. The litigant's original attorney neglected to file notice on time, and now the litigant has retained a new attorney to file the appeal and has also sued the former attorney for malpractice\n\t\t\tC. The litigant ran a red light causing a car crash just before the judgment was rendered, and was in the hospital for two months recovering\n\t\t\tD. Opposing counsel agreed not to object to the late notice of appeal\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A patent holder brought a patent infringement action in federal court against a licensee of the patent. The patent holder believed that a jury would be more sympathetic to his claims than a judge, and asked his lawyer to obtain a jury trial. What should the lawyer do to secure the patent holder's right to a jury trial?\n\t\t\tA. File and serve a complaint that includes a jury trial demand\n\t\t\tB. File and serve a jury trial demand at the close of discovery\n\t\t\tC. File and serve a jury trial demand within 30 days after the close of the pleadings\n\t\t\tD. Make a jury trial demand at the initial pretrial conference\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A man conveys to his wife's cousin a property to \"cousin and the heirs of his body.\" He then conveys the same property to his niece in fee simple. Under modern real estate laws and practice in most states today, what interest if any does his niece have?\n\t\t\tA. The conveyance gives the niece nothing because the property was already conveyed in fee simple to his wife's cousin\n\t\t\tB. She gets a reversion in case the cousin has no heir of his body at his death\n\t\t\tC. A contingent remainder based upon whether or not cousin has heirs\n\t\t\tD. She has a fee simple\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A manufacturer created a new brand of fish tackle which they sold throughout the country. Congress now imposes a tax of 14 cents on each set of tackle sold in the United States. This tax is\n\t\t\tA. unconstitutional, because the tackle is sold in interstate commerce\n\t\t\tB. unconstitutional, because it interferes with the sovereign right of state governments to engage in intrastate commerce\n\t\t\tC. constitutional, because the supremacy clause validates laws enacted by Congress\n\t\t\tD. constitutional, because it is within the power of Congress to raise revenue\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "If certain fundamental rights are denied to some individuals but not others, then it is considered what type of problem?\n\t\t\tA. Substantive due process problem\n\t\t\tB. Equal protection problem\n\t\t\tC. Procedural due process problem\n\t\t\tD. None of these\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "To keep its public school expenditures under control in a time of increasing costs, a state passed a law providing that children who have not lived in the state for at least one year cannot attend public schools in the state. Which of the following statements about this law is most accurate as a matter of constitutional law?\n\t\t\tA. The one-year residence requirement is valid because it does not affect any fundamental right or suspect class\n\t\t\tB. State durational residence requirements that are estab-lished for publicly funded services are constitutional because they relate to government operations reserved exclusively to the states by the Tenth Amendment\n\t\t\tC. Because publicly funded education is a fundamental constitutional right, a state may not deny it to any class of persons who reside in that state\n\t\t\tD. State durational residence requirements established for this kind of publicly funded service solely for the purpose of reducing state expenditures violate the equal protection clause of the Fourteenth Amendment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations would the actions of the defendant(s) constitute a burglary?\n\t\t\tA. A defendant, seeking shelter from a severe snowstorm, broke into a house. When he awoke the next morning, the defendant noticed a transistor radio, which he put into his pocket before fleeing the house\n\t\t\tB. A defendant was walking past a home when he saw the homeowner sitting in a chair near the window. Angered at the homeowner for stealing his former girlfriend, the defendant picked up a large brick that was lying nearby and hurled it through the window, intending to kill the homeowner\n\t\t\tC. Late one afternoon, two defendants were walking down the street when they noticed an open window at a doctor's office. The defendants crawled through the window, broke open his medicine cabinet, and stole various drugs\n\t\t\tD. Late one evening as a guest was registering ata hotel, a defendant noticed that the guest wasa guy who owed him money from a bet. Afterthe guest had retired to his room, the defendantbroke into his room and threatened him regarding the money he was owed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "At trial, during the plaintiff's case-in-chief, the plaintiff called as a witness the managing agent of the defendant corporation, who was then sworn in and testified. Defense counsel objected to the plaintiff's questions either as leading or as impeaching the witness. In ruling on the objections, the trial court should\n\t\t\tA. sustain all the objections and require the plaintiff to pursue this type of interrogation only during the plaintiff's cross-examination of this witness during the defendant's case-in-chief\n\t\t\tB. sustain the leading question objections but overrule the other objections because a party is not permitted to ask leading questions of his own witness at trial\n\t\t\tC. sustain the impeachment questions but overrule the other objections because a party is not permitted to impeach his own witness at trial\n\t\t\tD. overrule all the objections because the witness is adverse to the plaintiff and therefore may be interrogated by leading questions and subjected to impeachment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following stages does an indigent person not have the Sixth Amendment right to counsel?\n\t\t\tA. Preliminary Hearing\n\t\t\tB. Arraignment\n\t\t\tC. investigative surveillance\n\t\t\tD. Post-charge lineups\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Congress recently enacted a statute that prohibits racial discrimination in the sale, transfer, or rental of real estate, either privately or publicly. Which of the following constitutional provisions would provide the best rationale for the enactment of this federal statute?\n\t\t\tA. Under Article I, Congress has the power to enact laws that are \"necessary and proper\" to the general welfare\n\t\t\tB. The enforcement provision of Section 2 of the Thirteenth Amendment\n\t\t\tC. The enforcement provision of Section 5 of the Fourteenth Amendment\n\t\t\tD. The due process clause of the Fifth Amendment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Anderson and Parker decide to form a corporation which will locate missing children. Which of the following would be a proper name for the corporation?\n\t\t\tA. ANDERSON\n\t\t\tB. FBI Consultants, Incorporated\n\t\t\tC. Private Eye Partners\n\t\t\tD. Child Finder Company\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "At trial in a criminal prosecution for theft, the defendant calls a witness to testify that he formerly knew the defendant as an army supply sergeant and that the defendant had turned down many opportunities for black marketeering. Is the witness's testimony admissible?\n\t\t\tA. No, because it is irrelevant to the present charge\n\t\t\tB. No, because the defendant may not prove his good character by specific instances of good conduct\n\t\t\tC. Yes, because a criminal defendant may prove his good character as a basis for inferring conduct\n\t\t\tD. Yes, because, by accusing the defendant of being a thief, the prosecution has put his character in issue\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A plaintiff sued an insurance company to recover life insurance proceeds. At trial, the issue before the court is the insured's correct date of birth. Which of the following is inadmissible if offered to prove the insured's correct date of birth?\n\t\t\tA. A family portrait engraved with the ages of the family members\n\t\t\tB. A family bible with the insured's birth date inscribed on the cover\n\t\t\tC. A photocopy of the insured's birth certificate\n\t\t\tD. A sworn affidavit from the insured's brother verifying the insured's birth date\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Arrests may occasionally be made without a warrant. Which of the following is not one of those circumstances?\n\t\t\tA. A misdemeanor has occurred, and an officer must believe that the person he has arrested committed it\n\t\t\tB. An officer must have probable cause that a felony has occurred and that the arrested person committed it\n\t\t\tC. An officer may arrest for a felony committed in his presence\n\t\t\tD. An officer may arrest for a misdemeanor that is a breach of peace and committed in arresting party's presence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following is false about ex post facto laws?\n\t\t\tA. They make criminal an act that was innocent when committed\n\t\t\tB. They prescribe greater punishment for an act than was prescribed when it was done\n\t\t\tC. They increase the evidence required to convict a person than when the act was done\n\t\t\tD. They alter criminal offenses or punishment in a substantially prejudicial manner for the purpose of punishing a person for some past activity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A federal agent wants to obtain a court order for a wiretap. Which of the following is not required to be set forth in the agent's affidavit submitted to the court for an order authorizing the wiretap?\n\t\t\tA. That the wiretap will extend indefinitely until all relevant conversations are recorded\n\t\t\tB. Details on the nature of the offense that has been, is being or will be committed\n\t\t\tC. A particular description of the type of communications sought to be intercepted\n\t\t\tD. Identification of the persons to be overheard must be given, if known\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Under which of the following situations would the defendant most likely be found guilty of murder?\n\t\t\tA. A defendant conspired with two other men to rob a store. On the day of the robbery, the three participants drove to the store in a stolen van. In accordance with their plan, the defendant was to wait in the getaway van while the two men conducted their heist. While the two men were inside the store, the defendant decided to renounce his involvement and participation in the scheme and hurriedly drove away in the van. In his haste, the defendant failed to see a pedesthan jaywalking across the street, and struck and killed the pedestrian\n\t\t\tB. A defendant, accompanied by his girlfriend, was attending his law school graduation party. Both the defendant and his girlfriend became highly intoxicated during the party celebration. As the defendant and his girlfriend were leaving the party, the defendant handed his girlfriend the keys to his automobile and directed her to drive home. While driving, the girlfriend suddenly swerved the car across the median strip into the path of an oncoming car, killing the driver of the other vehicle\n\t\t\tC. A defendant, whose driver's license had been revoked one week previously, was driving on an infrequently traveled country road one night. Knowing that his car brakes were defective, the defendant was traveling at 35 m. p. h. in a zone in which the speed limit was 25 m. p. h. when a victim suddenly darted in front of his car. In an effort to avoid striking the victim, the defendant applied his brakes to no avail. The car struck and killed the victim\n\t\t\tD. One afternoon a defendant was delivering pornographic materials to various adult bookstores in the community. In this jurisdiction, the delivery of pornographic materials constituted a misdemeanor. As the defendant was on his way to a book store for his final delivery of the day, he inadvertently struck a blind man who was crossing an intersection. Six months later, the blind man died as a result of injuries suffered in the accident\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations does the best evidence rule generally not apply?\n\t\t\tA. Collateral matters\n\t\t\tB. Public records\n\t\t\tC. When it's not offered to prove the contents of the document\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "An investor sued a corporation for stock fraud. In presenting his case-in-chief, the investor sought to introduce an issue of a newspaper to show the corporation's stock price on that given day. Upon objection by the corporation's attorney, this evidence should be\n\t\t\tA. admitted, under the business records exception\n\t\t\tB. admitted, under the market reports exception\n\t\t\tC. excluded, because the newspaper copy does not fit within any established exception to the hearsay rule\n\t\t\tD. excluded, because it violates the best evidence rule\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which is the hierarchy of U.S. Law?\n\t\t\tA. Executive agreements, U.S. Constitution, treaties and federal statutes, state law\n\t\t\tB. U.S constitution, treaties and federal statutes, executive agreements, state law\n\t\t\tC. Treaties and federal statutes, US Constitution, executive agreements, state law\n\t\t\tD. U.S constitution, executive agreements, treaties and federal statutes, state law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A plaintiff sued a trucking company for injuries allegedly suffered when a speeding truck jackknifed and struck her car. Which of the following pieces of evidence, if offered by the plaintiff, is most likely to be admitted by the court?\n\t\t\tA. Testimony concerning subsequent repairs to the truck paid for by the trucking company where they have stipulated to ownership\n\t\t\tB. Color pictures of a plastic surgeon operating on the plaintiff showing the incision and bloody surgical tools\n\t\t\tC. Testimony from the plaintiff's boss concerning the amount of time she has missed work, when payroll records had already been admitted as evidence of the plaintiff's lost wages\n\t\t\tD. Testimony of a surprise witness to the accident when the court is willing to grant the trucking company a continuance to prepare for crossexamination\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations would criminal liability LEAST likely be imposed on the defendant?\n\t\t\tA. A defendant is an operator of a telephone answering service with positive knowledge that one of his clients was using his service to facilitate the illegal distribution of cocaine\n\t\t\tB. A defendant is a service station attendant who knew that the buyer of gasoline was using his product to make explosives for illegal use\n\t\t\tC. A defendant is a hotel registration clerk who knew that one of his regular guests was using her room for purposes of prostitution\n\t\t\tD. A defendant is the owner of a car that he permits a friend, whom he knows to have been drinking that night, to drive. As a consequence, the friend is involved in an accident that causes a victim's death\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "With the intent to commit a felony therein.\n\t\t\tA. Contingent remainders\n\t\t\tB. Executory interests\n\t\t\tC. Vested remainders subject to open\n\t\t\tD. Reversions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A truck driver from State A and a bus driver from State B were involved in a collision in State B that injured the truck driver. The truck driver filed a federal diversity action in State B based on negligence, seeking $100,000 in damages from the bus driver. What law of negligence should the court apply?\n\t\t\tA. The court should apply the federal common law of negligence\n\t\t\tB. The court should apply the negligence law of State A, the truck driver's state of citizenship\n\t\t\tC. The court should consider the negligence law of both State A and State B and apply the law that the court believes most appropriately governs negligence in this action\n\t\t\tD. The court should determine which state's negligence law a state court in State B would apply and apply that law in this action\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "During a run one morning, a jogger passed a convenience store. He stopped and went into the store to use the bathroom available inside the store. Which of the following would best describe the jogger's legal status in his utilization of the bathroom?\n\t\t\tA. Licensee\n\t\t\tB. Gratuitous licensee\n\t\t\tC. Public invitee\n\t\t\tD. Business visitor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "There may be a substantial time period between contract formation and final completion of performance. Concerning these executory contracts, which of the following is the least correct?\n\t\t\tA. A wholly executory contract is where only promises have been exchanged and there has been no performance by either party\n\t\t\tB. A partially executed contract means that one party has completed performance while the other party has only promised\n\t\t\tC. An executed contract exists when both parties have fully performed and no obligations remain\n\t\t\tD. A partially executed contract means that at least one party has begun performance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which situation would the defendant most likely be guilty of murder?\n\t\t\tA. As a practical joke, the defendant throws a firecracker in a crowded movie theater. A victim, who has a weak heart, becomes frightened and thinks someone is firing a gun. The victim suffers a heart attack and dies\n\t\t\tB. The defendant hates her husband after learning that he is having an affair with her best friend. She also knows that her husband owes a man a large amount of money, which he refuses to pay. Before the husband is about to leave for work, the defendant looks out the window and sees the man hiding outside with a gun. The defendant decides not to warn the husband, who then walks outside and is shot and killed by the man\n\t\t\tC. The defendant and his friend attended a party together. At the party, the friend became extremely inebriated. The friend asked the defendant if she could borrow his car to drive to the liquor store to buy more booze for the party. Although the defendant was aware of the friend's intoxicated condition, he allowed her to drive his car to the liquor store. The friend drove through a red light and collided with the victim's car. The victim was killed in the accident\n\t\t\tD. The defendant keeps a loaded gun in his house for protection. One day, the defendant leaves the gun on the kitchen table and leaves for work. That same day, a robber breaks into the defendant's home, sees the gun, and steals it. The robber then uses the gun to rob a convenience store. During the robbery, the robber shoots and kills the proprietor with the defendant's gun\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following offers for the sale of widgets is not enforceable if the seller changes his mind prior to acceptance?\n\t\t\tA. A merchant tells buyer in writing she will sell the widget for $35,000 and that the offer will be irrevocable for ten days\n\t\t\tB. A merchant writes buyer offering to sell the widget for $35,000\n\t\t\tC. A merchant telegraphs buyer offering to sell the widget for $35,000 and promises to hold the offer open for ten days\n\t\t\tD. A merchant writes buyer offering to sell the widget for $35,000 and stating that the offer will be irrevocable for ten days if buyer will pay $1.00. Buyer pays\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In the absence of a provision to the contrary in the articles of incorporation, the directors of a corporation elected for a specified term\n\t\t\tA. can be removed from office at a meeting of the shareholders, but only for cause and after an opportunity to be heard has been given to the directors\n\t\t\tB. can be removed from office at a meeting of the shareholders, with or without cause\n\t\t\tC. can be removed from office at a meeting of the shareholders, but only for cause\n\t\t\tD. can be removed from office prior to the expiration of their term only by a decree of the circuit court in an action by the shareholders\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Buyer purchases an item from a merchant that turns out to be unfit, defective and unsafe for its ordinary purposes. Assuming no other warranties, which of the following can be invoked by the buyer?\n\t\t\tA. Express warranty\n\t\t\tB. Implied warranty\n\t\t\tC. Warranty of title\n\t\t\tD. Warranty of merchantability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A buyer wants to know his rights as purchaser of goods under the U.C.C. She received a shipment of nonconforming goods from a seller with whom her she does business. Assuming the client does not want to accept and pay for nonconforming goods, which of the following is appropriate advice?\n\t\t\tA. Hold onto the goods and make the best of them because a business cannot reject goods already approved by a written agreement signed by both parties\n\t\t\tB. Try the goods out for several months; if they are not going to be satisfactory, then ship them back to the seller who must provide a refund\n\t\t\tC. Notify the buyer of the nonconformity and demand a refund while holding onto the nonconforming goods as long as possible\n\t\t\tD. Identify and document the nonconformity, then send the goods back right away\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A contractor and home owner were bargaining on the price for the construction of a new home. The contractor made a number of offers for construction to the home owner including one for $100,000. Which of the following communications would not terminate the offer so that a subsequent acceptance could be effective\n\t\t\tA. The home owner asks the contractor if they would be willing to build the house for $95,000\n\t\t\tB. The contractor contacts the home owner and states that the offer is withdrawn\n\t\t\tC. The contractor dies before the home owner accepts but the contractor's son intends to continue the business\n\t\t\tD. The home owner states \"I accept your offer but the price is to be $97,000.\"\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations is the defendant's conduct most likely to make him criminally responsible for the victim's death?\n\t\t\tA. A defendant shot a victim in the head. The victim was then taken to a hospital for treatment of the wound. An earthquake later struck the city, causing the hospital to collapse. The victim was crushed to death in the rubble\n\t\t\tB. A defendant and a victim lived in the same apartment building. The defendant knew that the victim was having a love affair with a married woman. One day, the defendant learned that the victim was to be murdered by the married woman's husband. Although the defendant had ample time to warn the victim, he failed to do so. That night, the victim was stabbed to death by the husband\n\t\t\tC. A victim, who was a gambler, was heavily in debt to the mob. The defendant, who was a mob enforcer, threatened to kill the victim if he didn't pay up. Frightened, the victim boarded the next airplane flight out of town. The airplane crashed, and the victim was killed\n\t\t\tD. A defendant and a victim were driving to work together when the defendant, without provocation, stabbed the victim in the arm. The defendant then pushed him out of the car. The victim fell along the side of the street and fractured his ankle. Unable to move from the roadway, the victim was fatally crushed a half-hour later by a car driven by a drunk driver\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Under common law principles, which of the following is not correct regarding the duty owed by a possessor of land towards an undiscovered trespasser?\n\t\t\tA. No duty for artificial conditions\n\t\t\tB. A duty for natural conditions\n\t\t\tC. No duty for natural conditions\n\t\t\tD. No duty for active operations\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following powers standing alone cannot support federal law?\n\t\t\tA. taxing power\n\t\t\tB. spending power\n\t\t\tC. necessary and proper power\n\t\t\tD. commerce power\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Client thinks she has been slandered. What of the following is not true about slander?\n\t\t\tA. It is spoken defamation\n\t\t\tB. Plaintiff has to prove special damages, unless it falls into slander per se\n\t\t\tC. The statement does not have to be published if it constitutes slander per se\n\t\t\tD. There are four slander per se categories\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Fernandez is planning to attend an auction of the assets of Cross & Black, one of his major competitors who is liquidating. In the conduct of the auction, which of the following rules applies?\n\t\t\tA. Such a sale is without reserve unless the goods are explicitly put up with reserve\n\t\t\tB. A bidder may retract his bid at any time until the falling of the hammer\n\t\t\tC. The retraction of a bid by a bidder revives the previous bid\n\t\t\tD. If the auction is without reserve, the auctioneer can withdraw the article at any time prior to the fall of the hammer\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A criminal actor committed the crime of solicitation. Which of the following does not apply to solicitation?\n\t\t\tA. It is an agreement between two or more to commit a crime\n\t\t\tB. It is solicitation of another to commit a felony\n\t\t\tC. No act is needed other than the solicitation\n\t\t\tD. Withdrawal is generally not a defense\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "If a regulation does amount to a taking, then what must the government do?\n\t\t\tA. Pay just compensation for the property\n\t\t\tB. Terminate the regulation and pay damages that occurred while regulation was in effect\n\t\t\tC. Pay double damages if not addressed in 30 days\n\t\t\tD. a or b\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "As part of his defense to a murder charge, a defendant offered testimony that he was committing a bank robbery in another state on the day that the victim was killed. The testimony is\n\t\t\tA. admissible as not hearsay\n\t\t\tB. admissible as an admission\n\t\t\tC. admissible as a declaration against interest\n\t\t\tD. admissible as then-existing state of mind\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "The most likely contract to be classified under the Uniform Commercial Code (UCC) is a contract for\n\t\t\tA. A common carrier delivering a new computer\n\t\t\tB. Crops and timber to be severed from the property next summer\n\t\t\tC. The purchase of a commercial property building\n\t\t\tD. The sale of an intangible asset\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations would the defendant not be guilty of homicide?\n\t\t\tA. A defendant came into a bar looking for a fight. He walked up to a victim, tapped him on the shoulder and said, \"You bother me. Get out of here. \" The victim ignored him, and the defendant proceeded to punch the victim in the face and stab him in the arm with a knife. The victim thereupon took out a knife that had been concealed in his pocket and stabbed the defendant in the right arm. The defendant, fearful that the victim would stab him in the heart, took out a gun and shot the victim to death\n\t\t\tB. A defendant was home in bed with a fever one night, and all the lights in his house were off. A victim, who was scouting the neighborhood that night for a house to burglarize, broke into the defendant's house through the basement window and went upstairs to the bedrooms to look for jewelry. The defendant, who was not aware that someone else was in the house, was startled when he saw the victim walk past his room toward the stairs leading to the outside doorway. The defendant pulled out a pistol from under his pillow when he saw the victim and shot him to death\n\t\t\tC. A defendant started a joke about the victim's brother. When word got to the victim about the defendant's joke, the victim became incensed. He rushed to the defendant's home, broke open the door and found the defendant preparing dinner in the kitchen. He immediately said, \"I'm going to kill you. \" The defendant knew that the victim had been convicted of attempted murder several years ago, and he cringed when the victim took out a gun and pointed it at him. The defendant could have easily darted for the open front door and evaded the victim but, instead, he suddenly pulled a knife from the kitchen wall, lunged at the victim, and stabbed him to death. Unknown to the defendant, the victim's gun was not loaded\n\t\t\tD. A defendant was a reporter for a newspaper and was sent on assignment to another state to cover the story of a mining disaster. He was sitting in his hotel room one evening, trying to get a message to his editor, when a victim knocked at the door. The defendant opened the door, and the victim announced a robbery. The defendant took a lamp from the night table and threw it at the victim. The victim was momentarily stunned, and the defendant then pulled a gun out of his own suitcase and shot the victim to death\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "On January 1, an employee is hired to work for an employer for one year at a weekly salary of $500. After six months the employee is fired. In determining what rights the employee has against the employer, the agreement between the employer and the employee may best be interpreted as\n\t\t\tA. an entire contract\n\t\t\tB. a divisible contract\n\t\t\tC. an installment contract\n\t\t\tD. neither divisible nor entire\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations is the defendant most likely to be found guilty of manslaughter rather than murder?\n\t\t\tA. Not intending to kill, a defendant hits a person over the head with a pipe. As a result, the person dies from head injuries\n\t\t\tB. Not intending to kill, a defendant throws a large chunk of ice off an overpass onto a busy freeway below. The chunk of ice crashes through a windshield, killing a driver\n\t\t\tC. Not intending to kill, a defendant kidnaps a victim and takes her to a remote area of the desert. The defendant then drives off, leaving victim alone in the sweltering heat after the ransom is not paid. The next day, the victim dies from exposure because she is unable to reach the nearest town eight miles away\n\t\t\tD. Not intending to kill, a defendant punches a victim in the face, causing the victim to fall backwards and strike his head on a curb, killing him\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "If there is a conflict between a congressional act and a valid treaty, how is it resolved?\n\t\t\tA. The congressional act always prevails\n\t\t\tB. The valid treaty always prevails\n\t\t\tC. The last in time prevails\n\t\t\tD. The president decides\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Mary, a wealthy St. Petersburg widow, executed her first and only will on May 15, 1990 and died on August 18, 1990. Her will provided that her estate be divided equally between her only child, Joan, and the Salvation Army of Largo. How will Mary's estate actually be distributed?\n\t\t\tA. 100% to Joan\n\t\t\tB. 100% to Joan if she files a timely petition requesting that the devise to the Salvation Army be avoided\n\t\t\tC. 50% to Joan and 50% to the Salvation Army\n\t\t\tD. 50% to Joan and the income from the remaining 50% to Joan for life, remainder to the Salvation Army, if Joan files a timely petition protesting the devise to the Salvation Army\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "During a federal grand jury investigation into money laundering, a man's business and tax records were subpoenaed by the government. The man invokes his Fifth Amendment privilege against self- incrimination to prevent production of the records in his possession. The court would most likely\n\t\t\tA. compel production of the records, because the Fifth Amendment is inapplicable\n\t\t\tB. order a preliminary hearing to determine if the man has grounds to invoke the Fifth Amendment\n\t\t\tC. permit the man to exercise his Fifth Amendment privilege, since such records may have the same incriminating effect as testimony\n\t\t\tD. admit the records under the business records exception to the hearsay rule\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Under which of the following situations would the defendant not be guilty of the attempted crime at common law?\n\t\t\tA. A defendant wanted to receive the proceeds from her insurance policy on her home. After a careful examination of her policy, she decided that the best way for her to collect would be to stage a cooking accident in her own home and have the structure bum down. She decided that bacon would be the best way to do it because all of the extra grease in the pan could easily catch on fire. After cooking the bacon, the defendant left the flame on and left her home. Unbeknownst to the defendant, she left the window open and a breeze blew out the pilot. When the defendant returned home, she found that there was no fire. She was arrested and charged with attempted arson\n\t\t\tB. A defendant was dancing with his girlfriend at a local club when she collapsed in his arms. The defendant then carried his girlfriend to his car and engaged in sexual intercourse with her. Although the defendant believed that his girlfriend was intoxicated, she had, in fact, died of a heart attack while dancing. The defendant is charged with attempted rape\n\t\t\tC. After a preliminary examination, a defendant informed a patient that she was two months pregnant. Although the defendant knew that abortions were illegal in this jurisdiction, he agreed to perform an abortion on the patient, anyway. During the operation, it was discovered that the patient was not pregnant. The defendant is charged with attempt to perform an illegal abortion\n\t\t\tD. A defendant called his friend to obtain some marijuana. The friend told the defendant that he had some for sale. Believing that his friend had some high-quality marijuana, the defendant purchased an ounce of the substance, which he did not know was actually oregano. While the defendant was smoking the oregano on the street corner, a police officer arrested him and charged him with attempted illegal use of a controlled substance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Justin's estate sues Polly for wrongful death. The estate calls Officer Friendly as a witness who interviewed Polly right after the event. Officer will testify that Polly said, \"Oops, I was cleaning my pistol and it went off and shot Justin. I sure was negligent!\" Is Officer's testimony admissible?\n\t\t\tA. Yes, statement against interest\n\t\t\tB. No, hearsay without an exception\n\t\t\tC. Yes, admission by party\n\t\t\tD. No, opinion on an ultimate issue that must be left for the jury\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations would the defendant most likely be found NOT GUILTY of robbery?\n\t\t\tA. In a dark alley, a defendant approached the victim and said, \"Give me the gold ring on your finger or I'll shoot you with this gun. \" The victim gave him the ring. However, the ring really belonged to someone else, as the victim was just borrowing it for the evening to impress his girlfriend. In addition, the gun that the defendant had in his possession was really a water pistol\n\t\t\tB. A defendant broke into a house and took a stereo system. After he had placed the system in his car and was about to leave, the homeowner came home and saw him. She raced to the car and started to hit the defendant through the open window in an attempt to get her stereo back. The defendant punched her in the nose and drove away with the system\n\t\t\tC. A defendant was walking behind a shopper in a mall when he suddenly reached for her gold chain, pulled it from her neck, and ran away into the crowd. The shopper suffered a slight cut on her neck where the chain broke\n\t\t\tD. A defendant picked the lock on an apartment door. The noise startled the tenant, who had been sleeping. The defendant overpowered the tenant, tied him up, and forced him to disclose where he kept his money. The tenant told the defendant to look in the kitchen cabinet, which he did. The defendant found $120 in cash, took the money, and left the apartment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Buyer is purchasing a bicycle based on the salesperson's understanding of buyer's goals and seller's knowledge. What kind of warranty might this be considered?\n\t\t\tA. Warranty of Fitness for Particular Purpose\n\t\t\tB. Warranty of Merchantability\n\t\t\tC. Express\n\t\t\tD. Implied\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A defendant is on trial for kidnapping. The victim has testified that one of the kidnappers referred to the other as \"Speed.\" The prosecutor calls a jail employee to testify that, while the defendant was in jail awaiting trial, other inmates addressed the defendant as \"Speed.\" Is the jail employee's testimony admissible?\n\t\t\tA. No, because it is hearsay not within any exception. exception\n\t\t\tB. No, because it is substantially more prejudicial than probative\n\t\t\tC. Yes, as circumstantial evidence that the defendant was one of the kidnappers\n\t\t\tD. Yes, to corroborate the truthfulness of the victim\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A used car dealer needs to disclaim any implied warranty of merchantability. Which of the following is not considered an effective way of making a full disclaimer of the implied warranty?\n\t\t\tA. By stating in the contract that there is no \"implied warranty of merchantability\n\t\t\tB. By stating in writing that the vehicle is sold \"as is.\"\n\t\t\tC. By setting forth an express disclaimer that is clear, on the point, and conspicuous\n\t\t\tD. By limiting the amount to the value of the vehicle sold\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "What kind of damages put the nonbreaching party into as good a position as if the other party had fully performed?\n\t\t\tA. Nominal\n\t\t\tB. Punitive\n\t\t\tC. Rescission\n\t\t\tD. Compensatory\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Seller has a contract that specifies a delivery point. What kind of a contract is this?\n\t\t\tA. F.A.S. Contract\n\t\t\tB. Destination contract\n\t\t\tC. Shipment contract\n\t\t\tD. F.O.B. Contract\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Congress, under intense lobbying pressure has enacted a statute prohibiting the sale of contraceptive devices to married persons. The act further prohibits the use of contraceptive devices by married persons. Congress claimed that the statute was passed because it might help deter illicit sexual relationships. The law is most likely\n\t\t\tA. constitutional, because it is a regulation of interstate commerce\n\t\t\tB. constitutional, because it is a measure promoting the general welfare\n\t\t\tC. unconstitutional, because the law deprives the manufacturers of contraceptives of their property interest without just compensation\n\t\t\tD. unconstitutional, because it violates the right of privacy of contraceptive users\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Congress enacts a $100 tax on the sale of any handgun to a private individual not for use in law enforcement or military duties. Will this new handgun tax survive a constitutional challenge?\n\t\t\tA. Yes, if Congress could have banned possession of handguns outright\n\t\t\tB. Yes, if the dominant intent of Congress was that the tax would produce revenue\n\t\t\tC. No, if the tax does not result in a significant collection of revenue\n\t\t\tD. No, because the tax is clearly intended as a penalty on handgun ownership\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Jack and Jill began to negotiate for the transfer of a business. Their negotiations continued for some time. J ack is asserting that Jill made an offer and promise which he accepted with a return promise. Jill asserts that the agreement was not what she intended. In determining whether a contract has been created, the courts look primarily at\n\t\t\tA. The fairness to the parties\n\t\t\tB. The objective intent of the parties\n\t\t\tC. The subjective intent of the parties\n\t\t\tD. The subjective intent of the offeror\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which one of the following situations would the defendant most likely be found guilty of felony murder?\n\t\t\tA. A baseball fan traveled all night to the stadium, planning to purchase tickets from a scalper at the stadium. However, the fan arrived at the stadium after the game had started, and no tickets were available. He proceeded to sneak around the guard at the entrance gate and illegally entered the stadium. He watched the remainder of the game in the standing room only section. The fan became so enraged when the opposition took the lead in the ninth inning that he pulled out a gun from under his jacket and aimed it at the section of spectators in front of him. Before he could be subdued he had fired three shots, killing one person and severely injuring another\n\t\t\tB. A customer was in a bank filling out a deposit slip when a robber entered. The robber went to the teller's window and quietly slipped a note to the teller, demanding everything in the cash drawer. The customer, who was unaware of the robbery taking place, went to the adjoining teller's window and made his deposit. Upon obtaining his receipt, the customer suddenly collapsed and died of a heart attack. When the robber saw this, he panicked and left the bank before the teller could comply with his demand\n\t\t\tC. Two men planned to rob a luncheonette during the noontime rush. At 12:30 p. m. , as planned, one of the men entered the luncheonette and pointed a gun at the cashier, who handed over the money. The man left to meet the other man outside as he was standing guard as a lookout. As soon as the man ran out of the door, a police officer tried to grab him. The man evaded the officer for a brief moment. Thinking that the other man had double-crossed him and informed the police of their plans, he fatally shot the other man\n\t\t\tD. A man and a woman had been feuding for years. In order to show him a thing or two, the woman decided to set fire to the man's house. Before dawn one morning, the woman went to the man's house and lit a match to gasoline she had poured at the man's front door. The house caught fire and quickly spread to the man's bedroom, where the man was able to leap out of the window without injury. A police officer who was driving by saw the woman running away one block from the man's house. The police officer pulled his car up to the woman to determine if she was involved in setting the fire. Upon seeing the officer, the woman starts to flee the scene. As she is running away, the woman pulled out a revolver and started shooting indiscriminately behind her. The police officer was struck by one of the shots and was killed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A defendant charged with first-degree murder shall be furnished with a list containing names and addresses of all prospective jurors\n\t\t\tA. upon court order\n\t\t\tB. upon request\n\t\t\tC. upon request and showing of good cause\n\t\t\tD. under no circumstances\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "An owner of an adult bookstore was angry that a city ordinance had been passed requiring that all \"adult\" establishments be located in areas zoned industrial. This owner was located in a tourist area downtown and was very profitable. Claiming his First Amendment rights were being violated, he filed suit in court. The court will likely find for:\n\t\t\tA. The owner, as his First Amendment rights were indeed breached\n\t\t\tB. The city, because they have a right to regulate offensive activities\n\t\t\tC. The city, because it does not unreasonably limit alternative avenues of communication\n\t\t\tD. The owner, as it is a legitimate business\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Defendant was convicted of armed robbery. On appeal, Defendant moves for a new trial, claiming that his Sixth Amendment rights were violated because he received ineffective assistance of counsel at trial. Which of the following facts, if proven, would provide the best grounds to substantiate Defendant's ineffectiveness of counsel claim?\n\t\t\tA. The trial attorney lied to Defendant about her criminal trial experience\n\t\t\tB. The trial attorney failed to interview an alibi witness\n\t\t\tC. The trial attorney did not consult Defendant about her trial strategy\n\t\t\tD. The trial attorney did not believe in Defendant's innocence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A state enacts a statute that prohibits \"anyone over60 years of age to run for public office. \" A state senator has been in office for three terms and wishes to seek re-election. The senator, who is 61, brings suit challenging the constitutionality of the state statute. Which of the following best states the burden of persuasion?\n\t\t\tA. Since a fundamental right is involved, the state must show the regulation is necessary to vindicate a compelling government interest\n\t\t\tB. Since no fundamental right is involved, the petitioner must show the age restriction is not rationally related to a legitimate government interest\n\t\t\tC. The state must show the age regulation substantially furthers an important government objective and does not impair the fundamental right to vote\n\t\t\tD. The petitioner must show the statute violates due process by depriving her of the right to be a candidate\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following is not within the power of a federal subpoena to command a person to do at a specified time and place?\n\t\t\tA. Submit to a physical or mental examination\n\t\t\tB. Attend and testify as to persons and/or events related to a cause of action\n\t\t\tC. Produce designated documents, electronically stored information, or tangible things in that person's possession, custody, or control\n\t\t\tD. Permit the inspection of premises\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A witness is scheduled to testify in a criminal case. To prove that he was a juvenile on a given date, evidence is offered that on that date he was confined in a juvenile detention facility. If a party wished to argue that this evidence is hearsay, whom would he point to as the hearsay declarant?\n\t\t\tA. The witness on the stand\n\t\t\tB. The party offering the evidence\n\t\t\tC. The juvenile authorities\n\t\t\tD. The witness\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Termination of a parent's custody rights and also termination of welfare benefits both require what type of process?\n\t\t\tA. Prior notice and prior evidentiary hearing\n\t\t\tB. Prior notice and opportunity to respond\n\t\t\tC. Prior screening by neutral fact finder\n\t\t\tD. Prior screening and subsequent evidentiary hearing\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "There is a grand jury proceeding underway for a local businessman. What is not true about grand jury proceedings?\n\t\t\tA. The proceedings are conducted in secret\n\t\t\tB. There is no right to counsel\n\t\t\tC. There is a right to Miranda warnings\n\t\t\tD. There is no right to have evidence excluded\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which statement best describes the profit sharing relationship of a general partnership where the partners have agreed only on voting percentage and the voting shares are unequal?\n\t\t\tA. Partners share in proportion to their contributions to the capital and assets of the partnership\n\t\t\tB. Partners share in proportion to their voting percentage\n\t\t\tC. Partners share equally\n\t\t\tD. Partners cannot share until they unanimously agree upon a distribution\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Where a client accepts the services of an attorney without an agreement concerning the amount of the fee, there is\n\t\t\tA. An implied-in-fact contract\n\t\t\tB. An implied-in-law contract\n\t\t\tC. An express contract\n\t\t\tD. No contract\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "James makes a written offer to Fred for the sale of land for $100,000. In this offer, James states, \"This offer will not be revocable for a ten-day period of time.\"\u009d The offer was signed on April 1, mailed to Fred on April 3 and received by Fred on April 5th. Which of the following is true?\n\t\t\tA. Fred's unqualified acceptance on April 10 will not create a contract\n\t\t\tB. Fred's acceptance on April 5 will not create a contract if James dies on April 4\n\t\t\tC. Fred stating on April 5, \"I accept your offer, but will pay only $90,000\" creates a contract\n\t\t\tD. Fred's unqualified acceptance on April 15 will not create a contract\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of the following situations will the defendant's defense of necessity most likely exculpate him of criminal liability?\n\t\t\tA. A defendant was marooned on a desert island, along with a victim and another sailor after their boat capsized during a violent storm at sea. The three sailors had gone without food for two weeks and were on the verge of dying of starvation. Each of the sailors, however, still had a small amount of water left in their canteens with which to subsist. One night, the defendant took the water from the victim's canteen and poured it into his own canteen while the victim slept. The defendant did this in the hope that the extra water would make it possible for him to live a couple of more days so that he would be able to walk across the island to look for help. The next day, the victim died from starvation and dehydration. Two days later, the defendant and the other sailor were rescued. The defendant never walked across the island because he was too weak from body weight loss\n\t\t\tB. A defendant and a victim were on a hiking expedition together. They were longtime hiking buddies who had climbed many steep and precipitous mountains in the past. As the defendant and the victim were climbing a dangerously steep incline, their ropes suddenly became entangled. As a result of the entanglement, the victim fell 50 feet before he was able to regain his balance and footing. However, the victim's fall caused the defendant to lose his balance, and he was in jeopardy of falling off the mountain. In order to avoid falling, the defendant cut the safety rope that held the victim. This caused the victim to fall 400 feet to his death\n\t\t\tC. A defendant, who was intoxicated, was driving his car home along a heavily traveled highway. In his inebriated condition, the defendant was swerving his vehicle across the highway. Suddenly, a school bus loaded with children made a wrong turn and headed directly into the path of the defendant's auto. In order to avoid crashing head-on with the school bus, the defendant turned his vehicle onto the sidewalk and struck a victim, a paraplegic, who was confined to a wheelchair. The defendant's auto crushed the victim to death\n\t\t\tD. A defendant, a bank teller, was on duty when two robbers held up the bank. She was taken hostage and ordered to drive their getaway car. As they were being pursued by the police, the defendant was commanded to drive excessively fast to avoid being captured. While driving at a speed of nearly 100 M. P. H. , the defendant approached a busy intersection and saw the victim, a blind person, with a guide dog walking across the street. She slowed down to avoid hitting the pedestrian with the dog. As she did so, one of the robbers stuck a gun against her head and threatened to kill her if she didn't speed through the intersection. Afraid she would be murdered, the defendant accelerated into the path of the victim, killing him and his guide dog\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In order to establish the unavailability of a witness at trial\n\t\t\tA. it is sufficient to show that the witness is not presently in court\n\t\t\tB. it is necessary to show that he has died\n\t\t\tC. it is necessary to show that every reasonable effort has been made to procure his attendance\n\t\t\tD. if living, it is necessary to show that he is insane\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "In which of these situations are the communications set forth privileged?\n\t\t\tA. An attorney was a member of a seven-attorney law firm. On a busy day, three of his partners had clients waiting to see them, and all of the chairs in the office waiting room were filled. A woman had an appointment with the attorney, and the attorney came out to greet her in the crowded waiting room. As the woman saw the attorney she said, \"Am I glad to see you! I need a will made up right away, because I don't want my rotten son to get any of my money. He will just throw it away at the race track. \" The attorney replied, \"Let's go back to my office to discuss this matter. \" The attorney prepared a will for the woman\n\t\t\tB. A woman arrived at a law office for an appointment and was escorted to her attorney's office. She sat down and said to the attorney, \"You know, I pay you a large retainer every year for your valued counsel. I need some advice now. There was a fire in my house yesterday. It was minor, but I'm covered for $15,000 under my fire insurance policy. I didn't have any furniture in the room where the fire took place, but I want to put in a claim for a sofa and love seat. How should I go about it?\" The attorney refused to give her any advice\n\t\t\tC. A woman engaged an attorney to represent her in adoption proceedings. During the course of his representation, she told the attorney some very personal facts about her lifestyle that the attorney needed in order to prepare a petition for adoption. The adoption took place, but the woman never paid her agreed fee to the attorney. The attorney sued the woman to collect his fee\n\t\t\tD. A woman consulted an attorney regarding a sale of 70% of the stock of a closely held corporation in which the woman was the majority shareholder. She explained the reason for the sale and divulged the financial condition of the corporation and its prospects for the future. The attorney determined that the transaction would be complicated. Since he felt he was inexperienced in handling such a transaction, the attorney decided to decline to represent the woman. The woman nevertheless sold her stock with the assistance of another attorney\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A newspaper published a story about a U. S. senator having close ties to people suspected of being involved in organized crime. The senator claimed that the allegations in the newspaper story were false, and he brought a defamation action against the newspaper. Which of the following is the most accurate statement with regard to the newspaper's liability?\n\t\t\tA. A qualified privilege of fair comment existed because the newspaper was reporting on a matter of public interest\n\t\t\tB. Because the senator is a public figure, he has the burden of proof to show malice on the part of the newspaper\n\t\t\tC. The newspaper would not be liable because, under the First Amendment's freedom of the press, the newspaper was privileged to publish the story\n\t\t\tD. The newspaper would be relieved of any liability for defamation because an absolute privilege existed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Third-year student is studying contracts. He has learned that generally all contractual rights may be assigned, but there are some exceptions. Which of the following is not an exception?\n\t\t\tA. An assignment that continues the obligor's duty or risk\n\t\t\tB. An assignment not allowed by law\n\t\t\tC. An assignment of future rights from future contracts\n\t\t\tD. An assignment that substantially changes obligor's duty or risk\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Under which one of the following situations would the defendant(s) most likely be found guilty of larceny?\n\t\t\tA. A customer took his watch to a jeweler for repairs. The defendant inspected the watch and informed the customer that the watch needed a minor adjustment, which he would perform that afternoon. The customer gave the watch to the defendant and told him that he would return the following day to pick it up. As the defendant was repairing the watch, he discovered that it was an extremely valuable antique. He then substituted a less-expensive look-alike for the watch, which the customer picked up the next day\n\t\t\tB. As two defendants were walking down the street, they noticed a victim park his metallic gold sports car and enter the pool hail. When they approached the car, one of the defendants observed that the victim had left the keys in the ignition. Knowing that the victim would be hustling pool all evening, the defendants hopped into the sports car and drove off, intending to return the car later that evening\n\t\t\tC. During a craps game in the back room of a bar, the defendant lost $150 to the victim. The defendant left the bar after losing his money and returned an hour later with a gun in his possession. Honestly believing that the $150 still belonged to him, the defendant confronted the victim in the back room and demanded the return of his money. Frightened, the victim handed the money back to the defendant\n\t\t\tD. One afternoon, the defendant noticed the victim riding his racing bike in the park. The defendant, who always wanted to own a racing bike, saw his opportunity when the victim left his bike unattended to participate in a touch football game. The defendant jumped on the bike and quickly rode away. Later that evening, the defendant called the victim and demanded $200 for the return of the bike. The victim agreed to the defendant's demand. The following day, the victim paid the defendant the money, and the defendant, in turn, returned the bike\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A seat in a movie theater collapsed, causing the customer sitting in that seat to fall to the ground and suffer a back injury. In a personal injury action by the customer against the theater, the customer will most likely\n\t\t\tA. recover, because the theater was under an absolute duty of care to make the premises safe for the protection of its customers\n\t\t\tB. recover, only if the theater had prior knowledge of the dangerous condition of the seat\n\t\t\tC. not recover, because the theater was under no obligation to inspect the premises to discover unknown dangers\n\t\t\tD. not recover, unless the theater failed to make a reasonable inspection of the seats for the safety of its customers\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A man is charged with murder. During the trial, defense counsel offers the testimony of a man on death row admitting he hired another man to shoot the victim. The testimony is\n\t\t\tA. not hearsay\n\t\t\tB. hearsay, but admissible as an admission\n\t\t\tC. hearsay, but admissible as a dying declaration\n\t\t\tD. hearsay not within any recognized exception\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Seller says a circumstance has occurred that makes performing a sales contract impractical. Which of the following is not correct about discharge for impracticability?\n\t\t\tA. The problem must not have been caused by the fault of the party seeking to invoke the defense\n\t\t\tB. A price increase is sufficient for discharge\n\t\t\tC. The failure to excuse performance would result in grave injustice\n\t\t\tD. The impracticality must go to a basic assumption on which the contract was made\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A man was arrested and convicted of publishing paid newspaper advertisements giving information on how to get an abortion in another state and how to find a referral service. A criminal statute made it a crime to disseminate such information. Will the courts uphold the conviction?\n\t\t\tA. No, the statute violates the sixth amendment right to privacy\n\t\t\tB. No, the statute violates the First Amendment right to publish protected commercial speech\n\t\t\tC. Yes, the right to an abortion does not include the right to publicize where to get one\n\t\t\tD. Yes, there is no right to publish or disseminate speech that is commercial in nature\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "The President may appoint which of the following with the advice and consent of the Senate?\n\t\t\tA. Ambassadors\n\t\t\tB. public ministers and consuls\n\t\t\tC. justices of the Supreme Court\n\t\t\tD. all of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following types of regulations would not be reviewed under the strict scrutiny standard of review?\n\t\t\tA. Gender\n\t\t\tB. Interstate travel\n\t\t\tC. Privacy\n\t\t\tD. Alienage\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Neighbor says his home repair contract needs to be discharged because of frustration of purpose. Which of the following is not required for this to be discharged for this reason?\n\t\t\tA. A supervening event\n\t\t\tB. That was reasonably foreseeable at time of contract formation\n\t\t\tC. Which completely or almost completely destroys the purpose of the contract\n\t\t\tD. The purpose of the contract was understood by both parties\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "For which of the following preliminary questions of fact will the trial court judge, not the jury, determine admissibility?\n\t\t\tA. Whether the voice on a sound recording is that of the defendant\n\t\t\tB. Whether defendant's copy of a document accurately reflects the contents of the original writing\n\t\t\tC. Whether a conspiracy existed and defendant and declarant were members of the conspiracy before admitting an alleged declaration by a co-conspirator\n\t\t\tD. A plaintiff sues on a lost writing, and the defendant contends that it was not lost because it never existed. The question to be decided is whether the original writing ever existed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A wife and husband are married and own a dairy as tenants by the entirety. If the wife transfers her interest in the dairy by quitclaim deed to her aunt without the husband's knowledge, what interest, if any, does the aunt have?\n\t\t\tA. No interest\n\t\t\tB. An undivided one-half interest with right of survivorship\n\t\t\tC. An undivided one-half interest without right of survivorship\n\t\t\tD. A lien against the entire property\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Defendant is on trial. Which of the following, if occurs, would NOT cause a due process violation in the trial?\n\t\t\tA. The trial is conducted in a way that jurors would not be able to give evidence reasonable consideration\n\t\t\tB. The defendant is compelled to stand trial in street clothing\n\t\t\tC. The defendant is compelled to stand trial or appear at penalty phase proceedings visibly shackled (unless there are security concerns)\n\t\t\tD. Jurors are exposed to influence favorable to the prosecution\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "During a paternity trial, the mother's attorney asks to have the baby girl, now 36 months old, exhibited for the purpose of calling attention to certain facial resemblances between the child and the reputed father. The defendant's attorney objects to the offering of the baby into evidence for comparison. The trial judge should\n\t\t\tA. permit the child to be exhibited as a non-objectionable form of demonstrative evidence\n\t\t\tB. not permit the child to be exhibited, because such an exhibition would be highly prejudicial to the defendant\n\t\t\tC. permit the child to be exhibited as within the hearsay exception of pedigree\n\t\t\tD. not permit the child to be exhibited, because such an exhibition would be self-serving to the complainant\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Client has an estate that reads \"To A on condition that if drugs are ever used on premises, B shall have the right to reenter and retake the premises.\" What is NOT true about this kind of estate?\n\t\t\tA. It is a fee simple determinable, and title ends automatically if drugs are used\n\t\t\tB. It is a fee simple subject to condition subsequent, which requires a reentry first before title can end\n\t\t\tC. Estate does not revert automatically\n\t\t\tD. Grantor must exercise right of reentry\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Max entered a mini-mart store, pulled out a gun, and demanded that the cashier empty the register. As he nervously looked around for police, the cashier reached out and attempted to grab the gun. Max then droped the gun, which accidentally discharged, killing a nearby customer. Max is charged with first degree murder. He will likely be\n\t\t\tA. Acquitted, because he lacked the necessary intent required for first degree murder\n\t\t\tB. Acquitted, because the cashier's actions were the proximate cause of the death\n\t\t\tC. Convicted, because any death that is a natural and probable consequence of a felony is first degree murder\n\t\t\tD. Convicted, because intent to commit serious bodily harm is assumed when a deadly weapon is used\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following is a legislative act that inflicts punishment without a trial?\n\t\t\tA. Bill of attainder\n\t\t\tB. Ex post facto law\n\t\t\tC. Statutes\n\t\t\tD. Ordinances\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A newly elected mayor was charged with tax fraud. The prosecutor served a trial subpoena directing the mayor's attorney to produce private bank records that the mayor delivered to the attorney. The attorney refused the request. The prosecutor in a hearing then sought to compel compliance with the subpoena. The court should\n\t\t\tA. compel production, because it would not violate the attorney-client privilege\n\t\t\tB. compel production, because there is no element of confidentiality\n\t\t\tC. not compel production, because it would violate the mayor's privilege against self- incrimination\n\t\t\tD. not compel production, because it would violate the attorney-client privilege\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Jan sues the Chicago Times for defamation in a Florida circuit court. At trial, Jan wishes to offer into evidence a copy of the edition of the Times containing the allegedly libelous article. Before the newspaper may be admitted, Jan must\n\t\t\tA. call as a witness an employee of the Times to testify that the proffered newspaper was in fact published by the Times\n\t\t\tB. have a certification affixed to the newspaper signed by an employee of the Times attesting to its authenticity\n\t\t\tC. establish that the newspaper has been properly certified under the law of the jurisdiction where the newspaper was published\n\t\t\tD. do nothing because the newspaper is self-authenticating\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which of the following executive orders will most likely be found unconstitutional?\n\t\t\tA. The President issued an executive order requiring all executive branch employees to use exclusively one brand of ballpoint pens and pencils as their writing utensils. According to a study, the federal government could save in excess of $250,000 a year in office supply costs if all executive agencies were to use standardized pens and pencils\n\t\t\tB. The President issued an executive order requiring all executive branch employees to wear only white shirts and blouses during regular working hours. According to the President's directive, executive employees are prohibited from wearing colored (e. g. , blue or yellow) or striped shirts and blouses while on duty. The President issued the order in an effort to establish a uniform dress code for all executive employees\n\t\t\tC. In 1887, Congress passed a law establishing a federal Commission of Birdwatchers. The Commission, which is still in effect, consists of seven members who are appointed by the President. The Commission's main function is to go on periodic retreats to photograph and study North American birds and their migratory habits. Believing that the Commission is archaic, the President decides that any future funding will simply be a waste of money. He thus executes an executive decree abrogating the Commission of Birdwatchers\n\t\t\tD. A devastating hurricane damages an island which is part of a foreign country. The storm destroys many homes, resulting in death and injury to thousands. In response to a request from the foreign government for emergency aid, the President, without seeking the advice and consent of the Senate, issues an executive decree authorizing U. S. Army troops to the island to provide medical and humanitarian assistance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A husband is charged with murder in the shooting death of his brother-in-law. In the jurisdiction in which the husband is on trial for murder, the defense of insanity is an affirmative defense. The husband pleads insanity as his defense. At trial, in order to prove his defense of insanity, the husband has\n\t\t\tA. the burden of production\n\t\t\tB. the burden of persuasion only\n\t\t\tC. both the burden of production and the burden of persuasion\n\t\t\tD. neither the burden of production nor the burden of persuasion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "What is not true about conversion?\n\t\t\tA. It is an interference with another's right of possession so severe as to warrant defendant to pay full price of chattel\n\t\t\tB. The intent is to do the act that brings about the interference\n\t\t\tC. The remedy is recovery of actual damages from harm to chattel or loss of use\n\t\t\tD. Remedy is damage award of fair market value of chattel\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "A man is on trial for securities fraud. He takes the stand to testify in his own behalf. On direct examination, the man's attorney proffers evidence of his good character. Upon objection by the prosecution, which of the following statements is correct?\n\t\t\tA. The defendant may introduce evidence to show truthfulness\n\t\t\tB. The defendant may introduce evidence to show honesty\n\t\t\tC. The defendant may not introduce evidence to show honesty because character evidence is inadmissible\n\t\t\tD. The defendant may not introduce evidence of truthfulness unless it is inquired into on cross- examination\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "After the close of the pleadings both plaintiff and defendant duly made motions for summary judgment. Which of the following statements is correct?\n\t\t\tA. Summary judgment can be entered only after all discovery has been completed\n\t\t\tB. Motion for summary judgment is the proper motion on the ground that plaintiff's complaint fails to state a cause of action\n\t\t\tC. Since both parties have filed summary judgment motions that assert there are no genuine issues of material fact, summary judgment for plaintiff or defendant will be granted\n\t\t\tD. If plaintiff's proofs submitted in support of his motion for summary judgment are not contradicted and if plaintiff's proofs show that no genuine issue of material fact exists, summary judgment will be granted even if defendant's answer denied plaintiff's complaint\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "After a severe thunderstorm had struck the area, a homeowner discovered that her roof had suffered extensive damage. She telephoned a roofer to inquire about having the necessary repairs done to her roof. The roofer agreed to finish the work within 30 days, and the homeowner promised to pay$10,000. Which of the following statements is most accurate?\n\t\t\tA. The performance of the roofer would be a constructive condition precedent to the performance by the homeowner\n\t\t\tB. The performance by the homeowner would be an implied condition subsequent to the performance by the roofer\n\t\t\tC. The performances of the homeowner and the roofer would be constructive concurrent conditions\n\t\t\tD. The contract would be unenforceable, because it was oral\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Under the Establishment Clause, if a government regulation or statute has no sect preference, it may then be deemed to be valid after it first passes an additional three-pronged test under traditional analysis. Please choose which of the following concepts will NOT help a statute or action to be free from establishment of religion suspicions.\n\t\t\tA. It must have a nonspiritual legislative purpose\n\t\t\tB. The statute must not foster an excessive government entanglement with religion\n\t\t\tC. The statute must prohibit purely secular considerations\n\t\t\tD. The statute must have a primary effect that neither advances nor inhibits religion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_law"
+    },
+    {
+        "instruction": "Which State ordinarily exercises jurisdiction in respect of crimes committed on board vessels?\n\t\t\tA. The coastal State\n\t\t\tB. The flag State\n\t\t\tC. All States enjoy such jurisdiction\n\t\t\tD. The International Tribunal for the Law of the Sea\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the 'Lotus principle'?\n\t\t\tA. The so-called Lotus principle is that 'restrictions upon the independence of States cannot therefore be presumed', or, as it has been construed, 'whatever is not prohibited is permitted in international law'\n\t\t\tB. The so-called Lotus principle is that States are free to choose the Court that they will submit their disputes\n\t\t\tC. The so-called Lotus principle is that States are not prohibited to assert their enforcement jurisdiction on the high seas\n\t\t\tD. The so-called Lotus principle is that customary law derives from the combination of State practice and opinio juris\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of these statements best describes the UK Constitution?\n\t\t\tA. The UK Constitution's only source of power is that of the sovereign\n\t\t\tB. The UK Constitution gives the judiciary the power to overturn acts of parliament\n\t\t\tC. The UK Constitution is uncodified and can be found in a number of sources\n\t\t\tD. The UK Constitution is based on a Bill of Rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the obligation of the peaceful settlement of disputes?\n\t\t\tA. It is an obligation of result, that is, States are under a strict obligation to resolve their disputes as soon as possible\n\t\t\tB. It is an obligation of conduct, ie States have an obligation to try to resolve their disputes through peaceful means. This does not entail an obligation to resolve their disputes\n\t\t\tC. It is a peremptory norm of international law and all States have a legal interest to safeguard its application in any given dispute\n\t\t\tD. It is an obligation which concerns solely international courts and tribunals\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which one of the following statements is false?\n\t\t\tA. Protocol 14 changed the committee that hears admissibility cases from a three judge to a one judge formation\n\t\t\tB. Protocol 14 added a new criterion for admissibility\n\t\t\tC. Protocol 14 abolished the Commission of Human Rights\n\t\t\tD. Protocol 14 extended the judicial term of office for the European Court of Human Rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?\n\t\t\tA. Rocks are the islands that are less than 10 square miles\n\t\t\tB. Rocks are the islands that do not have any maritime zone\n\t\t\tC. Rocks are the islands which cannot sustain human habitation or economic life of their own and according to article 121 (3) have no Exclusive Economic Zone or continental shelf\n\t\t\tD. Rocks are the small islands that can sustain human habitation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of international legal personality?\n\t\t\tA. It means that only States are considered subjects of international law\n\t\t\tB. It means having rights and duties under international law and a capacity to enforce these by or against the relevant actor\n\t\t\tC. It means that an entity may challenge the authority of States\n\t\t\tD. It is a term that is meant to denote legal, as opposed, to physical persons under international law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following is a treaty-based human rights mechanism?\n\t\t\tA. The UN Human Rights Committee\n\t\t\tB. The UN Human Rights Council\n\t\t\tC. The UN Universal Periodic Review\n\t\t\tD. The UN special mandates\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "The UN Vienna Declaration 1993 declared that\n\t\t\tA. Third generation rights are of primary importance\n\t\t\tB. Civil and political rights are core rights\n\t\t\tC. All types of rights are indivisible, interrelated and interdependent\n\t\t\tD. Social and economic rights are non-enforceable\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the principal source of immunity in respect of international organisations (IOs)?\n\t\t\tA. The principal source of immunity for IOs is the UN Charter\n\t\t\tB. The principal sources of immunity for IOs are headquarters agreements and multilateral treaties providing specific immunities\n\t\t\tC. The principal source of immunity for IOs is customary law\n\t\t\tD. The principal source of immunity for IOs is the Vienna Convention on Diplomatic Immunities\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is there any hierarchy or priority among States under international law?\n\t\t\tA. Yes, the States that were the founding members of the United Nations are vested with more powers and authority\n\t\t\tB. Yes, the Permanent Five Members of the UN Security Council (UK, USA, France, Russia, China) are in a superior position than the other States\n\t\t\tC. No, all States are considered equal as sovereign States (the principle of sovereign equality, enshrined in article 2, para 1 UN Charter)\n\t\t\tD. Whether there will be any hierarchy among States is a matter of each international organization to decide\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the declaratory theory of recognition?\n\t\t\tA. Recognition is determinate for the existence of statehood\n\t\t\tB. Recognition is simply declaratory of statehood but not determinate\n\t\t\tC. Recognition is merely a declaration of interest\n\t\t\tD. Recognition requires a declaration by the newly-created State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?\n\t\t\tA. The Kadi judgment demanded that UNSC resolutions are construed in accordance with human rights\n\t\t\tB. The Kadi judgment demanded that all UNSC resolutions be incorporated without any further implementing legislation\n\t\t\tC. The Kadi judgment required that important UNSC resolutions be transformed and not merely incorporated\n\t\t\tD. The Kadi judgment claimed that UNSC resolutions are not binding if they violate human rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Magna Carta was\n\t\t\tA. An agreement in 1689 which guaranteed freedom of speech in Parliament\n\t\t\tB. An agreement in 1215 between the King and his barons, which guaranteed certain protections for subjects\n\t\t\tC. A constitutional document in the 19th century guaranteeing the right to vote\n\t\t\tD. A document setting a complete Bill of Rights for England\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Do individuals (physical) persons enjoy international legal personality in the same manner as States and international organisations?\n\t\t\tA. Individuals enjoy international legal personality, but this is limited\n\t\t\tB. Individuals enjoy unlimited international legal personality\n\t\t\tC. Individuals do not enjoy any international legal personality\n\t\t\tD. Individuals can only bring claims before international courts\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is there any hierarchy or priority among the various methods of peaceful settlement of disputes?\n\t\t\tA. Yes, all the political methods (e.g. negotiation, mediation, inquiry, conciliation) should be exhausted prior to resorting to legal methods\n\t\t\tB. Legal methods prevail over the political methods, since they are binding upon the parties\n\t\t\tC. There is no hierarchy among these methods and the choice belongs to the disputing States\n\t\t\tD. It is a matter of an impartial third party to decide which method will have priority over the other\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following statements is false?\n\t\t\tA. In the 1990's it became apparent the European Court of Human Rights had to be reformed because it wasn't examining enough cases\n\t\t\tB. In the 1990's it became apparent the European Court of Human Rights had to be reformed because the workload had increased\n\t\t\tC. In the 1990's it became apparent the European Court of Human Rights had to be reformed because it was a part time court that could not process the growing number of complaints\n\t\t\tD. In the 1990's it became apparent the European Court of Human Rights had to be reformed because of the growth in the number of individuals who could access the Court after the increase in the number of member states\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which are the formal sources of international law?\n\t\t\tA. Custom, treaties and judicial decisions\n\t\t\tB. Custom, general principles of law and theory\n\t\t\tC. Treaties, custom and general principles of law\n\t\t\tD. Treaties, custom and General Assembly Resolutions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the difference between conciliation and mediation?\n\t\t\tA. Conciliation is the continuation of mediation with the difference that conciliation produces a binding result, while mediation not\n\t\t\tB. Conciliation is conducted exclusively by representatives of the UN Secretary-General, while mediation may also be conducted by third States' officials\n\t\t\tC. Mediation is usually conducted by a person appointed with the consent of the parties, while conciliation involves a commission, which proceeds to an impartial examination of the dispute and proposes settlement terms\n\t\t\tD. Conciliation is a method of dispute settlement pursued only by virtue of a treaty, while mediation may also be on an ad hoc basis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "In Osman v UK (1998), the European Court laid down a test, which can be used to apply a general positive obligation on a state. Which of the following statements is not part of the Osman test?\n\t\t\tA. The risk must emanate from a state agent\n\t\t\tB. If a real and imminent risk (of death/harm)\n\t\t\tC. A state should take reasonable steps to prevent death/harm occurring\n\t\t\tD. A state knows or ought to have known\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Who is entitled to request an advisory opinion of the ICJ?\n\t\t\tA. Only the principal organs of the UN may request an advisory opinion (Security Council, General Assembly, ECOSOC, Trusteeship Council, Secretariat)\n\t\t\tB. All international organizations may request an advisory opinion\n\t\t\tC. The General Assembly and the Security Council may request advisory opinions on any legal question, as well as 'other organs of the United Nations and specialized agencies, which may at any time be so authorized by the General Assembly, may also request advisory opinions of the Court on legal questions arising within the scope of their activities'\n\t\t\tD. The principal organs of the UN may request an advisory opinion as well as the State that have been authorized by the General Assembly\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the purpose of universal jurisdiction?\n\t\t\tA. Its aim is to establish certain offences as universal\n\t\t\tB. Its aim is to deter the commission of certain international crimes\n\t\t\tC. Its aim is to provide jurisdiction to all States in respect of particular crimes\n\t\t\tD. Its aim is to provide jurisdiction to all States in respect of all international crimes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Are all acts of State organs attributed to the State under the law international responsibility?\n\t\t\tA. The conduct of any State organ shall be considered an act of that State, even in the case that this conduct was unauthorized or ultra vires\n\t\t\tB. Only the conduct of the higher echelons of the government of State shall be attributable to it\n\t\t\tC. The conduct of any State organs shall be considered an act of that State, provided that it is intra vires\n\t\t\tD. Only the conduct of the executive branch of the State shall be considered an act of that State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is a 'treaty' according to the Vienna Convention on the Law of Treaties (VCLT)?\n\t\t\tA. Treaties are all agreements concluded between States, international organizations and non-State entities (e.g. corporations)\n\t\t\tB. Treaties are agreements concluded between States in written form and governed by international law\n\t\t\tC. Treaties are both the written and oral agreements between States\n\t\t\tD. Treaties are agreements concluded between States in written form governed either by international or domestic law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is the unlawful homicide committed by Minister of country X abroad an act jure imperii or jure gestionis?\n\t\t\tA. Such conduct is a public act (jure imperii)\n\t\t\tB. Such conduct never attracts immunity\n\t\t\tC. Such conduct is a private act (jure gestionis)\n\t\t\tD. Such conduct is a public act but is shielded by immunity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What was the outcome before the European Court of Human Rights in the Al-Adsani case?\n\t\t\tA. The Court held that the right to a fair trial trumped the privilege of immunity\n\t\t\tB. The Court held that immunity trumped the right to a fair trial\n\t\t\tC. The Court held that immunities were not in conflict with the right to a fair trial\n\t\t\tD. The Court held that human rights considerations prevailed over all other contrary rules of international law, including most immunities\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What other criteria were imposed by the Badinter Commission on the former Yugoslav republics?\n\t\t\tA. The Commission required a commitment to submit disputes to the ICJ\n\t\t\tB. The Commission required a change in boundaries\n\t\t\tC. The Commission required a commitment to human rights and democracy\n\t\t\tD. The Commission required an exchange of ethnic populations\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "How treaties are to be interpreted?\n\t\t\tA. Treaties are to be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose\n\t\t\tB. Treaties are to be interpreted only in accordance with the ordinary meaning of their terms\n\t\t\tC. Treaties are to be interpreted in accordance with the intention of the parties, as evidenced in the preparatory works of the treaty\n\t\t\tD. Treaties are to be interpreted only in light of its object and purpose\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "When coastal States do enforce their criminal jurisdiction over foreign vessels in their ports?\n\t\t\tA. Port States generally do not enforce their criminal jurisdiction over crimes that do not infringe their customs laws or disrupt peace and public order\n\t\t\tB. Port States enforce their jurisdiction in all cases of delinquent vessels\n\t\t\tC. Port States enforce their jurisdiction only in respect of very serious crimes, such as drug trafficking\n\t\t\tD. Port States are not entitled to enforce their jurisdiction over any foreign vessel\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the value of the Resolutions of the UN General Assembly in terms as a 'source' of international law?\n\t\t\tA. GA Resolutions are considered as additional sources of international law and thus binding upon States\n\t\t\tB. GA Resolutions are equivalent to treaties\n\t\t\tC. GA Resolutions reflect always customary law\n\t\t\tD. GA Resolutions are considered as material source, in the sense that they may enunciate statements of customary law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Do treaties bind third States, ie non-State parties?\n\t\t\tA. Treaties may create only rights for third States\n\t\t\tB. Treaties create both obligations and rights for third States\n\t\t\tC. Treaties do no create obligations or rights for third States without their consent\n\t\t\tD. Treaties do not create any obligations or rights for third States, even when the latter consent\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following articles are not qualified rights?\n\t\t\tA. Article 3\n\t\t\tB. Article 8\n\t\t\tC. Article 9\n\t\t\tD. Article 11\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is dualism?\n\t\t\tA. Dualism suggests that international and domestic law are part of a unified legal system\n\t\t\tB. Under dualism, international and domestic laws comprise distinct legal Systems\n\t\t\tC. Dualism suggests that international and domestic law are distinct but equal in hierarchy\n\t\t\tD. Dualism suggests that international and domestic law are distinct legal systems whereby domestic law always prevails\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is an act jure imperii?\n\t\t\tA. An act is jure imperii when undertaken by an international organisation\n\t\t\tB. An act is jure imperii when undertaken in an official State capacity\n\t\t\tC. All acts undertaken by State officials are acts jure imperii\n\t\t\tD. An act is jure imperii when undertaken by a State corporation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the relationship between the formal sources of international law?\n\t\t\tA. There is no hierarchy between the formal sources of international law\n\t\t\tB. Treaties supersede custom\n\t\t\tC. Custom supersedes treaties\n\t\t\tD. General Principles of Law supersede both custom and treaties\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What was the particular advantage of UNSC Resolution 678 over a collective defensive action under Article 51 UN Charter during the Gulf War?\n\t\t\tA. Resolution 678 allowed the allies to attack Iraq with nuclear and chemical weapons\n\t\t\tB. Resolution 678 is narrower than the inherent right of self-defence under Article 51 UN Charter\n\t\t\tC. Resolution 678 was faster to adopt and negotiate\n\t\t\tD. Resolution 678 is broader because it authorised the use of force with respect to any matter threatening the peace and security of the Gulf region\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "How can customary law be related to treaty provisions?\n\t\t\tA. Treaties may only codify customary law\n\t\t\tB. Customary law is a different source of international and it cannot be embodied in treaties\n\t\t\tC. Treaties may 1) codify customary law, 2) 'crystallise' customary law, 3) lead to the emergence of customary law\n\t\t\tD. Customary law can emerge only from few multilateral treaties\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What does it mean for a State to be sovereign?\n\t\t\tA. Sovereignty means being recognised by all other States\n\t\t\tB. Sovereignty means to be able to enter into treaties and join the UN\n\t\t\tC. Sovereignty means freedom to determine one's own affairs without external interference\n\t\t\tD. Sovereignty means possessing the right to defend oneself\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of functional recognition?\n\t\t\tA. Recognition is a function as opposed to a power\n\t\t\tB. Recognition is reciprocal between two States\n\t\t\tC. Recognition is only afforded to particular administrative acts not to the entity's declared statehood\n\t\t\tD. Recognition is only afforded to the government, not the State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of \"act of State\" doctrine?\n\t\t\tA. The act of State doctrine denotes that all State acts attract immunity\n\t\t\tB. The act of State doctrine denotes that the assessment as to the existence of an alleged tort committed by a State belongs to the executive and not the courts\n\t\t\tC. The act of State doctrine denotes that the courts are well placed to assess the existence of an alleged tort committed by the State\n\t\t\tD. The act of State doctrine is a legal mechanism that allows the courts to provide immunity to public acts of foreign States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "How can the structure of the international society be displayed?\n\t\t\tA. The structure of the international society follows the vertical model of the domestic legal orders\n\t\t\tB. International society consists of a constellation of sovereign States and other international organizations, which are dispersed in a rather horizontal order of authority\n\t\t\tC. International society is so anarchical that there is no order of authority, neither vertical nor horizontal\n\t\t\tD. The structure of the international society resembles the structure of the most powerful nations in the world\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Are there any limitations to the incorporation of customary crimes under English law?\n\t\t\tA. There are no limitations to the incorporation of customary crimes\n\t\t\tB. Customary crimes must be contained in a multilateral treaty in order to be automatically incorporated\n\t\t\tC. The courts may freely incorporate customary crimes into the domestic sphere\n\t\t\tD. The situation is not clear-cut but an act of parliament would most probably be required\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the function of the contiguous zone?\n\t\t\tA. The contiguous zone functions as security zone of the coastal State\n\t\t\tB. The contiguous zone is a zone, in which the coastal State may explore and exploit its mineral resources\n\t\t\tC. The contiguous zone is a zone in which the coastal State is permitted to prevent and punish infringements of customs, fiscal, immigration or sanitary laws\n\t\t\tD. The contiguous zone is a zone in which the coastal State safeguards its archaeological and historical objects\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the examples below has not been developed by the European Court of Human Rights as a situation where the state has a positive obligation to protect?\n\t\t\tA. When the applicant is in the custody of the state\n\t\t\tB. Where the state must investigate claims against it\n\t\t\tC. The development of a legal framework to protect those within the state\n\t\t\tD. To provide housing for all those homeless within a state\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which case was the first to define the meaning of the doctrine of 'margin of appreciation' as applied by the European Court of Human Rights?\n\t\t\tA. Goodwin v UK (2002)\n\t\t\tB. Airey v Ireland (1979)\n\t\t\tC. Osman v UK ( 1998)\n\t\t\tD. Handyside v UK (1976)\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the constitutive theory of recognition?\n\t\t\tA. Recognition is determinative of statehood\n\t\t\tB. Recognition requires constitutional approval by third nations\n\t\t\tC. Recognition requires that the constitution of the recognised State includes sufficient human rights guarantees\n\t\t\tD. Countries wishing to be recognised must possess a valid constitution\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "The enforcement mechanism of the International Covenant on Civil and Political Rights (and Protocol) consists of\n\t\t\tA. A reporting mechanism only\n\t\t\tB. Judgment of an international tribunal\n\t\t\tC. Right to individual petition only\n\t\t\tD. A reporting mechanism and right to individual petition\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is piracy under international (jure gentium) law subject to universal jurisdiction?\n\t\t\tA. Piracy jure gentium is subject to flag State jurisdiction\n\t\t\tB. Piracy jure gentium is subject to universal jurisdiction\n\t\t\tC. Piracy jure gentium is subject to port State jurisdiction\n\t\t\tD. Piracy jure gentium is subject to nationality-based jurisdiction\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What are self-executing treaties?\n\t\t\tA. Self-executing treaties are adopted only by the executive\n\t\t\tB. Self-executive treaties are clear and precise enough so as not to require any further implementing measures\n\t\t\tC. Self-executing rely on implementing measures stipulated in the treaty Itself\n\t\t\tD. Self-executing treaties follow the doctrine of transformation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is the ICJ hostile to the idea that an armed attack may arise through a series of lower intensity, yet cumulative, instances of armed force?\n\t\t\tA. The ICJ was not hostile to the accumulation theory\n\t\t\tB. The concept of an armed attack refers to a single attack, not multiple smaller instances of armed force\n\t\t\tC. In the Nicaragua case the ICJ dismissed the accumulation theory\n\t\t\tD. The ICJ has never addressed this issue\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is there any priority among international courts and tribunals?\n\t\t\tA. According to the lis pendens rule, the court or the tribunal that seizes first the dispute has exclusive jurisdiction to adjudicate it\n\t\t\tB. The International Court of Justice has by definition priority over any other court or tribunal\n\t\t\tC. Since there is no lis pendens rule in international law and all depends on the consent of the parties to a dispute, there is no priority or hierarchy among international courts and tribunals\n\t\t\tD. Regional or special courts have priority over all others in line of the principle of lex specialis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Do third States enjoy any fishing rights within the Exclusive Economic Zone of another State?\n\t\t\tA. When the coastal State cannot harvest the 'total allowable catch', the coastal State is to give other State access to that surplus with priority to be given to developing and land-locked States\n\t\t\tB. Third States may never have access to fisheries within another State's EEZ\n\t\t\tC. The coastal State is to give access to fisheries within its EEZ only to neighbouring States\n\t\t\tD. Third States are free to fish within another EEZ, except from certain designated areas\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is passive personality jurisdiction?\n\t\t\tA. It is jurisdiction based on the nationality of the offender\n\t\t\tB. It is jurisdiction based on where the offence was committed\n\t\t\tC. It is jurisdiction based on the nationality of the victims\n\t\t\tD. It is jurisdiction based on the country where the legal person was Registered\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following types of rights have been described as first generation rights?\n\t\t\tA. Social and economic rights\n\t\t\tB. Civil and political rights\n\t\t\tC. Cultural rights\n\t\t\tD. People's rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the problem of 'fragmentation' of international law?\n\t\t\tA. Fragmentation of international law concerns the possibility of different legal regimes apply the same rules of international law\n\t\t\tB. It is possible for several legal regimes (ie foreign investment law and human rights law) to exist and develop in isolation of each other, ultimately culminating in the production of divergent rules of international law\n\t\t\tC. Fragmentation is when States assume different interpretations of the same rule of international law\n\t\t\tD. Fragmentation is when States disagree to abide by a certain rule of international law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is functional (ratione materiae) immunity?\n\t\t\tA. Functional immunity covers the person but not the act\n\t\t\tB. Functional immunity covers the act and incidentally also the person committing the act\n\t\t\tC. Functional immunity covers the State and incidentally also the act\n\t\t\tD. Functional immunity covers both private and public acts as long as they are sanctioned by the State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of implied authorisation?\n\t\t\tA. Presumption of Security Council approval of armed force when a State has been forewarned\n\t\t\tB. Implicit authorisation on the basis of a specific number of votes by UNSC members\n\t\t\tC. Presumption that all unlawful attacks will be subject to armed force by a resolution of the UNSC\n\t\t\tD. In cases of repeated unlawful attacks the UNSC shall authorise neighbouring States to take whatever measures they deem necessary to rectify the situation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which philosopher called the idea of natural rights 'nonsense on stilts'?\n\t\t\tA. Alan Gerwith\n\t\t\tB. Emmanuel Kant\n\t\t\tC. John Locke\n\t\t\tD. Jeremy Bentham\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Who has the authority to conclude a treaty on the part of States?\n\t\t\tA. Treaties are concluded by the competent representatives of States. Heads of States, heads of governments, ministers of foreign affairs and heads of diplomatic missions are presumed to have such authority\n\t\t\tB. Treaties may only negotiated and concluded by the heads of State and ministers of foreign affairs\n\t\t\tC. Treaties are negotiated and signed only by the persons that bear the necessary 'full powers' and no person is presumed to hold such authority\n\t\t\tD. Treaties are concluded only by members of the diplomatic missions of States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Who is a 'persistent objector'?\n\t\t\tA. The State which persistently objects to the rule in question after its formation\n\t\t\tB. The State which denies to be bound by the rule in question for a short period\n\t\t\tC. The State which persistently and publicly objects to the formation of a rule of customary law from its outset\n\t\t\tD. The State which accepts the formation of a rule of customary law but it retains objections as to its content\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of collective security?\n\t\t\tA. The right to self-defence by more than one nation acting in concert\n\t\t\tB. The right of one's allies to defend the victim State\n\t\t\tC. The authorisation of armed force by the UN Security Council\n\t\t\tD. The authorisation of peacekeeping missions by the UN General Assembly\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "The European Convention on Human Rights is predominantly concerned with which of the following?\n\t\t\tA. Economic and social rights\n\t\t\tB. Environmental rights\n\t\t\tC. Civil and political rights\n\t\t\tD. Economic freedom\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of collective rights?\n\t\t\tA. Collective rights belong to distinct groups of people\n\t\t\tB. Collective rights are those that belong to particular groups as opposed to the individual members of the group\n\t\t\tC. Minority rights are collective rights\n\t\t\tD. Collective rights entail a right of the group as such as well as individual rights of the group's members\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Are States under any obligation when they conduct negotiations?\n\t\t\tA. States are under no obligation as to how they conduct their negotiation\n\t\t\tB. States are under an obligation so to conduct themselves that the negotiations are meaningful\n\t\t\tC. States are under an obligation to find a solution of the dispute whenever they conduct negotiations\n\t\t\tD. States are under an obligation to inform the UN Secretary-General about the progress of their negotiations\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is an 'internationally wrongful conduct'?\n\t\t\tA. An international wrongful conduct is an action or omission which is in breach of a rule of international criminal law\n\t\t\tB. An international wrongful conduct is every breach of an international obligation of the State, whether attributable to it or not\n\t\t\tC. An internationally wrongful conduct consists of an action or omission attributable to the State, which constitutes a breach of an international obligation of the State\n\t\t\tD. An internationally wrongful conduct is the conduct that cannot be excused on grounds of necessity, force majeure etc\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the effects doctrine?\n\t\t\tA. It posits that jurisdiction exists only when it is effective\n\t\t\tB. The effects doctrine serves to confer jurisdiction on the State which has an effective link with the harmful conduct\n\t\t\tC. The effects doctrine serves to confer jurisdiction on the State sharing the nationality of the offender\n\t\t\tD. The effects doctrine serves to confer jurisdiction to the State on whose territory the conduct produces effects\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which persons are considered as 'de facto' organs of the State under the law of international responsibility?\n\t\t\tA. 'De facto organs' are the individuals that are empowered by law to exercise elements of governmental authority\n\t\t\tB. 'De facto organs' are the persons, which are, in fact, acting on the instructions of, or under the direction or control of, that State in carrying out the conduct attributable to the State\n\t\t\tC. 'De facto organs' are the de jure organs of the State that act without due authority or ultra vires\n\t\t\tD. 'De facto organs' are the organs, whose acts or omission cannot be attributed to the State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the fundamental prerequisite for the incorporation of custom under English law?\n\t\t\tA. Custom is incorporated if it is not in conflict with existing legislation\n\t\t\tB. Custom is superior to English law and is always incorporated\n\t\t\tC. Custom must first be recognised by Parliament before the courts can bring it into the domestic sphere\n\t\t\tD. Custom is incorporated with the passing of implementing legislation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Was the use of armed force permitted prior to the United Nations Charter?\n\t\t\tA. Armed force was prohibited\n\t\t\tB. Armed force was permitted with no restrictions\n\t\t\tC. Armed force was permitted subject to few restrictions\n\t\t\tD. Armed force was not regulated under international law prior to 1945\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the protective principle of jurisdiction?\n\t\t\tA. It is jurisdiction based on the harm to national interests by conduct committed abroad\n\t\t\tB. It is jurisdiction in order to protect one's nationals abroad\n\t\t\tC. It is jurisdiction in order to protect international human rights\n\t\t\tD. It is jurisdiction based on the nationality of the offender\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which one of the following statements is correct?\n\t\t\tA. The Council of Europe was established in 1950 and consists of 27 member states\n\t\t\tB. The Council of Europe was established in 1949 and consists of 47 member states\n\t\t\tC. The Council of Europe was established in 1959 and consists of 34 member states\n\t\t\tD. The Council of Europe was established in 1984 and consists of 19 member states\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is a derogation?\n\t\t\tA. Derogations are exemptions from particular human rights obligations contained in a treaty\n\t\t\tB. A derogation refers to the ability of rights holders to bring a claim against the State for breach of an obligation\n\t\t\tC. A State may suspend particular rights by means of a derogation in circumstances that threaten its existence\n\t\t\tD. Derogations are enforcement clauses in human rights treaties\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is an act jure gestionis?\n\t\t\tA. Acts jure gestionis are those undertaken by States in a private capacity\n\t\t\tB. All purchases by the State are acts jure gestionis\n\t\t\tC. All acts undertaken by State corporations are jure gestionis\n\t\t\tD. All conduct undertaken by government officials in their free time is considered jus gestionis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of cultural relativism?\n\t\t\tA. Culture relativism posits that human rights apply equally to all without restrictions\n\t\t\tB. Culture relativism posits that human rights have a cultural origin\n\t\t\tC. Cultural relativism posits that the application of human rights is relative to the laws in each nation\n\t\t\tD. Cultural relativism posits that local culture should validate the existence and practice of all human rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Under what circumstances do human rights violations taking place outside the territory of ECHR member States fall within the remit of the ECHR?\n\t\t\tA. The ECHR applies outside Europe where human rights are violated by ECHR member States abroad\n\t\t\tB. The ECHR applies extraterritorially in circumstances where a member State exercises effective control\n\t\t\tC. The ECHR applies extraterritorially where a member State has contributed forces to a UN peacekeeping mission\n\t\t\tD. The ECHR applies extraterritorially where human rights violations are taking place in former colonies of member States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What does the principle 'pacta sunt servanda' mean?\n\t\t\tA. Parties to a treaty should be cognizant of its terms and not misinterpret them\n\t\t\tB. Parties to a treaty should safeguard the object and purpose of the treaty\n\t\t\tC. Parties to a treaty should adhere to its terms in good faith\n\t\t\tD. Parties to a treaty should not violate the most important provisions of the treaty\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What was the consequence from the absence of implementing legislation in the Tin Council case?\n\t\t\tA. The International Tin Council was headquartered in London and hence the absence of implementing legislation was inconsequential\n\t\t\tB. The constitutive treaties of international organisations are subject to the doctrine of incorporation\n\t\t\tC. The absence of implementing legislation with respect to the Council's founding treaty meant that individuals did not derive rights and duties from it in the English legal system\n\t\t\tD. The absence of implementing legislation in England in respect of an international organisation is inconsequential under international law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following statements is true?\n\t\t\tA. The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law\n\t\t\tB. The Human Rights Act 1998 allows a court to invalidate primary legislation\n\t\t\tC. The Human Rights Act 1998 allows any person with a reasonable case to bring a case before a court\n\t\t\tD. The Human Rights Act 1998 incorporates the EU charter of fundamental rights into UK law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is jus cogens?\n\t\t\tA. They are peremptory norms of international law, from which no derogations are allowed and which can never be altered even with the consent of the States\n\t\t\tB. They are rules of international law that are laid down in multilateral treaties with a wide participation\n\t\t\tC. They are the decisions of the UN Security Council\n\t\t\tD. They are the rules of international law on which the ICJ founds its decisions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is 'unilateral acts'?\n\t\t\tA. They are acts that States perform as practice in the context of custom\n\t\t\tB. They are acts creating unilateral legal obligations to the acting State\n\t\t\tC. Unilateral acts are simply political acts of State devoid of any legal effect\n\t\t\tD. Unilateral acts are those that State perform in order to be bound by a treaty\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Is extra-territorial abduction a ground for refusal of otherwise lawful jurisdiction by English courts?\n\t\t\tA. Such abduction constitutes abuse of process and leads to a stay of proceedings\n\t\t\tB. Such abduction gives rise to the abductor's liability but does not lead to a stay of proceedings\n\t\t\tC. The stay of proceedings under such circumstances would prevent the administration of justice in respect of international criminals\n\t\t\tD. The courts may, but will seldom, stay proceedings in cases of extra-territorial abduction\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of 'secondary rules' in the law of international responsibility?\n\t\t\tA. Secondary rules are the rules of interpretation of international law, including the law of international responsibility\n\t\t\tB. Secondary rules are the rules that govern the legal consequences arising from a breach of the primary rules, ie of the international obligations of the States\n\t\t\tC. Secondary rules are the rules that govern exclusively the concept of attribution in the law of international responsibility\n\t\t\tD. Secondary rules are the rules that govern exclusively the law of countermeasures\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What does the doctrine of incorporation suggest in respect of treaties?\n\t\t\tA. The doctrine of incorporation requires that all treaties undergo legislative transformation before they become domestic law\n\t\t\tB. The doctrine of incorporation does not require any further action at the domestic level\n\t\t\tC. The doctrine of incorporation treats treaties as inferior to domestic law\n\t\t\tD. The doctrine of incorporation suggests that ratified treaties automatically pass into the sphere of domestic law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Are the provisional measures issued by the ICJ binding upon the parties?\n\t\t\tA. No, according to the literal interpretation of the relevant provision of the State, the provisional measures are not binding\n\t\t\tB. No, unless the parties have agreed so beforehand\n\t\t\tC. It depends upon the Court whether the provisional measures will be binding\n\t\t\tD. Yes, it has been consistently held by the Court since the La Grand case (2001) that they are binding\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the difference between political and legal means of dispute settlement?\n\t\t\tA. The outcome arising from legal methods, ie arbitration or adjudication by the ICJ, is final and binding upon the parties, whereas this is not the case with diplomatic methods\n\t\t\tB. The political methods are pursued upon the consent of then parties to the dispute, whereas the legal methods not\n\t\t\tC. The political means lead to a final settlement of the dispute, whereas this is not the case with the legal methods\n\t\t\tD. The legal methods of dispute settlement are pursued only in respect of significant disputes, whereas the political means are employed in all disputes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the rationale for the exhaustion of local remedies in international human rights?\n\t\t\tA. The local remedies rule aims to free up international tribunals to deal with the most serious cases\n\t\t\tB. The local remedies rule aims to dissuade applicants abusing the system from filing unnecessary petitions\n\t\t\tC. The local remedies rule aims on the one hand to restrict the volume of petitions to international tribunals while at the same time building up the capacity of local courts\n\t\t\tD. The local remedies rule helps demonstrate that national courts are always better placed than international ones to deal with cases\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What was the most important finding by the House of Lords in the Pinochet case?\n\t\t\tA. The Pinochet case confirmed that former heads of State enjoy absolute immunity\n\t\t\tB. The Pinochet case confirmed that all public acts enjoy immunity\n\t\t\tC. The Pinochet case confirmed that former heads of State cease to enjoy personal immunity once removed from office\n\t\t\tD. The Pinochet case confirmed that in respect of immunities there is no difference between a current and a former head of State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which one of the statements below is false?\n\t\t\tA. The war crimes trials at Nuremberg and Tokyo took place immediately after the First World War\n\t\t\tB. The war crimes trials introduced a 'crime against humanity' as an offence\n\t\t\tC. The war crimes trials held individuals legally responsible for acts such as war crimes and crimes against humanity\n\t\t\tD. The war crimes trials found that \"superior orders\" could not be used as a defence for war crimes or crimes against humanity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Should treaties assume a particular form?\n\t\t\tA. Treaties should always be designated as such and assume a particular form\n\t\t\tB. Treaties should always assume a particular form, no matter how they are designated\n\t\t\tC. Treaties do not have to assume a particular form or designated as such\n\t\t\tD. Treaties have to be designated as such, no matter what form they assume\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the fundamental premise of monist theory?\n\t\t\tA. Monism posits that international law is superior to domestic laws\n\t\t\tB. Monism posits that international and domestic law are part of the same legal order\n\t\t\tC. Monism posits that domestic laws are superior to international law\n\t\t\tD. Monism posits that domestic and international law never clash\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "When does an illegal act of violence on the high seas fall short of qualifying as piracy?\n\t\t\tA. When it is committed against a public vessel of another State\n\t\t\tB. When it is committed for 'private ends'\n\t\t\tC. When it is committed by a warship even when its crew has mutinied and taken control of the ship\n\t\t\tD. When it is not committed against another vessel and when it is not committed for 'private ends'\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is the meaning of \"armed attack\" in Article 51 UN Charter?\n\t\t\tA. Armed attack includes all types of armed force\n\t\t\tB. Armed attack includes all high intensity instances of armed force\n\t\t\tC. Armed attack includes terrorist attacks\n\t\t\tD. An \"armed attack\" gives the right to invade the aggressor State\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Who is an 'injured State' in the law of international responsibility?\n\t\t\tA. A State is 'injured' in case that it has suffered a damage from the internationally wrongful conduct\n\t\t\tB. A State is 'injured' in cases that there has been a violation of a peremptory norm of international law\n\t\t\tC. A State is 'injured' should it acknowledge the existence of the internationally wrongful conduct\n\t\t\tD. A State is 'injured' if the obligation breached was owed to it individually or if it was owed to a group of States, including that State, and it was specially affected\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is personal (ratione personae) immunity?\n\t\t\tA. Personal immunity is afforded to all physical persons\n\t\t\tB. Personal immunity is that which is afforded in a personal capacity and hence does not cover conduct of the State as such\n\t\t\tC. Personal immunity is afforded only to particular persons irrespective if their conduct was undertaken in a private or public capacity\n\t\t\tD. Personal immunity is afforded to State officials for conduct undertaken in a public capacity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Which of the following statements best describes the UN Human Rights Council?\n\t\t\tA. The UN Human Rights Council has the power to impose economic sanctions on a state for human rights violations\n\t\t\tB. The UN Human Rights Council scrutinises the human rights records of member states on the Council and each member state of the UN\n\t\t\tC. The UN Human Rights Council replaced the Economic and Social Committee of the UN\n\t\t\tD. The UN Human Rights Council consists of 27 member states\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "When a reservation is considered as invalid under the law of treaties?\n\t\t\tA. A reservation is invalid when the majority of the State parties objects to it\n\t\t\tB. A reservation is invalid only when an international tribunal says so\n\t\t\tC. A reservation is invalid only when is incompatible with a peremptory norm of international law (jus cogens)\n\t\t\tD. A reservation is invalid when it is incompatible with the object and purpose of the treaty\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What kind of rights do coastal States enjoy over their continental shelf?\n\t\t\tA. The coastal State enjoy ipso facto and ab initio sovereign rights over its continental shelf for the purpose of exploring it and exploiting its natural resources\n\t\t\tB. The coastal State may exercise sovereign rights over its continental shelf only upon its declaration\n\t\t\tC. The coastal State exercise sovereign rights over its continental shelf for the purpose of exploiting its fishing resources\n\t\t\tD. The coastal State may exercise only limited rights over its continental shelf and only upon the consent of its neighbouring States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Are there any limits to the application of article 103 of the UN Charter?\n\t\t\tA. No, there are no limits to article 103\n\t\t\tB. Yes, Article 103 cannot trump multilateral treaties\n\t\t\tC. Yes, article 103 of the UN Charter cannot trump jus cogens norms\n\t\t\tD. Yes, when a case is submitted to the ICJ, article 103 ceases to have any effect\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "Can countries rely on their domestic law as an excuse to violate their obligations under international law?\n\t\t\tA. Domestic law always prevails over international law\n\t\t\tB. Only customary international law prevails over domestic law\n\t\t\tC. Obligations under international law prevail over domestic law\n\t\t\tD. Constitutional obligations always prevail over obligations under international law\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "international_law"
+    },
+    {
+        "instruction": "What is meant by an international organisation's implied powers?\n\t\t\tA. Implied are those powers which are necessary in order for an organisation to carry out the tasks conferred upon it and which are not stipulated in its charter\n\t\t\tB. It refers to new powers assumed unilaterally by the organisation\n\t\t\tC. It refers to powers conferred upon the organisation by the international Community\n\t\t\tD. Implied powers are those whose determination depends on an expansive interpretation of an organisation's charter\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "international_law"
+    }
+]

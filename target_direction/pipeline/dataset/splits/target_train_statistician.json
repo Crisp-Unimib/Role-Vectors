@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "What is the difference between R-squared and adjusted R-squared in regression analysis?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical methods commonly used in clinical trial data analysis.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe Michigan's defensive efficiency trends over the past five Big Ten seasons.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the relationship between microbiome diversity and SNP variant rs1234567?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the real story behind these supposedly accurate election polling numbers?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how Bayesian inference principles improve neural network performance in deep learning",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare statistical significance of planetary alignments versus random celestial patterns in horoscopes.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the most effective methods for tracking and analyzing youth soccer performance statistics",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve which economic indicators best predict rural population growth in small towns",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design a clear data visualization dashboard for tracking elderly population health trends.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare relapse rates between inpatient and outpatient addiction treatment programs across demographics.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical methods needed to analyze longitudinal clinical trial outcomes.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design a dashboard displaying biostatistical analysis trends for clinical research data visualization.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical model predicting customer churn using regression and time-series analysis.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the statistical probability of going bankrupt from regular casino gambling?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to implement data quality control checkpoints throughout a statistical analysis project?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how stratified random sampling differs from cluster sampling in big data contexts.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical analysis disproving common lucky numbers' influence on lottery outcomes.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the difference between Type I and Type II errors in hypothesis testing?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain why statistical significance testing is superior to anecdotal evidence in research.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve this statistical model's significance using multivariate regression and heteroskedasticity testing methods",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statistical methods for analyzing vaccine efficacy in large-scale epidemiological studies.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare conference venues for hosting a 500-person Bayesian statistics symposium in Boston.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design an infographic that combines literary quotes with corresponding data visualization patterns.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze voter turnout patterns across demographics using multivariate regression modeling techniques.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how box plots reveal outliers and quartile distribution in genomic datasets",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how attack efficiency percentage correlates with successful volleyball team performance.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the difference between NumPy arrays and Pandas DataFrames in Python?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate statistical significance in A/B testing for audience segmentation?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare mortality rates between urban and rural hospitals for cardiovascular procedures.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the statistical significance of p-values in reproducibility crisis detection?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe population migration trends between Eastern and Western Europe since 1990.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the fundamental flaw in confidence intervals from a Bayesian perspective?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Solve which demographic variables best predict migration patterns within Eastern European countries.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare the statistical probability of winning lottery jackpots versus long-term index fund returns.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze the statistical significance of this clinical trial's p-values and confidence intervals",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical methods needed to analyze healthcare access across different socioeconomic groups",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to analyze clutch performance statistics while controlling for random variance factors?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a visualization in R showing correlations between multiple variables using ggplot2.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to evaluate statistical power calculations in neuroscience grant proposal submissions?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the statistical significance of social network patterns in disease transmission?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe how machine learning algorithms outperform traditional human-led statistical analysis methods.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend best practices for validating data quality in statistical research projects.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is power analysis and its importance in brain imaging grant proposals?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze the correlation between employee turnover rates across tech and retail sectors.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze survival data from Phase III trials using Cox proportional hazards model",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare accident rates between sport bikes and cruiser motorcycles over the past decade.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the statistical significance of strike rate in BBL batting performance?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to implement cross-validation techniques for preventing overfitting in neural networks?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statistical methods for evaluating bias in large language model outputs.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Solve why multicollinearity impacts regression coefficient stability using mathematical explanation and examples.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate confidence intervals for witness identification accuracy across multiple trials?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare PCA and t-SNE for visualizing high-dimensional data, considering their statistical limitations.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to implement ARIMA models for seasonal time series forecasting in R?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze racial disparities in diabetes outcomes across different socioeconomic groups in Chicago.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate optimal hold percentages for different types of slot machines?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate batting strike rates from historical Test cricket scorecards before 1975?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze student performance trends across urban and rural schools over five years.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to analyze spatial distribution patterns of endangered species using R software?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design an intuitive dashboard visualizing mortality rates across different healthcare interventions.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statistical methods to analyze casualty patterns in modern urban warfare scenarios.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze correlations between lunar phases and reported mood patterns across demographic groups",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to perform multiple regression analysis using R for clinical trial data?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the correlation between socioeconomic status and felony conviction rates since 2010.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze sentencing data across demographics to identify racial bias in drug-related cases",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical methods used to identify outliers in multivariate data analysis",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to perform mixed-effects modeling for longitudinal clinical trial data in R?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze voter turnout patterns across demographics using multivariate regression techniques.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how gender pay disparity correlates with employee retention across different industries.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe how real-world data collection methods affect statistical significance in clinical trials",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare career longevity of top draft picks versus undrafted players in NBA history.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze rural employment trends and population migration patterns over the past decade.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical analysis of Northern Spirit's win-loss ratio over past five seasons.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve correlation patterns between microbiome diversity and SNP variants in IBD patients",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the most reliable method for calculating player efficiency rating in basketball?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a pipeline for analyzing gene-environment interactions in longitudinal cohort studies.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a flowchart explaining hierarchical clustering analysis for genomic expression data.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "What is the statistical significance threshold commonly used in program evaluation studies?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to normalize historical census data from different time periods for comparison?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare linear regression and neural networks for predicting customer churn rates.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design a clear data visualization dashboard for analyzing multivariate regression model results.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve which statistical methods best predict the reliability of eyewitness identification accuracy",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to quantify random variance in player performance across multiple sports seasons?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design an infographic showing why statistical analysis trumps gut-feeling decision making in business.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design an infographic comparing vaccination rates across different socioeconomic groups in cities.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze the correlation between work hours and relationship satisfaction among dual-career couples.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statistical methods to evaluate the impact of welfare programs on employment.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical methods used to analyze gene expression in microarray datasets.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve: Calculate correlation between rainfall patterns and corn yield across midwest regions",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve: Calculate the probability of a 7-game win streak in a 30-game season.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the key assumptions needed when fitting a Poisson regression model.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create an evidence-based framework for evaluating the impact of welfare programs.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to analyze Arsenal's passing patterns using advanced statistical tracking data?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statistical methods to analyze achievement gaps across diverse socioeconomic school districts",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a correlation matrix visualization for analyzing relationships between customer demographic variables.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare Bayesian versus frequentist approaches in modeling species distribution patterns.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical model to analyze disease transmission patterns across urban populations",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical model predicting economic growth based on multivariate time-series analysis.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how population density metrics correlate with habitat fragmentation in endangered species.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze batting performance metrics of free agent outfielders under high-pressure situations.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe how statistical significance influences evidence-based policymaking in social programs.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend sampling methods to minimize bias in large-scale population health surveys.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate optimal sample size for stratified consumer research surveys?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to highlight key trends in longitudinal research studies.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how the Duckworth-Lewis method calculates revised targets in rain-affected cricket matches.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze the correlation between motorcycle accident rates and weather conditions across seasons.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve income disparities between urban and rural populations using regression analysis techniques",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Recommend statisticians with expertise in large-scale longitudinal studies and clinical trials analysis.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain Karl Pearson's revolutionary contributions to modern statistical analysis and correlation theory.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to track endangered species population fluctuations over time.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Analyze patient readmission patterns to predict high-risk cases using longitudinal healthcare data.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the statistical requirements for phase III clinical trial sample size calculations",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Solve which statistical test is most appropriate for comparing three population means.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe the most reliable statistical indicators for predicting NFL quarterback performance trends",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a time series model predicting inflation rates using ARIMA and GARCH methods.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to determine sample size needed for multiple regression without using sports data?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a predictive model analyzing customer churn based on historical purchase patterns.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Describe how Xinping Cui's statistical research has evolved throughout her academic journey",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to calculate statistical significance in A/B testing for audience segmentation metrics?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a statistical model analyzing patient outcomes at Massachusetts General Hospital.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Create a regression model analyzing unemployment rates' impact on urban property crimes",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare statistical significance levels of 0.05 and 0.01 in research methodology.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "solve which statistical test is most appropriate for analyzing student exam scores?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Solve the probability distribution model for predicting catastrophic insurance claim frequencies.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Compare public transit ridership versus car usage in major metropolitan areas worldwide.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain why statistical significance at p<0.05 doesn't guarantee practical importance.",
+        "category": "statistician"
+    },
+    {
+        "instruction": "How to conduct survival analysis on patient data using Cox proportional hazards?",
+        "category": "statistician"
+    },
+    {
+        "instruction": "Explain how population density correlates with public transportation usage in metropolitan areas.",
+        "category": "statistician"
+    }
+]

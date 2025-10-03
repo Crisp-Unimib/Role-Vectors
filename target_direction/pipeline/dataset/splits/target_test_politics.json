@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "What is the structure of the United Nations Security Council?\n\t\t\tA. 5 permanent members with veto power, 10 rotating members with no veto power\n\t\t\tB. 5 permanent members and 10 rotating members, all with veto power\n\t\t\tC. 10 permanent members with veto power, and 5 rotating members without veto power\n\t\t\tD. 15 permanent members with veto power\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the significance of the Gulf of Tonkin resolution?\n\t\t\tA. It allowed the US to intensify its involvement in Vietnam\n\t\t\tB. It illustrated the influence of public opinion on US foreign policy\n\t\t\tC. It enhanced Congressional control over the Vietnam War\n\t\t\tD. It curtailed US involvement in Vietnam\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which is not a nonstate actor that poses a threat to the United States?\n\t\t\tA. Terrorists\n\t\t\tB. Organized crime\n\t\t\tC. Drug traffickers\n\t\t\tD. China\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Who was the first American president to visit communist China?\n\t\t\tA. Richard Nixon\n\t\t\tB. George H. W. Bush\n\t\t\tC. Jimmy Carter\n\t\t\tD. Ronald Reagan\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The Strategic Arms Reduction Treaty was the first accord\n\t\t\tA. on nuclear weapons signed between the United States and the Soviet Union\n\t\t\tB. cutting conventional arms in Europe\n\t\t\tC. to be rejected by the U.S. Senate\n\t\t\tD. mandating the elimination of many long-range nuclear missiles\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What were the implications of the Cold War for American exceptionalism?\n\t\t\tA. It ended the influence of American exceptionalism entirely\n\t\t\tB. Exceptionalism was enhanced by America's status as the 'leader of the free world'\n\t\t\tC. The extension of American power globally challenged core assumptions of exceptionalism\n\t\t\tD. Both b and c\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\n\t\t\tA. He believed that internal reform rather than international negotiation was the key to economic regeneration of the US\n\t\t\tB. He believed that German domination of Europe would be in US interests\n\t\t\tC. He always favoured isolationism\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the 'New Populism'?\n\t\t\tA. A strand of neo-isolationist sentiment\n\t\t\tB. A strand of internationalist sentiment\n\t\t\tC. An expression of American cultural superiority\n\t\t\tD. Increased incorporation of public opinion in foreign policy making\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How did World War I shift economic power from Europe to the United States?\n\t\t\tA. The war reduced European population levels below that of the United States\n\t\t\tB. The United States seized German resources after the war\n\t\t\tC. European countries paid the United States for assistance\n\t\t\tD. The United States became a creditor country and financial centre, with European war spending boosting the US economy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "In American government, the power to declare war rests with\n\t\t\tA. the president of the United States\n\t\t\tB. the secretary of defense\n\t\t\tC. the chairman of the Joint Chiefs of Staff\n\t\t\tD. Congress\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How did the Cold War context shape US perceptions of the Third World?\n\t\t\tA. The US ignored the Third World\n\t\t\tB. Local developments were viewed through a geopolitical lens\n\t\t\tC. The US unreservedly supported decolonization\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was unique about the NATO intervention in Kosovo?\n\t\t\tA. It was the first time the US became involved in the Balkans\n\t\t\tB. It was the first time NATO used military force\n\t\t\tC. It was the first war won by airpower alone\n\t\t\tD. It was the first war to employ 'smart weapons'\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What, according to Systemic theories, is the primary determinant of a state's foreign policy?\n\t\t\tA. The character of a state's leader\n\t\t\tB. The distribution of power in the international system\n\t\t\tC. The distribution of power within a state's governmental system\n\t\t\tD. A state's political ideology\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why is there so much uncertainty over which states have nuclear weapons?\n\t\t\tA. Leaders have incentives to lie\n\t\t\tB. If leaders revealed their programs, they would be more likely to be attacked\n\t\t\tC. Leaders will not always grant foreign monitors access to their nuclear programs\n\t\t\tD. ALL of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Within American politics, the power to accord official recognition to other countries belongs to\n\t\t\tA. the Senate\n\t\t\tB. the president\n\t\t\tC. the Secretary of State\n\t\t\tD. the chairman of the Joint Chiefs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What did the Moscow Treaty on Strategic Offensive Reductions do?\n\t\t\tA. Required the United States and Russia to demobilize their armies\n\t\t\tB. Required the United States and Russia to dismantle a significant number of their nuclear weapons\n\t\t\tC. Prohibited the acquisition of new military bases\n\t\t\tD. Prohibited short-range nuclear weapons\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What were the 'open-door notes'?\n\t\t\tA. An American declaration that the US was always open to Chinese immigration\n\t\t\tB. An American proclamation that China should be divided up between the US, Japan and the European empires\n\t\t\tC. An American proclamation that China should be open to US trade and missionaries\n\t\t\tD. An American declaration of support for Chinese economic protectionism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?\n\t\t\tA. Irrationality on the part of the leadership\n\t\t\tB. Costs of free trade are concentrated, but benefits are dispersed\n\t\t\tC. Regime type\n\t\t\tD. International conflict prevents trade\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?\n\t\t\tA. Lack of US firepower\n\t\t\tB. Concern over oil supplies\n\t\t\tC. Limited UN mandate and fear of a protracted conflict\n\t\t\tD. Difficult terrain and fear of civilian casualties\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why do Liberal Internationalists argue that international institutions are important to US grand strategy?\n\t\t\tA. They allow the US to withdraw from the international arena\n\t\t\tB. They serve American interests\n\t\t\tC. The US is incapable of acting alone\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the significance of the Truman Doctrine?\n\t\t\tA. It indicated the special place of Greece and Turkey in American interests\n\t\t\tB. It was Truman's first statement on European affairs\n\t\t\tC. It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence\n\t\t\tD. It indicated that the US would now view all local revolts through a geopolitical lens\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What tend to be the effects of oil and other natural resource trade on developing states?\n\t\t\tA. It democratizes countries\n\t\t\tB. It has no real effect\n\t\t\tC. It encourages stability of the regime\n\t\t\tD. It changes the nature of the investor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The dominant course for foreign policy throughout most of American history can be categorized as\n\t\t\tA. containment\n\t\t\tB. neoconservatism\n\t\t\tC. isolationism\n\t\t\tD. protectionism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What led Britain to impose new taxes on their American colonies?\n\t\t\tA. To increase the wealth of King George III\n\t\t\tB. The growing costs of war with France\n\t\t\tC. Anger at America's growing prosperity\n\t\t\tD. Pressure from rich merchants\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?\n\t\t\tA. Ronald Reagan\n\t\t\tB. George Soros\n\t\t\tC. Bill Clinton\n\t\t\tD. George W. Bush\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The idea that war is \"the continuation of politics by other means\" helps to capture\n\t\t\tA. diplomacy is the quietest instrument of influence in global politics\n\t\t\tB. the way political parties fight with each other\n\t\t\tC. the idea that governments use their military to help pursue policy goals\n\t\t\tD. the way Democrats and Republicans differ over the war in Iraq\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What are the key elements of the Liberal approach to US foreign policy?\n\t\t\tA. Promotion of Democracy, free-trade and international institutions\n\t\t\tB. Alliances, diplomacy and protectionism\n\t\t\tC. The balance of power, self-sufficiency and prudence\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the key difference between US expansion pre- and post- 1865?\n\t\t\tA. US expansion was based on territory rather than markets post-1865\n\t\t\tB. US expansion was based on markets rather than territory post-1865\n\t\t\tC. US expansion was limited to Latin America post-1865\n\t\t\tD. US expansion ended after 1865\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?\n\t\t\tA. That the capitalist search for profits was the leading cause of armed conflict\n\t\t\tB. That the United States no longer needed to be militarily strong\n\t\t\tC. That military spending gave the arms industry unwarranted influence on politics and government\n\t\t\tD. That private companies would undermine the role of the Armed Forces\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Within the United Nations, real power is located in\n\t\t\tA. the Security Council\n\t\t\tB. the Chamber of Deputies\n\t\t\tC. the Council of Ministers\n\t\t\tD. the Secretariat\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "In general, how do conservatives and liberals differ when it comes to defense spending?\n\t\t\tA. Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending\n\t\t\tB. Conservatives favor social spending over defense spending; liberals favor defense spending over social spending\n\t\t\tC. Conservatives advocate increases in defense spending; liberals are generally skeptical of increases in defense spending\n\t\t\tD. Conservatives emphasize strong economies; liberals emphasize strong military readiness\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Intergovernmental organizations SELDOM do which of the following?\n\t\t\tA. Provide strong enforcement\n\t\t\tB. Monitor parties\n\t\t\tC. Provide fora for discussion\n\t\t\tD. Reduce transaction costs for agreements\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following are possible constraints on US foreign policy decision making?\n\t\t\tA. Foreign policies of other states\n\t\t\tB. International law\n\t\t\tC. Intergovernmental organizations\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following are possible constraints on US foreign policy decision making?\n\t\t\tA. Foreign policies of other states\n\t\t\tB. International law\n\t\t\tC. Intergovernmental organizations\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What is direct diplomacy?\n\t\t\tA. Members of Congress negotiating directly with foreign governments\n\t\t\tB. Face-to-face meetings between state leaders\n\t\t\tC. The president consulting Congress on foreign policy issues\n\t\t\tD. Bilateral talks that do not involve a third-party negotiator\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the Clinton Administration's policy on the Russian economy?\n\t\t\tA. The US inhibited the marketization of the Russian economy\n\t\t\tB. The US promoted the marketization of the Russian economy\n\t\t\tC. The US supported public ownership of natural resources\n\t\t\tD. None, the US was only concerned with security issues\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How many major powers are there in a multipolar system?\n\t\t\tA. 0\n\t\t\tB. 1\n\t\t\tC. 2\n\t\t\tD. 3 or more\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why did Americans believe that they could found a different kind of empire after 1776?\n\t\t\tA. This would be an 'empire of liberty'\n\t\t\tB. This empire would be multi-cultural\n\t\t\tC. This type of empire would be based on expansion\n\t\t\tD. This would be empire free of slavery\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The trade-off between defense and social spending is often referred to as a choice between\n\t\t\tA. bread and butter\n\t\t\tB. war and peace\n\t\t\tC. guns and butter\n\t\t\tD. bombs and books\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?\n\t\t\tA. The chance for the United States to share power with other countries in the world\n\t\t\tB. An opportunity to use to collapse of the Soviet Union to extend US power\n\t\t\tC. An international system that didn't face any threats\n\t\t\tD. The never-ending domination of the United States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?\n\t\t\tA. Realism\n\t\t\tB. Idealism\n\t\t\tC. Liberalism\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "According to realists, what is the fundamental difference between the international system and the domestic system?\n\t\t\tA. Armed conflict\n\t\t\tB. Anarchy\n\t\t\tC. Institutions\n\t\t\tD. No common language\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?\n\t\t\tA. These organizations merely identify those states who already support human rights\n\t\t\tB. They cannot get enough information about which leaders will abuse their citizens\n\t\t\tC. These organizations have little ability to constrain abusive leaders\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?\n\t\t\tA. It encouraged greater involvement in European politics\n\t\t\tB. It was designed as the antithesis of European politics\n\t\t\tC. It created a large standing army\n\t\t\tD. It encouraged the centralization of political power in the US\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "D\u00e9tente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by\n\t\t\tA. Richard Nixon\n\t\t\tB. Eugene McCarthy\n\t\t\tC. Lyndon Johnson\n\t\t\tD. Robert Kennedy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of these is not a component of the 'American Creed'?\n\t\t\tA. Liberty\n\t\t\tB. Equality\n\t\t\tC. Autocracy\n\t\t\tD. Individualism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "During the early years of his administration, Reagan's foreign and defense policies emphasized\n\t\t\tA. nuclear disarmament\n\t\t\tB. d\u00e9tente\n\t\t\tC. anticommunism\n\t\t\tD. international free trade\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The Vietnam War can be understood as\n\t\t\tA. a war that deeply divided the United States and fostered cynicism toward the American government\n\t\t\tB. an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists\n\t\t\tC. an example of how even a great power may not be able to prevail against a determined enemy unless there is a clear objective and the national will to do so\n\t\t\tD. All of the above are true\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as\n\t\t\tA. the United Nations\n\t\t\tB. the National Security Council\n\t\t\tC. the State Department\n\t\t\tD. the National Security Agency\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The largest increase in peacetime defense spending in American history occurred under which president?\n\t\t\tA. Jimmy Carter\n\t\t\tB. Ronald Reagan\n\t\t\tC. Bill Clinton\n\t\t\tD. Dwight Eisenhower\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What caused a public uproar involving the National Security Agency in 2005?\n\t\t\tA. Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants\n\t\t\tB. A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee\n\t\t\tC. Revelations that the NSA had tortured prisoners at Guantanamo, Cuba\n\t\t\tD. A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\"\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the Marshall Plan?\n\t\t\tA. A plan that provided economic assistance to rebuild Europe\n\t\t\tB. A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats\n\t\t\tC. A plan that provided Europe with military assistance to counter the Soviet threat\n\t\t\tD. The plan designed to stop communism in Asia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?\n\t\t\tA. Having the capability to deter the most powerful rival\n\t\t\tB. Having the capability to deter smaller states\n\t\t\tC. How nuclear attacks are identified and responded to; who controls the weapons\n\t\t\tD. Bureaucratic politics provides no information about nuclear proliferation and use\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "According to International Institutionalists, what problems have international institutions been designed to address?\n\t\t\tA. War\n\t\t\tB. Anarchy\n\t\t\tC. Collective action and coordination problems\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was meant by the term 'New World Order'?\n\t\t\tA. A new democratic internationalism led by the United States\n\t\t\tB. A new balance of power between the US and China\n\t\t\tC. A new global economic framework\n\t\t\tD. A new era of globalization\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The best known and perhaps most important international organization is\n\t\t\tA. the United Nations\n\t\t\tB. the North Atlantic Treaty Organization (NATO)\n\t\t\tC. the Organization of Petroleum Exporting Countries (OPEC)\n\t\t\tD. the World Trade Organization (WTO)\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was meant by the term 'American multiplication table'?\n\t\t\tA. Increase in the US population\n\t\t\tB. Increase in US finances\n\t\t\tC. Increase in US military capability\n\t\t\tD. Increase in US international influence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Global and regional international trade agreements work by using which of the following mechanisms?\n\t\t\tA. Reciprocity across multiple issues\n\t\t\tB. Reputational concerns of the actors\n\t\t\tC. Side payments for adjusting to the organization (such as the Common Agricultural Policy in the EU)\n\t\t\tD. ALL of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why did Lincoln oppose the southward expansion of the US?\n\t\t\tA. It would have drained the US economically\n\t\t\tB. It would have involved compromising opposition to slavery\n\t\t\tC. It would have increased immigration to the US\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as\n\t\t\tA. \"mutual assured destruction.\"\n\t\t\tB. \"brinkmanship.\"\n\t\t\tC. \"realism.\"\n\t\t\tD. \"not in my backyard.\"\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why do some scholars claim that Reagan 'won the Cold War'?\n\t\t\tA. Reagan's first term military spending pressured the Soviet Union to keep up its international commitments\n\t\t\tB. Reagan encouraged engagement with the Soviet Union\n\t\t\tC. Reagan encouraged a softer approach towards communism\n\t\t\tD. Reagan reduced military spending and this allowed the Soviet Union space to reform\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What is the implication of American exceptionalism in terms of global economics?\n\t\t\tA. It encourages the use of tariffs\n\t\t\tB. It encourages nationalization\n\t\t\tC. It encourages liberalization of global trade\n\t\t\tD. It encourages redistribution of wealth\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO\n\t\t\tA. IV only\n\t\t\tB. II and III\n\t\t\tC. I, II, and III\n\t\t\tD. I, II, III, and IV\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?\n\t\t\tA. The external environment of the international system\n\t\t\tB. Domestic environment, government and bureaucracy\n\t\t\tC. The President's individual personality\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How many states in the international system are likely to have nuclear weapons right now?\n\t\t\tA. Fewer than 7\n\t\t\tB. Between 8 and 15\n\t\t\tC. Between 16 and 25\n\t\t\tD. More than 25\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why is NSC 68 seen as a turning point in US Cold War Foreign policy?\n\t\t\tA. It indicated the primacy of economic containment\n\t\t\tB. It indicated a desire to engage with the Soviet Union\n\t\t\tC. It indicated a shift towards military containment\n\t\t\tD. It dispensed with the idea of containment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was meant by the term 'Rogue States'?\n\t\t\tA. States aligned with the USSR during the Cold War\n\t\t\tB. States outside of the 'family of nations'\n\t\t\tC. Communist States\n\t\t\tD. The former Soviet states\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The foreign policy doctrine that European nations should stay out of Latin America is known as\n\t\t\tA. the Powell Doctrine\n\t\t\tB. the Roosevelt Doctrine\n\t\t\tC. the Bush Doctrine\n\t\t\tD. the Monroe Doctrine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?\n\t\t\tA. They see it as a challenge to European global influence\n\t\t\tB. They see it as an ideological fa\u00e7ade for US imperialism\n\t\t\tC. They see it as a temporary phenomenon\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "In what sense might exceptionalism link isolationist and internationalist strategies?\n\t\t\tA. Both encourage world government\n\t\t\tB. Both focus on the decline of the American power\n\t\t\tC. It doesn't - the two are fundamentally opposed\n\t\t\tD. Both can be viewed as different means of achieving the same liberal ends\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why do realists tend to object to the influence of exceptionalism on American foreign policy?\n\t\t\tA. It leads to a diminished focus on collective security\n\t\t\tB. It diminishes the prospects for world government\n\t\t\tC. It enhances the prospects for world government\n\t\t\tD. It leads to a diminished focus on security, power and interest\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What features distinguish Socio-Economic accounts of US Cold War foreign policy?\n\t\t\tA. A focus on class and economic interests\n\t\t\tB. A focus on liberal ideology\n\t\t\tC. A focus on language and culture\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?\n\t\t\tA. All of the world's leading economies were declining due to low growth and inflation\n\t\t\tB. The United States could no longer remain a superpower and was in decline\n\t\t\tC. The soft power of the United States would allow it to avoid decline\n\t\t\tD. The rise of Japan had been exaggerated\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The Joint Chiefs of Staff is made up of\n\t\t\tA. the critical domestic and foreign policy advisers to the president\n\t\t\tB. foreign policy advisers who meet with the president daily\n\t\t\tC. the commanding officers of each branch of the armed services, along with a chairperson and vice chairperson\n\t\t\tD. the highest-ranking generals in the U.S. Army\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What is American exceptionalism?\n\t\t\tA. The belief that the United States is different from other major powers because it is concerned not only with Power, but also with Principles\n\t\t\tB. The belief that the United States is different because it is the most powerful nation in the world\n\t\t\tC. The belief that the United States is pacifist\n\t\t\tD. The belief that the United States is different because it is motivated more by economic factors than other countries are\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to\n\t\t\tA. the Central Intelligence Agency (CIA)\n\t\t\tB. the Federal Bureau of Investigation (FBI)\n\t\t\tC. the National Security Council\n\t\t\tD. Both A and B are correct\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is\n\t\t\tA. the World Bank\n\t\t\tB. the United Nations\n\t\t\tC. UNICEF\n\t\t\tD. the International Monetary Fund\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What policies are part of a grand strategy of Offshore Balancing?\n\t\t\tA. Maintaining a balance between the United States and other countries and not entering into alliances\n\t\t\tB. Investing equally in domestic and international security with balanced protection against terrorism and other states\n\t\t\tC. Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens\n\t\t\tD. Isolate the US from the international system and not seek global power\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the Marshall plan?\n\t\t\tA. A plan designed to aid the economy recovery of Europe\n\t\t\tB. An attempt to diminish the potential attraction of the Soviet system to Europeans\n\t\t\tC. An aid programme that embedded US influence in Europe\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What accounted for the US avoidance of catastrophe at the hands of the British in 1814?\n\t\t\tA. Naval victories\n\t\t\tB. Diplomacy\n\t\t\tC. British preoccupation with Europe\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?\n\t\t\tA. Creation of the Department of Homeland Security\n\t\t\tB. Moving the Department of Defense Intelligence Agencies to the CIA for better coordination\n\t\t\tC. Creation of the National Intelligence Director\n\t\t\tD. Moving the domestic intelligence component of the FBI to the CIA\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The government body formed to coordinate American foreign and military policy is known as\n\t\t\tA. the National Security Council\n\t\t\tB. the Pentagon\n\t\t\tC. the Defense Policy Institute\n\t\t\tD. the Joint Chiefs of Staff\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What drives US foreign policy according to the Marxist perspective?\n\t\t\tA. Economic protectionism\n\t\t\tB. Class consciousness\n\t\t\tC. The search for new markets\n\t\t\tD. Superstructure\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Why might American exceptionalism lead to opposition to world government?\n\t\t\tA. Its general anti-statism opposes centralized government\n\t\t\tB. It views world government as impractical\n\t\t\tC. It views the UN as a sufficient form of global governance\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following considers states to be the primary actors in international relations?\n\t\t\tA. Realism\n\t\t\tB. Idealism\n\t\t\tC. Liberalism\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The importance of oil in shaping U.S. foreign policy helps to highlight\n\t\t\tA. the importance of military superiority\n\t\t\tB. how the importance of oil is often overexaggerated\n\t\t\tC. the increasing importance of economic instruments of foreign policy\n\t\t\tD. the need to drill for domestic sources\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "The president's principal civilian adviser on the military is the\n\t\t\tA. national security adviser\n\t\t\tB. director of the CIA\n\t\t\tC. secretary of defense\n\t\t\tD. secretary of state\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?\n\t\t\tA. They place greater emphasis on economic factors\n\t\t\tB. They place greater emphasis on material interests and power\n\t\t\tC. They place greater emphasis on ideology and beliefs\n\t\t\tD. They place greater emphasis on geopolitics\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?\n\t\t\tA. Congress asserted its primacy in foreign policy\n\t\t\tB. US foreign policy became substantially decentralized\n\t\t\tC. The Presidency welcomed the influence of Congress\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following points supports the argument for American unilateralism?\n\t\t\tA. Benevolent hegemony\n\t\t\tB. Ineffectiveness of multilateralism\n\t\t\tC. American power\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Historically, what has been the general pattern of defense spending in the United States?\n\t\t\tA. Steady increases over time\n\t\t\tB. Increased spending during wars, with demobilization bringing spending down but not back to prewar levels\n\t\t\tC. Unpredictable fluctuations\n\t\t\tD. Increased spending during wars, with further increases after the war to prepare for future engagements\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "International development may be tied to the security of the state, why?\n\t\t\tA. Threats to the state centralize political and economic power, threatening state development\n\t\t\tB. Too many casualties drain the productive power of the state\n\t\t\tC. Threats to the state encourage socialism\n\t\t\tD. The two are correlated, but there is no causal effect\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was the 'Domino Theory'?\n\t\t\tA. The idea that the Cold War operated according to the principles of game theory\n\t\t\tB. The idea that certain states were of higher value than others to the US during the Cold War\n\t\t\tC. The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors\n\t\t\tD. The idea that the growth of democracy in one state would inexorably lead to its growth in others\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What has been an effective way of disbursing US foreign aid to encourage change in target states?\n\t\t\tA. Conditional programs, such as the Millennium Challenge, that require change before receipt of aid\n\t\t\tB. the use of intergovernmental organizations to monitor aid disbursement\n\t\t\tC. withdrawal of aid for bad policies\n\t\t\tD. None of the above, international aid never works\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was established at Bretton Woods in 1994 to stabilize the global economy?\n\t\t\tA. The International Monetary Fund (IMF)\n\t\t\tB. The US Dollar as the world's reserve currency\n\t\t\tC. The General Agreement on Tariffs and Trade (GATT)\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following is NOT a good predictor of which states will get nuclear weapons?\n\t\t\tA. Receipt of sensitive nuclear assistance\n\t\t\tB. Wealth/GDP\n\t\t\tC. Rivalry with a nuclear state\n\t\t\tD. Regime type\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What was 'democratic enlargement'?\n\t\t\tA. A proposal for reform of the US system of government\n\t\t\tB. A proposal for the extension of democratic rule globally\n\t\t\tC. A proposal for the extension of free markets\n\t\t\tD. Both b and c\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "What is meant by the phrase 'empire by invitation'?\n\t\t\tA. Voluntary reliance on an external power for security\n\t\t\tB. Willful openness to colonization\n\t\t\tC. Cultural imperialism\n\t\t\tD. Open advocacy of imperialism for economic gain\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "In what way did the George W Bush administration change the direction of US foreign policy?\n\t\t\tA. It criticized international organizations, rather than trying to strengthen them\n\t\t\tB. It expanded NATO to include former Soviet states\n\t\t\tC. It focused on a more personal style of leadership\n\t\t\tD. It increased international support for the United States\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.\n\t\t\tA. James Madison\n\t\t\tB. Abraham Lincoln\n\t\t\tC. Woodrow Wilson\n\t\t\tD. Thomas Jefferson\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "us_foreign_policy"
+    },
+    {
+        "instruction": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\n\t\t\tA. Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater\n\t\t\tB. Once a church has been recognized by the federal government, its tax-exempt status can never be revoked\n\t\t\tC. Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment\n\t\t\tD. State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following plays the most significant role in forming a child's political views?\n\t\t\tA. The geographical area in which the child grows up\n\t\t\tB. The child's family\n\t\t\tC. The media to which the child is exposed\n\t\t\tD. The child's religion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The primary function of political action committees (PACs) is to\n\t\t\tA. contribute money to candidates for election\n\t\t\tB. coordinate local get-out-the-vote campaigns\n\t\t\tC. promote the defeat of incumbents in the federal and state legislatures\n\t\t\tD. organize protest demonstrations and other acts of civil disobedience\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Federal judges are subject to which of the following disciplinary actions?\n\t\t\tA. Impeachment, conviction, and removal from office by Congress\n\t\t\tB. Removal from office by the appointing president\n\t\t\tC. Removal from office by the president-elect\n\t\t\tD. Recall elections by citizens residing in the district over which the judge has jurisdiction\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the\n\t\t\tA. vice president\n\t\t\tB. president's chief of staff\n\t\t\tC. national security advisor\n\t\t\tD. chair of the Federal Reserve Board\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?\n\t\t\tA. One man, one vote\n\t\t\tB. Separate but equal\n\t\t\tC. Judicial review\n\t\t\tD. Right to privacy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following people would most likely be accused of influence peddling?\n\t\t\tA. A congressperson who retires to take a position teaching political science at a university\n\t\t\tB. A former president who advises a current president on a particular foreign policy issue\n\t\t\tC. A voter who researches the positions of all candidates in a race before choosing whom to support\n\t\t\tD. An official who leaves the State Department to work as a paid consultant to foreign governments\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following does the Supreme Court NOT have the power to override?\n\t\t\tA. Constitutional amendments\n\t\t\tB. Presidential executive orders\n\t\t\tC. Laws passed by Congress\n\t\t\tD. Laws passed by state legislatures\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "According to The Federalist Papers, federalism has which of the following effects on political factions?\n\t\t\tA. It provides a structured environment in which factions may flourish\n\t\t\tB. It limits the dangers of factionalism by diluting political power\n\t\t\tC. It allows factions to dominate on the national level while limiting their influence on state governments\n\t\t\tD. It eliminates any opportunity for factions to form\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Voters in which of the following categories would be LEAST likely to vote?\n\t\t\tA. Blue-collar workers who belong to a union\n\t\t\tB. Professionals\n\t\t\tC. Voters who are active in their political parties\n\t\t\tD. Voters aged 18-29\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "While ratifying the Constitution, the primary point of disagreement between Federalists and Anti-Federalists was over\n\t\t\tA. whether representation in Congress should be equal among states or proportional to population\n\t\t\tB. the strength of the federal government relative to the states\n\t\t\tC. the future of the slave trade\n\t\t\tD. whether people had inalienable rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The exclusionary rule was established to\n\t\t\tA. create \"separate but equal\" facilities to facilitate racial segregation\n\t\t\tB. allow private organizations to restrict their memberships\n\t\t\tC. limit the government's ability to use illegally obtained evidence\n\t\t\tD. deny control of interstate commerce to the states\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The opinions of congressional committees often fail to accurately mirror public opinion because\n\t\t\tA. the membership of committees often overrepresents constituencies with the greatest stake in the committee's business\n\t\t\tB. most committees are too small to include representatives of all popular opinions\n\t\t\tC. the minority party controls nearly half of all committees\n\t\t\tD. committee members often lose track of their constituents' priorities because of their frequent contact with special-interest lobbyists\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Supreme Court issued the opinion quoted below in its ruling on which of the following cases? \"We conclude that in the field of education the doctrine of 'separate but equal' has no place. Separate educational facilities are inherently unequal.\"\n\t\t\tA. Gideon v. Wainwright\n\t\t\tB. Marbury v. Madison\n\t\t\tC. Engel v. Vitale\n\t\t\tD. Brown v. Board of Education of Topeka\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Ruled unconstitutional in 1983, the legislative veto had allowed\n\t\t\tA. the executive branch to veto legislation approved by Congress\n\t\t\tB. federal district courts to overturn legislation\n\t\t\tC. the president to veto state laws\n\t\t\tD. Congress to nullify resolutions approved by the executive branch\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The president executes a \"pocket veto\" by doing which of the following?\n\t\t\tA. Publicly expressing rejection of a bill\n\t\t\tB. Issuing an executive order invalidating a recently passed bill\n\t\t\tC. Failing to sign a bill after Congress has adjourned\n\t\t\tD. Recalling ambassadors from a peace negotiation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following has been true of the Republican Party since the 1980s?\n\t\t\tA. It has become aligned with civil libertarians\n\t\t\tB. It has come to be dominated by labor unions\n\t\t\tC. It has become more antagonistic to business interests\n\t\t\tD. It has become more influenced by evangelical Christians\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is NOT true of executive orders?\n\t\t\tA. Presidents avoid using executive orders for controversial actions\n\t\t\tB. Executive orders have the same effect as laws passed by Congress\n\t\t\tC. Presidents have made increased use of executive orders since the 1970s\n\t\t\tD. Executive orders bypass congressional approval\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following principles is realized when the federal government provides most of the funding to a project in which multiple levels of government work together?\n\t\t\tA. Confederation\n\t\t\tB. Fiscal federalism\n\t\t\tC. Grant-based funding\n\t\t\tD. Dual federalism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "In \"Federalist No. 10,\" James Madison argues that a federal system of government reduces the danger of political factions by\n\t\t\tA. creating insurmountable obstacles to the founding of factions\n\t\t\tB. making it difficult for one faction to gain the power necessary to govern\n\t\t\tC. requiring equal representation of all factions within the government\n\t\t\tD. restricting factional political activity to the state level only\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following can be considered true about the impact of a higher level of education on voting habits EXCEPT\n\t\t\tA. voters are more likely to support government-enforced affirmative action programs\n\t\t\tB. voters are more likely to support environmental protection efforts\n\t\t\tC. voters are more likely to support public prayer in schools\n\t\t\tD. voters are less likely to support restrictions on abortion rights\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following generally results when the Senate and House of Representatives pass different versions of the same bill?\n\t\t\tA. The president signs the version he prefers\n\t\t\tB. The bill goes back to each house's committee and restarts the legislative process\n\t\t\tC. All amendments to the bill are invalidated, and the original version of the bill is sent to the president to sign\n\t\t\tD. The two legislative bodies form a conference committee\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Interest groups representing businesspeople and investors are often among the most successful lobbying groups in Washington, D.C., for all of the following reasons EXCEPT\n\t\t\tA. Such groups have the financial resources to mount sustained campaigns on their own behalf\n\t\t\tB. Many such groups have been in existence for several decades or more, allowing them to master the legislative system and to develop close ties with legislators\n\t\t\tC. In many districts, these groups' constituents make up the majority of voters\n\t\t\tD. These groups' constituents contribute heavily to many legislators' campaigns, and in doing so, gain greater access to legislators\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The origination clause of the Constitution states that\n\t\t\tA. the Bill of Rights must not be infringed upon by any state legislature\n\t\t\tB. Congress and the president must jointly create the annual federal budget\n\t\t\tC. revenue bills must be initiated in the House of Representatives\n\t\t\tD. the Supreme Court has original jurisdiction over all constitutional matters\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following describes a core principle of the Constitution as it was written in 1787?\n\t\t\tA. Direct democracy\n\t\t\tB. Checks and balances\n\t\t\tC. Equal representation\n\t\t\tD. Unitary government\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "What is the primary reason that the committees in the House of Representatives are more influential than they are in the Senate?\n\t\t\tA. The difference in size between the two chambers means that more work is done on the floor in the Senate and more work is done in committees in the House\n\t\t\tB. The Senate as a whole has confirmation powers that the House does not have\n\t\t\tC. Members are appointed to the committee in the House but are elected to committees in the Senate\n\t\t\tD. A member of any party can serve a committee in the House, but only major party members can serve on committees in the Senate\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following most accurately describes the right of American citizens to privacy?\n\t\t\tA. The right to privacy is determined entirely by the states on a case-by-case basis\n\t\t\tB. The right to privacy is explicitly granted in the Preamble to the Constitution\n\t\t\tC. The Supreme Court has ruled that the right to privacy is implied by the Bill of Rights\n\t\t\tD. Common law requires the government to respect citizens' right to privacy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A presidential veto would most likely be overturned in which of the following situations?\n\t\t\tA. Approximately 30% of the senators and representatives are members of the presidential political party\n\t\t\tB. The majority of American citizens support the proposed legislation\n\t\t\tC. The chief justice of the Supreme Court was appointed by the president\n\t\t\tD. The president's successful reelection campaign advocated bipartisanship\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Of the following interest groups, which has created the largest number of political action committees (PACs) since the 1970s?\n\t\t\tA. Environmental activists\n\t\t\tB. Labor unions\n\t\t\tC. For-profit business\n\t\t\tD. Religious institutions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following best illustrates a use of the elastic clause?\n\t\t\tA. The Supreme Court allows a lower court ruling to stand by refusing to hear an appeal\n\t\t\tB. A congressional committee prevents the full chamber from voting on legislation by delaying its report\n\t\t\tC. Congress passes legislation establishing a national speed limit\n\t\t\tD. A member of the House of Representatives introduces a bill to increase federal income tax rates\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements is true of congressional incumbents who run for reelection?\n\t\t\tA. Incumbent senators are more likely to be reelected than are incumbent members of the House of Representatives\n\t\t\tB. Incumbents are prohibited by law from spending more on their reelection campaigns than their challengers spend\n\t\t\tC. Incumbents have a great advantage over challengers because they are better known and can raise campaign funds more easily\n\t\t\tD. Ever since the 1994 election, the majority of congressional incumbents have failed in their reelection attempts\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The relative stability of American public policy is achieved largely through\n\t\t\tA. cooperation between the two major political parties\n\t\t\tB. judicial activism\n\t\t\tC. the constitutional fragmentation of power\n\t\t\tD. affirmative action programs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following best predicts how someone will vote in an election?\n\t\t\tA. The voter's gender\n\t\t\tB. The voter's political party affiliation\n\t\t\tC. The voter's socioeconomic status\n\t\t\tD. The voter's religion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Dred Scott decision of 1857 was overturned by the\n\t\t\tA. Plessy v. Ferguson decision\n\t\t\tB. Missouri Compromise\n\t\t\tC. Jim Crow laws\n\t\t\tD. Fourteenth Amendment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A member of which of the following demographic groups is most likely to support a Republican presidential candidate?\n\t\t\tA. Married white male\n\t\t\tB. Unmarried white female\n\t\t\tC. African American, male or female\n\t\t\tD. Youths under the age of 25, male or female\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is the primary purpose of \"motor voter\" laws?\n\t\t\tA. To increase turnout on election days\n\t\t\tB. To make it easier for citizens to register to vote\n\t\t\tC. To require that all voters know how to drive\n\t\t\tD. To establish voter identification laws\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "An open primary is a primary election in which\n\t\t\tA. voters registered as \"independents\" may not vote\n\t\t\tB. candidates do not specify the office for which they are running\n\t\t\tC. voters may register at their polling place on election day\n\t\t\tD. voters may vote in the election of a party other than the one to which they are registered\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is the largest source of \"automatic spending\" for the federal government?\n\t\t\tA. Salaries to employees of the U.S. Post Office\n\t\t\tB. Interest payments made to U.S. bondholders\n\t\t\tC. Entitlement programs\n\t\t\tD. National defense\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is an example of \"horse-race journalism\"?\n\t\t\tA. A news story focuses on a politician's scandals rather than achievements\n\t\t\tB. A television news anchor reports an event before the station's rivals\n\t\t\tC. A reporter announces which candidate leads in a public opinion poll\n\t\t\tD. A newspaper editor prints stories about long-term political developments\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following are core values of American political culture EXCEPT\n\t\t\tA. income equality\n\t\t\tB. democracy\n\t\t\tC. individual liberty\n\t\t\tD. due process\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Two related cases that focused on the right to privacy for all American citizens were\n\t\t\tA. Near v. Minnesota and New York Times v. Sullivan\n\t\t\tB. Texas v. Johnson and Morse v. Frederick\n\t\t\tC. Thornhill v. Alabama and Cox v. New Hampshire\n\t\t\tD. Griswold v. Connecticut and Roe v. Wade\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The swift adoption of the Bill of Rights in the years following ratification of the Constitution demonstrates the\n\t\t\tA. Framers' unqualified commitment to individual rights\n\t\t\tB. small states' determination to receive equal representation in the legislature\n\t\t\tC. Northern states' support for abolitionism\n\t\t\tD. states' fears of an overpowerful national government\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A Supreme Court that demonstrates a willingness to change public policy and alter judicial precedent is said to be engaging in\n\t\t\tA. judicial activism\n\t\t\tB. due process\n\t\t\tC. judicial restraint\n\t\t\tD. ex post facto lawmaking\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following statements about gerrymandering are true EXCEPT that it\n\t\t\tA. favors incumbent candidates over challengers\n\t\t\tB. can divide like-minded voters into several districts to reduce their influence\n\t\t\tC. has been allowed by the Supreme Court in some instances\n\t\t\tD. increases the control voters have over their elected officials\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "When the Founders met in 1787 to write the Constitution, their primary objective was to\n\t\t\tA. establish a bill of rights that would protect citizens from the government\n\t\t\tB. create a national court system for hearing disputes between citizens of different states\n\t\t\tC. return to the states those powers that the Articles of Confederation had given to the central government\n\t\t\tD. replace the weak central government created by the Articles of Confederation with a stronger one\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Filibusters are less likely to occur in the House of Representatives than in the Senate because\n\t\t\tA. Senate decorum forbids one senator from attempting to stop another's speech\n\t\t\tB. the House meets for substantially fewer hours per day than does the Senate\n\t\t\tC. Senate sessions, unlike House sessions, are open to the public\n\t\t\tD. debate in the House is in most instances strictly regulated by the rules\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is NOT a way in which the powers of the executive branch are balanced by the legislative branch?\n\t\t\tA. The Senate may use the filibuster to block an executive order\n\t\t\tB. Congress may impeach and convict a president for \"high crime and misdemeanors.\"\n\t\t\tC. The Senate can decline to ratify a treaty\n\t\t\tD. The Senate can decline to approve a president's nominee for the Supreme Court\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Why do political scientists identify the presidential elections of Franklin Roosevelt in 1932 and Richard Nixon in 1968 as well as the midterm election of 1994 as \"critical elections\"?\n\t\t\tA. The issues at stake in those elections were more important than in most elections\n\t\t\tB. Those elections saw major shifts in party alignment that would last for decades\n\t\t\tC. Minority voters played a key role in deciding the winners of those elections\n\t\t\tD. Those elections took place during wartime\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "House members are more concerned about their committee assignments than are senators because\n\t\t\tA. House members may serve on only one committee at a time\n\t\t\tB. Senate committees have relatively little power to alter legislation\n\t\t\tC. bills in the Senate must pass through all committees before reaching the floor\n\t\t\tD. the rules make it extremely difficult for representatives to influence legislation on the House floor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements about voting populations is most accurate?\n\t\t\tA. Individuals are less likely to vote in a closely contested race\n\t\t\tB. Voters are more likely to vote at age 18 than they are at age 65\n\t\t\tC. An individual with a graduate degree is more likely to vote than an individual who has only a high school diploma\n\t\t\tD. Affluent individuals are less likely to vote than impoverished individuals\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The primary goal of the Gramm-Rudman Acts of 1985 and 1987 was to\n\t\t\tA. strengthen the military\n\t\t\tB. increase funding for social programs\n\t\t\tC. reduce the federal deficit\n\t\t\tD. limit the president's ability to conduct foreign policy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is the most direct result of an electoral system with single-member districts?\n\t\t\tA. Proliferation of many small parties\n\t\t\tB. A balance of power that favors the president over Congress\n\t\t\tC. A persistent third-party presence\n\t\t\tD. Development of a two-party system\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Voting Rights Act of 1965\n\t\t\tA. granted women the right to vote\n\t\t\tB. banned race-based discrimination\n\t\t\tC. granted African-Americans the right to vote\n\t\t\tD. suspended the use of literacy tests at voting centers\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is LEAST likely to explain low voter turnout for an election?\n\t\t\tA. The preclearance provision of the Voting Rights Act\n\t\t\tB. Low levels of political efficacy among registered voters\n\t\t\tC. Regulations that require voters to show identification\n\t\t\tD. The frequency with which state and local elections occur\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Unlike in a closed primary election, in an open primary election\n\t\t\tA. voters select the winner by caucus instead of by individual ballots\n\t\t\tB. the election results are not binding\n\t\t\tC. any registered voter may participate, regardless of party affiliation\n\t\t\tD. voters may register to vote on the day of the election\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Every ten years, the majority of state legislatures are responsible for\n\t\t\tA. redrawing congressional district boundaries\n\t\t\tB. electing a new state governor\n\t\t\tC. evaluating the physical accessibility of polling venues\n\t\t\tD. deciding where to construct new elementary schools\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The spoils system of awarding civil service jobs was replaced by the merit system as a result of the\n\t\t\tA. Truman Doctrine\n\t\t\tB. Fair Labor Standards Act of 1961\n\t\t\tC. National Industrial Recovery Act\n\t\t\tD. Pendleton Act of 1883\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The term \"iron triangle\" refers to the interrelationship of the\n\t\t\tA. president, Congress, and the Supreme Court\n\t\t\tB. electorate, Congress, and political action committees\n\t\t\tC. local, state, and federal governments\n\t\t\tD. federal bureaucracy, congressional committees, and lobbyists\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The No Child Left Behind Act, which established educational standards that states must meet to receive federal educational funding, is an example of which of the following?\n\t\t\tA. A federal mandate\n\t\t\tB. A constitutional amendment\n\t\t\tC. Affirmative action\n\t\t\tD. Tort reform\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "An inherent power of the president is the power to\n\t\t\tA. appoint a nominee for the U.S. Supreme Court\n\t\t\tB. negotiate a treaty with another country\n\t\t\tC. declare a state of emergency following a natural disaster\n\t\t\tD. veto a bill passed by the U.S. Congress\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Supreme Court has used the Fourteenth Amendment to apply portions of the Bill of Rights to state law by citing the amendment's\n\t\t\tA. prohibition on unreasonable search and seizures\n\t\t\tB. due process clause\n\t\t\tC. guarantee of privacy rights\n\t\t\tD. abolition of slavery\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following presidential powers is shared with the Senate?\n\t\t\tA. Deploying troops\n\t\t\tB. Drafting appropriations bills\n\t\t\tC. Negotiating treaties\n\t\t\tD. Forcing Congress into session\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is a significant difference between the Senate and the House of Representatives?\n\t\t\tA. Only the House has the power to issue subpoenas\n\t\t\tB. Only the Senate may introduce revenue bills\n\t\t\tC. States are equally represented in the House, while representation in the Senate is proportional to population\n\t\t\tD. The Senate allows unlimited debate, while the House does not\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A member of the president's cabinet is said to have \"gone native\" when that cabinet member\n\t\t\tA. resigns to take a position as a consultant to lobbying groups\n\t\t\tB. cedes control of his or her department to lifelong bureaucrats within the department\n\t\t\tC. places his or her department's priorities above the president's\n\t\t\tD. accepts bribes or expensive favors from businesses regulated by his or her department\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements is true regarding delegates to presidential nomination conventions?\n\t\t\tA. Delegates are generally more likely to register as third party voters at some point\n\t\t\tB. The majority of the general population is more educated than the delegates\n\t\t\tC. Delegates typically have little interest in politics\n\t\t\tD. Typically, the general population is less ideological than the delegates\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following are specifically mentioned in the Constitution EXCEPT\n\t\t\tA. judicial review\n\t\t\tB. the national census\n\t\t\tC. rules of impeachment\n\t\t\tD. the State of the Union address\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is true of the Supreme Court?\n\t\t\tA. Every case appealed to the Supreme Court is ruled upon by the court\n\t\t\tB. The court helps set the public agenda by deciding which appeals to hear\n\t\t\tC. The court hears all cases when two or more justices agree that the case has merit\n\t\t\tD. In deciding cases, the chief justice's vote counts as two votes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "While best known for protecting freedom of speech and religion, the First Amendment also protects Americans' right to\n\t\t\tA. due process of the law in any criminal case\n\t\t\tB. retain personal property unless justly compensated by the government\n\t\t\tC. not be subjected to excessive fines or unusual punishment\n\t\t\tD. petition the government for a redress of grievances\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Voting Rights Act of 1965 has had which of the following effects?\n\t\t\tA. States have been prohibited from establishing voter identification requirements\n\t\t\tB. Voters must now pass literacy tests before voting\n\t\t\tC. Voting participation for racial minority voters has increased\n\t\t\tD. The voting age was lowered from 21 to 18\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Considered as a single group, the Small Business Administration, the Small Business committees in the House and Senate, and small business advocacy groups are an example of\n\t\t\tA. an iron triangle\n\t\t\tB. a conference committee\n\t\t\tC. a regulatory agency\n\t\t\tD. dual federalism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A writ of certiorari from the Supreme Court indicates that the Court\n\t\t\tA. will review a lower court decision\n\t\t\tB. has rendered a decision on a case\n\t\t\tC. has decided not to hear an appeal\n\t\t\tD. will recess until the end of the calendar year\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "An example of a categorical grant would be\n\t\t\tA. money loaned by the federal government to cities to fund school maintenance\n\t\t\tB. money given by the federal government to states without conditions\n\t\t\tC. money loaned by the federal government to a private company to prevent it from failing\n\t\t\tD. money given by the federal government to states to fund Head Start early education programs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Congress has attempted to protect independent regulatory agencies from political influence by requiring that each agency\n\t\t\tA. be led by a group of commissioners representing both major political parties\n\t\t\tB. plan policy cooperatively with the appropriate congressional committees\n\t\t\tC. reapply for funding at the end of each fiscal year\n\t\t\tD. submit all planned policy changes to the president for approval\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is true of congressional redistricting?\n\t\t\tA. The responsibility for redrawing congressional districts belongs to congressional committees\n\t\t\tB. It is a noncontroversial process because it has few political ramifications\n\t\t\tC. It occurs every 10 years to reflect changes in population according to the census\n\t\t\tD. The Supreme Court has ruled that legislators may not consider racial demographics when redrawing districts\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following most accurately describes The Federalist Papers?\n\t\t\tA. The Federalist party platform during the presidency of John Adams, the first Federalist president\n\t\t\tB. A popular anti-British booklet of the pre-Revolutionary era\n\t\t\tC. A collection of essays arguing the merits of the Constitution\n\t\t\tD. A series of congressional acts defining the relationship between the federal and state governments\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is true of court cases in which one private party is suing another?\n\t\t\tA. They are tried in civil court\n\t\t\tB. The federal court system has exclusive jurisdiction over them\n\t\t\tC. They are tried in criminal court\n\t\t\tD. The state court system has exclusive jurisdiction over them\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements about political action committees (PACs) is most accurate?\n\t\t\tA. They may only campaign for issues, not for individual candidates\n\t\t\tB. Their activities are not regulated by the Federal Election Commission (FEC)\n\t\t\tC. Their activities are limited to national presidential elections\n\t\t\tD. They raise money to influence federal, state, and local elections\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The line-item veto was ruled unconstitutional because it\n\t\t\tA. violated the legislative process by which bills become laws\n\t\t\tB. allowed Congress to eliminate sections of legislation without a two-thirds majority\n\t\t\tC. gave states the ability to override federal legislation\n\t\t\tD. empowered Congress to nullify executive actions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "In which of the following cases did the Supreme Court decision establish the \"separate but equal\" doctrine of state-sponsored racial segregation?\n\t\t\tA. Plessy v. Ferguson\n\t\t\tB. McCulloch v. Maryland\n\t\t\tC. Gibbons v. Ogden\n\t\t\tD. Brown v. Board of Education\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following categories of spending are paid without an appropriations bill?\n\t\t\tA. Department of Education special acts and authorizations\n\t\t\tB. Justice department budgets\n\t\t\tC. Federal budget entitlements\n\t\t\tD. Department of Defense funding\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Compared with political parties in countries such as England and Israel, both of which have multiparty systems, American political parties are\n\t\t\tA. less interested in influencing the outcome of elections\n\t\t\tB. less clearly identified with consistent political ideologies\n\t\t\tC. less effective at raising money from political supporters\n\t\t\tD. better able to reflect the goals of their entire constituencies\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "According to Brown v. Board of Education (1954), which of the following amendments was violated by the \"separate but equal\" doctrine that had been established in Plessy v. Ferguson (1896)?\n\t\t\tA. First Amendment\n\t\t\tB. Sixth Amendment\n\t\t\tC. Ninth Amendment\n\t\t\tD. Fourteenth Amendment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The Framers of the Constitution sought to insulate the Senate from public opinion by\n\t\t\tA. restricting Senate membership to those who previously served in the House of Representatives\n\t\t\tB. delegating the responsibility for electing senators to the state legislatures\n\t\t\tC. requiring all spending bills to originate in the House of Representatives\n\t\t\tD. empowering the Senate to provide advice and consent to the executive branch\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following statements about Congress are true EXCEPT:\n\t\t\tA. Only Congress can pass laws\n\t\t\tB. A proposed amendment must be approved by two-thirds of the delegates in both houses of Congress\n\t\t\tC. Congress can override a presidential veto if two-thirds of the House and Senate agree to do so\n\t\t\tD. Congressional power over the bureaucracy is less than that of the president\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The majority of Supreme Court justices\n\t\t\tA. are appointed by presidents of the same political party\n\t\t\tB. have no prior judicial experience\n\t\t\tC. switch party affiliation during their term\n\t\t\tD. stay on the court for only a decade\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following most accurately states the impact of the Civil Rights Act of 1964 on school desegregation in the South?\n\t\t\tA. Because it included no enforcement provisions, the Civil Rights Act of 1964 had no appreciable effect on school desegregation\n\t\t\tB. By overturning the \"separate but equal\" principle, the Civil Rights Act of 1964 ended segregation in public schools\n\t\t\tC. The Civil Rights Act of 1964 hastened school desegregation by cutting off federal funds to discriminatory school systems\n\t\t\tD. The Civil Rights Act of 1964 sent federal troops to every segregated public school in the South to force school desegregation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements best characterizes cooperative federalism?\n\t\t\tA. The executive and legislative branches working on legislation together\n\t\t\tB. The federal government granting power over a policy area to the states\n\t\t\tC. Governments working with businesses to address an issue\n\t\t\tD. State and federal governments working on the same issue\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following statements concerning the likelihood that a person will vote are true EXCEPT:\n\t\t\tA. When there is a strong front-runner in a state, people in that state are less likely to vote\n\t\t\tB. White-collar workers are more likely to vote than are blue-collar workers, with the exception of blue-collar workers who belong to unions\n\t\t\tC. Voters who are registered as independent are less likely to vote than those who are registered Democrats or Republicans\n\t\t\tD. There is no difference in the likelihood of voting among those with undergraduate degrees and those with postgraduate degrees\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following statements about the House of Representatives is true?\n\t\t\tA. All revenue bills must originate in the Senate before moving to the House\n\t\t\tB. Representation in the House is allocated equally among the states, while representation in the Senate is allocated proportional to population\n\t\t\tC. The Speaker of the House wields less power than the president pro tempore of the Senate\n\t\t\tD. The House has a Committee on Ways and Means, while the Senate does not\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "People who join a political party other than the one to which their parents belong most often do so because of\n\t\t\tA. peer pressure\n\t\t\tB. economic issues\n\t\t\tC. religious beliefs\n\t\t\tD. pressure from their employers\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The right of American citizens to petition the government for a redress of grievances is protected under the\n\t\t\tA. First Amendment\n\t\t\tB. Second Amendment\n\t\t\tC. Third Amendment\n\t\t\tD. Eighth Amendment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following best describes a block grant?\n\t\t\tA. Money provided to individuals to fund research projects\n\t\t\tB. Funds with few restrictions that are provided to state or local governments for general purpose use\n\t\t\tC. Funds distributed among states according to a set formula\n\t\t\tD. Money that can only be used for a specific purpose\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "A member of the House of Representatives wishing to influence tax policy would most likely try to serve on which of the following committees?\n\t\t\tA. Commerce\n\t\t\tB. Ways and Means\n\t\t\tC. Education and the Workforce\n\t\t\tD. Resources\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is an example of devolution?\n\t\t\tA. Allowing states to decide how to meet federally mandated greenhouse gas emissions targets\n\t\t\tB. A \"race to the bottom\" in which states compete with one another to have the fewest environmental regulations\n\t\t\tC. A state that legalizes marijuana possession in conflict with federal law\n\t\t\tD. A state being prevented from implementing a fuel efficiency standard that is more stringent than that set by the federal government\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "All of the following are constitutionally mandated presidential powers EXCEPT the power to\n\t\t\tA. negotiate treaties\n\t\t\tB. veto legislation\n\t\t\tC. grant reprieves and pardons\n\t\t\tD. declare war\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The principles of freedom-\"we hold these truths to be self-evident, that all men are created equal\"- stated in the Declaration of Independence were influenced by the beliefs of political philosopher\n\t\t\tA. Thomas Hobbes\n\t\t\tB. Niccolo Macchiavelli\n\t\t\tC. Jonathan Edwards\n\t\t\tD. John Locke\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Divided government frequently results in\n\t\t\tA. reapportionment of voting districts\n\t\t\tB. amendments to the Constitution\n\t\t\tC. conflict between states and the federal government\n\t\t\tD. delays in the confirmation of those nominated to be ambassadors\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "Which of the following is true of Congress's power of oversight?\n\t\t\tA. Congressional oversight activities most often take place at the committee and subcommittee levels\n\t\t\tB. State challenges to congressional oversight have severely weakened Congress's oversight powers\n\t\t\tC. Congressional oversight is primarily directed at the judicial branch\n\t\t\tD. Constituent input does not influence congressional oversight\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The absence of a political party solely dedicated to labor and working class issues in the United States\n\t\t\tA. proves U.S. politicians are not concerned about serving working-class constituencies\n\t\t\tB. is the result of government restrictions placed on the political activities of labor unions\n\t\t\tC. reflects the difficulty of unifying a party around a single issue in a \"winner-take-all\" format\n\t\t\tD. demonstrates that, in the United States, most political issues regarding workers have been decided in the workers' favor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_government_and_politics"
+    },
+    {
+        "instruction": "The attorney general is the head of which of the following entities?\n\t\t\tA. The Senate Judiciary Committee\n\t\t\tB. The Department of Justice\n\t\t\tC. The Department of State\n\t\t\tD. The Judge Advocate General's Corps\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_government_and_politics"
+    }
+]

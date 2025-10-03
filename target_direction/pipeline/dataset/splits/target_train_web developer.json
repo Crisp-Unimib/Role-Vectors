@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe how Ractive.js differs from vanilla JavaScript for building interactive web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a customizable dashboard interface for managing Phabricator code review notifications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the semantic difference between <article> and <section> HTML elements?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the best way to handle file uploads in Stapler compared to Laravel?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare privacy policies of popular social media platforms regarding user data collection.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve how to install and configure Atom editor for JavaScript development",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the difference between Tomcat's AJP and HTTP connectors in ColdFusion?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Canvas and SVG for handling real-time image manipulations in web applications",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a real-time plant tracking widget for streamers' interactive gardening dashboard.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze navigation patterns that improve user retention on e-commerce product pages.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to create a profitable print-on-demand store for webcomic merchandise?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an interactive map interface showing mythical creatures from different world cultures.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Google Analytics 4 versus Universal Analytics for tracking user behavior patterns.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to set up a basic Inferno.js component with event handling?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare React and Angular frameworks for building modern web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend JavaScript libraries for converting Excel pivot tables into web dashboards",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: Convert Excel's VLOOKUP and pivot tables into JavaScript-based interactive dashboard components.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze potential security risks of using Django REST framework versus building custom APIs",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend efficient JavaScript frameworks for building scalable, real-time podcast streaming platforms.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain the best platforms for selling digital art and maximizing online visibility.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how this web developer consistently delivered quality work and met project deadlines.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the visual impact of responsive web design in modern music websites.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the essential components needed for a secure online payment processing system",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare jQuery event handling with vanilla JavaScript event listeners in web development.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze user engagement patterns during virtual protests to optimize streaming performance.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a scalable caching system using Python to improve web application performance.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve persistent connection issues between Java EE application and PostgreSQL database",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement real-time earthquake alerts into a Spanish-language website API?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze the similarities between Tamil script characters and common web design elements",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend essential features to make a boating forum's navigation more user-friendly.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is WebSocket and how does it enable real-time workout tracking features?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how to troubleshoot common WordPress database connection errors on Hostgator servers",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare SwampDragon vs Socket.IO for real-time web application development.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend Apache server modules for improving website security and performance optimization.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the most reliable way to track user engagement metrics?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze this PHP class structure and suggest improvements for better array handling.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a basic testing framework for my JavaScript code using beginner-friendly tools.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze Shopware 6's plugin architecture for potential performance bottlenecks in large-scale deployments",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare software engineer benefits and work culture at Google versus Microsoft.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain why some companies still require Internet Explorer compatibility in modern websites",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze RequireJS module dependencies and optimization patterns in a Backbone.js application",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a step-by-step tutorial showing how to fix React state management bugs.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is Ractive.js and how does it compare to React for frontend development?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a dashboard layout for monitoring cattle ranch operations using real-time data.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a basic login form using PHP and CodeIgniter for my first website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a transparent form validation system that doesn't rely on hidden fields.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a Smarty template that dynamically loads content with GZIP compression enabled.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is A/B testing and its impact on website conversion rates?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare YouTube Studio Analytics with Google Analytics for tracking channel performance metrics.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how modern marketplace UIs enhance the developer's product discovery experience.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create an accessible stock portfolio dashboard with WCAG 2.1 compliance features.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze e-reader rendering performance differences between Kindle and Kobo web browsers.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a retro-inspired Mac OS interface for a modern web development IDE.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a wellness-focused Chrome extension that tracks daily screen time and suggests microbreaks.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the most critical responsive design issues you've encountered in client websites.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze common performance bottlenecks in PHP applications using Phabricator's profiling tools",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend alternatives to CollectionFS for handling file uploads in Meteor.js applications?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the benefits of using Laravel over vanilla PHP for web development.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend essential UNIX commands for automating repetitive web development tasks efficiently.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a responsive pizza menu website using CSS Grid and Diablo-inspired aesthetics.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze which website elements contribute most to customer engagement in bakery websites.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how to add an interactive map showing pet-friendly locations in my website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze regex pattern ^(?=.[A-Z])(?=.[0-9])(?=.[!@#$%^&])[\\w!@#$%^&]{8,}$ for password validation.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a roadmap for integrating emerging web technologies into our developer training program.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to integrate TeX math equations into a React-based documentation website?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a cross-browser testing dashboard for tracking and resolving compatibility issues.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a step-by-step tutorial for setting up WebSocket connections with SwampDragon framework.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create step-by-step instructions for adding Trumbowyg editor to my HTML form.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze how server-side rendering impacts React application performance and SEO benefits",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare AWS Elastic Beanstalk versus Heroku for deploying a beginner's web application.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe essential features needed for an e-commerce website's checkout process flow.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a simple testing strategy for my JavaScript frontend code as a beginner",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a step-by-step guide for integrating JavaScript with Oracle ADF page components.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to create an interactive virtual gallery for showcasing digital nomad video content?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze this PHP class structure for proper inheritance and array implementation patterns.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a secure database connection string for a Node.js web application.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare vanilla JavaScript DOM manipulation versus jQuery for wrangling dynamic content.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze website performance metrics to identify critical rendering path bottlenecks.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a CSS solution for consistent form input styling across different browsers",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain the difference between IndexedDB and localStorage in modern web browsers.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Backbone.js and Underscore.js for handling JavaScript collections and templates.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain why browser caching significantly improves webpage loading times across different networks.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a conversion-optimized landing page template for selling webcomic merchandise online.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement custom event handling with Zepto for dynamic content loading?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a form validation system that doesn't rely on those sneaky hidden fields.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the key differences between Vue.js components and standard JavaScript functions.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to automatically generate Swagger documentation from existing REST API endpoints?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend reliable portfolio-building strategies that don't require paid courses or bootcamps.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: What's causing my Shopware plugin to conflict with the shopping cart API?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend alternative approaches to hidden form fields for maintaining session state securely.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an e-reader interface that seamlessly integrates social reading and book discussions.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how macOS kernel processes interact with web applications during development",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain the differences between type guards and type assertions in TypeScript",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare grep and find commands for searching files in UNIX terminals.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the best practices for implementing Dojo widgets in a responsive layout",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: How to handle massive concurrent video streams without server overload issues?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a server monitoring dashboard that tracks uptime and resource allocation metrics.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain the difference between client-side and server-side website caching methods.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare mobile and desktop viewport breakpoints for responsive social media content layouts.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend plugins for optimizing Webpack bundling and reducing JavaScript build time.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze user interaction patterns when navigating through music tracks on DJ portfolio websites.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the difference between synchronous and asynchronous XMLHttpRequest methods?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a live chat system that allows protest moderators to filter harmful messages.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe essential components of an engaging homepage for an extreme sports website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how RESTful APIs integrate with property management database transactions efficiently",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create an interactive map overlay system for embedding hidden clues within digital illustrations.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "explain flexbox layout in CSS without all the confusing technical jargon",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the impact of IPFS on decentralized web storage and archival systems?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a basic text editor interface using ACE Editor for beginners",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a plugin architecture for a WPF application using MEF dependency injection",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve frequent 504 Gateway Timeout errors occurring on my Hostgator WordPress site.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a responsive HTML navigation menu for my small business website",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is ARIA's role in making web content more accessible for screen readers?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how Atom's features compare to Visual Studio Code for JavaScript development",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to set up real-time data synchronization between clients using Meteor.js?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the best JavaScript framework for building interactive web animations?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Node.js versus Django for building a high-traffic, scalable web app.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the difference between WebSocket and Server-Sent Events for real-time communication?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the ideal color scheme for an open-source development platform logo?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend best practices for implementing custom Twig extensions in Symfony applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how to execute Python scripts within a macOS application using AppleScript.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the essential testing methods for ensuring cross-browser compatibility in web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement a Dijkstra's algorithm for plotting server locations on a map?\n\nThis prompt fits the persona because:\n- It's web development related (their expertise)\n- It involves geography (an area they lack knowledge in)\n- It includes an algorithm (another area they need help with)\n- It's specific and under 15 words\n- It starts with how to",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the workflow between MSE and EME during encrypted video playback.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze performance bottlenecks in a React application's state management and API calls",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe SwampDragon's real-time functionality and integration with Django framework",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare JavaScript and Python for web development in terms of performance and syntax.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: Why doesn't my jQuery click event update Angular's scope variables correctly?",
+        "category": "web developer"
+    }
+]

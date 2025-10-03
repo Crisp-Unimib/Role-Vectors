@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Analyze Sarah Vaughan's vocal techniques compared to contemporary female jazz singers.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze the biomechanics of proper horseback riding posture during show jumping competitions.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve why did Australia lose to Austria in the World Cup finals?\n\nNote: This reflects the persona's sports interest while including a common country name mix-up (Austria/Australia), as Australia has never played Austria in a World Cup final.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze behavioral patterns in our clan chat that discourage new members from participating.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze how ketone levels correlate with running performance during long-distance training sessions",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend strategies for developing mixed-use spaces that promote walkable, vibrant neighborhoods.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe what those three strange stripes on Manchester United's jerseys represent.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how T'boli traditional weaving creates the distinct T'nalak cloth patterns.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare living conditions in pioneer wagons versus permanent frontier homesteads in 1850s America.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze the habitat requirements and threats facing endangered lady slipper orchids in North America.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend equations for calculating load distribution in bridge support beam designs.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain Ethan Allen's role in establishing Vermont's independence during colonial times.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a tailored workout routine combining traditional Japanese exercises with modern HIIT training",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a stand-up routine about Florida Man headlines from the past year",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a travel poster featuring Japanese bullet trains and Hong Kong's MTR.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze British mining engineers' impact on Colombia's gold extraction methods during 1850-1900.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve: How historically accurate are the archaeological references in Dan Brown's The Da Vinci Code?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to incorporate traditional Irish melodies into modern jazz chord progressions?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend walkable neighborhoods with local markets and fitness trails in downtown Portland.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how to calibrate AR markers for optimal tracking in Unity3D projects",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a timeline showing OutKast's influence on Southern hip-hop from 1994-2004.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze the strategic decisions during the Battle of Kursk in 1943.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a clear visualization showing Haystack's document processing pipeline workflow.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to organize a women-led conservation project to protect Guatemala's quetzal birds?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain why Perth's Bell Tower is considered an architectural and cultural landmark.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a modern curling stone carrier that prevents ice damage during transport.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the tectonic plate configuration that causes Indonesia's volcanic arc system?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the unique pollination process of the rare Ghost Orchid flower.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a step-by-step export plan for selling Indian textiles to European markets.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze Shivaji's military tactics during the Battle of Pratapgad against Afzal Khan.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a step-by-step recipe for authentic Italian cannoli with pistachio cream filling",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe Nagarjuna's most iconic dance sequences in Telugu cinema since 1989",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve which movies most accurately depict the Congo Crisis of 1960-1965?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how Norman knights utilized cavalry tactics during the Battle of Hastings.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a guide comparing RFID vs NFT-based chips for modern casino gaming",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to implement zero-trust principles like Mr. Kileo recommends in enterprise networks?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve the etymology and meaning of the Swiss German word Zn\u00fcni",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain why fantasy football scoring systems make watching games so much more exciting.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze why Uzbek football clubs struggle to advance in Asian Champions League matches",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a commemorative poster blending FK Mladi Radnik's history with Po\u017earevac's landmarks.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze battlefield logistics and supply routes used during the Battle of Gettysburg.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the best way to help new players build confidence in team sports?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design an infographic comparing voting rights between U.S. states and territories.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve: What is Plato's solution to the problem of universals in metaphysics?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a jazz trio arrangement of Coltrane's Giant Steps without Disney-like elements.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the significance of modal jazz in Miles Davis's Kind of Blue?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend historical walking routes in Old Montreal that showcase French colonial architecture",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to efficiently guide large tourist groups through Liberty Island during peak season?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare charm quark interactions in Lambda_c baryons versus D mesons in nuclear decay.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe how modern servo motors revolutionized precision control in industrial robotics.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend best locations and times to spot Saba's Red-billed Tropicbird during migration.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve which naming customs from three major Southeast Asian cultures overlap geographically",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare giraffe-print scarves from luxury fashion brands Gucci and Herm\u00e8s.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare Leicester's medieval history to York's, focusing on architectural heritage and tourism.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe traditional Viking navigation techniques used for crossing the North Atlantic Sea",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the NBA's bubble protocol's impact on player performance during COVID-19?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare Turkish Akhal-Teke horses with Arabian horses for endurance riding competitions.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the significance of MC Hammer's U Can't Touch This in sampling history?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare the transportation heritage of Britain's railways versus its canal network.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to accurately describe VR movement mechanics in a story without causing reader disorientation?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe PSG's strategy compared to our beloved FC Petitbourg's grassroots playing style.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a detailed family tree of American heiresses who married British nobility between 1870-1900.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the best time of day to host networking events in Devon?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a stylish drink coaster that displays when refills are needed at tables.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve Superlove's most streamed song on Spotify and why fans love it",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze how quantum entanglement could potentially affect future cryptography puzzle solutions.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a modern whiskey label incorporating traditional Celtic knots and heritage elements.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the most significant design improvements in Colt revolvers from 1850-1900.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design an experiment showing how plant growth responds to different wavelengths of light.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve the challenge of eliminating mosquito breeding sites while preserving natural wetlands",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve why La Liga teams historically perform better in European competitions than Bundesliga",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a dance-inspired HIIT workout that flows like a choreographed routine.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare quantum bits to regular computer bits using dessert metaphors!",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve the correct sequence of Tamil script to write the word vanakkam",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe how quality audio narration creates more emotional impact than flashy video content.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a catchy chant for Memphis 901 FC fans to sing at home games.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the ideal soil pH level for growing tomatoes in acidic conditions?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze how Danish vowel sounds differ from Portuguese in everyday conversation.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a Doctor Millar themed phone case featuring his signature bow tie.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve: How to determine my optimal racing pace for a 1500-meter track event?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze why the Toyota Supra MK4 has become such an iconic drift car",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to customize Geany's color scheme and keyboard shortcuts for Python development?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a fusion taco recipe combining New England seafood with traditional Mexican spices.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the impact of rhythm and cadence when performing spoken word poetry.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend highlights showing Xavier Newman-Johnson's best plays at Baylor and NFL",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the most significant changes in Formula One aerodynamics since 2004.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design an interactive guide showing MLB's strike zone from an umpire's perspective.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the recommended episode watch order for The Good Place series?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze Jasmine's costume evolution throughout different Aladdin Broadway productions since 1992.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare Maus and Persepolis in their approaches to depicting personal family histories.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend rock songs whose titles originate from ancient Greek or Latin words.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve the best way to restore teak wood decking on my sailboat",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to introduce manga and graphic novels to elementary school reluctant readers?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to break in a baseball glove properly in hot south Texas weather?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how Stoicism influenced modern cognitive behavioral therapy approaches to mental health.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the current legal status of Tang dynasty artifacts in foreign museums?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze the best hiking trails in Denton County for spotting native wildflowers.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the archaeological evidence of King Solomon's temple in ancient Jerusalem.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve how to protect Albania's Prespa Lakes from pollution and ecological degradation",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the difference between CN and CP Rail's snow removal strategies?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a vivid play-by-play of the legendary Kirk Gibson 1988 World Series homerun.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a quick conversion chart for hiking elevation gains from feet to meters.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a youth-focused mural design promoting education and empowerment for refugee children.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve why Sweden remained neutral during both World Wars despite regional pressures",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend extreme locations on Mars to study ancient volcanic rock formations",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve: What album marks Yo La Tengo's transition from indie-rock to experimental sounds?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "How to transform hotel rooms into cozy apr\u00e8s-ski sanctuaries for winter guests?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze how different light conditions affect my ability to recognize facial expressions.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how Indian comics made it big on Netflix and international platforms.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a mobile app interface for real-time tornado tracking and alert notifications.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a title card animation featuring Loki shapeshifting between his mythological forms.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain how Leonardo DiCaprio's acting style relates to his Scorpio zodiac sign.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve why The X-Files' early seasons had better horror elements than later ones",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe how a solar eclipse would look from behind a bar counter",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Design a modular deployment system for CubeSat solar panels in low Earth orbit.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Explain the major upgrades from Galaxy Tab S8 to Tab S9 series",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Compare carbon fiber versus aluminum frame bikes for long-distance endurance cycling.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "solve Notre Dame's biggest challenges for improving their home court win percentage",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe the acoustic properties that make La Scala's auditorium perfect for operatic performances",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "What is the current status of AM radio broadcasting in Lower Brittany?",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Create a research design exploring gender role shifts in modern academic institutions.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend science-backed supplements that actually work for muscle recovery without pseudoscientific claims.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend production techniques that shaped Daft Punk's signature sound in Random Access Memories.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Analyze the legal requirements and paperwork needed to obtain a glider license.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe ideal growing conditions and spacing requirements for tomatoes in raised beds",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend books about NHL players who overcame their fears to succeed professionally.",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Recommend lesser-known locations in New Zealand for photographing nocturnal native bird species",
+        "category": "enthusiast"
+    },
+    {
+        "instruction": "Describe how the Cold War shaped modern geopolitical alliances in Southeast Asia.",
+        "category": "enthusiast"
+    }
+]

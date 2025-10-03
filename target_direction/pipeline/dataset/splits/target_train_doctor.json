@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "What is the most effective way to coordinate care plans with primary physicians?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare conventional gene therapy delivery methods with new CRISPR-based therapeutic approaches.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how field medics can effectively treat trauma patients without modern equipment.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a visual framework illustrating the interconnection of ancient alchemical symbols and modern chemistry.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the predictive accuracy of in-vitro methods versus animal testing for neurotoxicity.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how ventilation systems affect airborne particulate distribution in manufacturing environments",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare WIMP dark matter models versus axion theories in explaining galactic rotation curves.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how different sound frequencies affect stress hormone levels in meditation practitioners.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend current viral mutation tracking tools suitable for SARS-CoV-2 variant analysis",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to build trust with a new healthcare provider after negative medical experiences?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend interdisciplinary research methods for studying mental health among refugee communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is Dr. Diana Ramos's approach to improving maternal health outcomes?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend statistical methods for analyzing our latest cell signaling pathway experiment data",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the art of changing public perception through carefully crafted media statements.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve the correlation between sleep apnea and cardiovascular disease risk factors",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the effectiveness of herbal remedies compared to conventional treatments for inflammation.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how K-pop incorporated Western pop music elements during the 2010s.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare the medicinal properties and side effects of St. John's Wort versus Prozac.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve why vaccine hesitancy spreads faster on social media than scientific facts",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze interoperability challenges between different EHR systems in emergency care settings.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a data visualization dashboard for tracking microfinance loan performance across developing nations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to identify physical symptoms of chronic workplace stress in patients?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze synaptic plasticity mechanisms in the hippocampus during long-term memory formation.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how electroencephalography signals can control prosthetic limb movement patterns.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how K-pop incorporates Western pop music elements in chord progressions and production.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is magical realism's role in postcolonial literature from Africa and India?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve: What factors contribute to increasing cyber vulnerabilities in NATO's defense infrastructure?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a biodegradable composite material that can replace single-use plastic packaging.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve memory fragmentation issues in real-time operating systems without impacting performance latency.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare geriatric care approaches between Western medicine and traditional Eastern healing practices.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze nanoparticle encapsulation efficiency rates compared to liposomal drug delivery systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is Amy O'Sullivan's current medication list and known drug allergies?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve racial achievement gaps in standardized test scores across different socioeconomic backgrounds",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a crisis protocol for treating COVID-19 patients based on Amy O'Sullivan's experiences.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to effectively recruit participants for experimental drug trials in oncology research?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a persuasive campaign slogan that subtly discredits an opponent without appearing negative.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how DNA methylation patterns influence gene expression during cellular differentiation.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a graphical representation of ionic conductivity patterns in novel room-temperature electrolytes.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve which herbs are most therapeutic to grow for managing chronic inflammatory conditions?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare ergodic attractors and minimal invariant sets in continuous dynamical systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a timeline showing economic recessions and their global impacts since 1900.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze interpreter quality's correlation with deaf students' test scores in STEM subjects.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to recognize early warning signs of sepsis in pediatric patients?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to integrate herbal supplements safely with conventional medications for chronic conditions?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the relationship between emergent behavior and distributed computing algorithms?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a molecular dynamics simulation to study vibrational energy transfer in nanostructures.\n\n(This prompt reflects the likely interests of someone who studied under Dan Gezelter, known for his work in theoretical and computational chemistry, particularly in molecular dynamics simulations and energy transfer in molecular systems.)",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the deal with patients who think they know more than doctors?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how behavioral economics influences consumer spending patterns during economic recessions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the legal protections needed for overworked medical professionals in hospitals.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an interactive dashboard to visualize real-time clinical trial patient outcomes data.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to incorporate Jewish medical ethics principles into modern Caribbean healthcare practices?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare dueling codes of honor between 17th-century French and Italian aristocratic societies.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend energy-dense materials suitable for next-generation grid-scale battery storage systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a visualization system to map butterfly effect patterns in weather systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend simple home remedies for common ailments that don't require fancy prescriptions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a visual diagram showing how gut bacteria influence autoimmune disease development.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to spot early signs of strep throat in children without visiting doctor",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the role of mechanotransduction in muscle tissue repair after physical therapy?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a data visualization comparing authoritarian censorship patterns across different social media platforms.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the influence of Buddhist meditation practices on early Christian monasticism?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve: How can I minimize potential side effects during experimental medical device testing?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a medical decision-support system that prioritizes physician judgment over automated recommendations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve international coverage gaps when transitioning between healthcare systems across different countries",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how border conflicts affect biodiversity conservation in disputed territorial waters.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the time complexity and security vulnerabilities of common sorting algorithms.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare the proof methods of Euler's formula and Gauss's divergence theorem.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an infographic comparing female political representation across UN member states globally.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve how wilderness medical professionals handle emergencies in remote backcountry locations",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how dropout layers affect convergence rates in convolutional neural networks.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare holistic medicine and conventional medical approaches for treating chronic pain patients.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe effective community-based approaches for post-conflict reconciliation in divided societies.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a visualization showing the relationship between prime numbers and RSA encryption.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how therapeutic ultrasound affects soft tissue healing in sports injuries.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze Dr. Diana Ramos's impact on maternal health disparities in California.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve cache coherency issues in multi-core systems using MESI protocol optimization",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve the correlation between socioeconomic status and COVID-19 mortality rates in Netherlands.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve the differential rate equation for OH radical kinetics in tropospheric photochemistry",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare quantum tunneling in physics to cellular membrane transport in biological systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve: How neurotransmitter imbalances affect social anxiety during graduate student networking events",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how neoliberal economic policies influence democratic institutions in developing nations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend ergonomic surgical tools for minimizing hand fatigue during lengthy procedures.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how in-vitro cell cultures can replace animal testing for skin irritation studies",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an educational healthcare app that explains medical terms in teacher-friendly, clear language.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze my geriatric patient's unusual symptoms through my mother's traditional healing perspective.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how flexible work arrangements influence employee creativity and innovative behavior.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain the clinical significance of p-values in medical research studies.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a guide for diagnosing common sports-related knee injuries in young athletes.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare traditional psychotherapy methods with modern app-based mental health interventions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how minimum wage policies affect employment rates across different demographic groups.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare PhD admission requirements between top US and UK education programs.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve: Integrate crown structure data with gene expression patterns in forest canopy species",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how diet and lifestyle changes impact my mother's arthritis treatment progress.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve the chronological sequence of influences in Picasso's Blue Period paintings.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a hospital-grade cybersecurity interface that protects patient data during emergency procedures.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how molecular biology proves more essential than quantum mechanics in medicine",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze common pediatric respiratory conditions and their initial emergency treatment protocols.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create visual scenarios depicting nonverbal communication barriers between Western and Asian coworkers.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare lichen-fungal photobionts' roles in Parmeliaceae versus Cladoniaceae species.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how quantum decoherence affects classical computing error correction implementations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend research papers on quantum gravity's role in Hawking radiation near singularities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how this doctor's article strategies effectively motivate patients toward lifestyle changes.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to integrate medical device engineers with clinical staff for better healthcare outcomes?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the condition and estimated value of this 1980s Care Bears plush.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the impact of electronic health records on patient care efficiency?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a framework showing how blockchain technology could transform traditional democratic voting systems.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend professional scientific illustration software for creating publication-quality molecular biology diagrams",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a data visualization system to track multiple animal populations' behavioral patterns simultaneously.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create an infographic explaining health disparities in underserved urban communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how metacommunication shapes interpersonal dynamics within digital discourse communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the most user-friendly medical software that requires minimal mathematical calculations?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a convolutional neural network architecture optimized for real-time object detection tasks.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how Einstein rings form during gravitational microlensing of distant stars.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe your research methodology and its potential impact on undergraduate education.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve the convergence rate of gradient descent in deep neural network optimization.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to maximize research lab efficiency while working seventy-hour weeks?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend ethical frameworks for evaluating end-to-end encryption in personal communications.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an inclusive STEM learning space for underserved high school students.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend high-impact journals for publishing novel CRISPR gene-editing technique findings",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare convolutional and recurrent neural networks for visual pattern recognition tasks.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an infographic template for communicating COVID-19 vaccination benefits to diverse communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to rapidly assess trauma patients with multiple critical injuries before surgery?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve why a patient's vocal nodules aren't improving despite speech therapy treatment",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare the long-term health impacts of Mediterranean versus Western dietary patterns.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend scholarly texts exploring the metaphysical implications of quantum entanglement in consciousness.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to apply quantum mechanics principles to model cellular membrane transport mechanisms?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the impact of network topology on parallel computing system performance.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend advanced ML algorithms suitable for protein structure prediction in drug discovery.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare healthcare access in former British versus French colonies in West Africa.",
+        "category": "doctor"
+    }
+]

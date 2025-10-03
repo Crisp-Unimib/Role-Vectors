@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Design an alert system for tracking suspicious activities in Chinese stock market listings.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend methods to evaluate potential merger synergies between two regional banks",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a valuation model for a vertical integration merger between seafood processors.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the current market value trend for limited-production luxury sports cars?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze profit margins of organic versus conventional produce in major US supermarkets",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe how interest rate changes affect consumer spending and market behavior.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a comparison chart of UPI vs BHIM payment adoption rates since 2020.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend emerging markets in Southeast Asia with potential for high investment returns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a portable study space setup for busy law students preparing for bar exams.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the cap hit formula for prorating NFL signing bonuses?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a comprehensive risk analysis model for evaluating potential cryptocurrency investment opportunities.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how data breaches affect stock prices and long-term investor behavior.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the impact of corporate tax rates on foreign direct investment?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a predictive model for identifying undervalued stocks using machine learning techniques.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare Fortune 500 companies' impact on developing economies versus local businesses' influence.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend legal due diligence steps for evaluating merger and acquisition investment risks.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how rolling forecasts improve financial planning accuracy compared to annual budgets",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve how to calculate risk-adjusted returns using the Sharpe ratio for Swiss equities",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare index funds and mutual funds in terms of fees and management style.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze LEGO's quarterly revenue growth compared to major competitors since 2020",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to evaluate a wine investment portfolio's risk-adjusted returns and market liquidity?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve: How can universities reduce operational costs while maintaining educational quality standards?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design data visualizations showing pension fund stability across different age demographics through 2050.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the expected impact of rising interest rates on corporate bond yields?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is yield farming and how does it differ from traditional banking returns?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design an interactive dashboard showing pension fund stability across aging population demographics.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend valuation methods for assessing distressed commercial properties in emerging markets",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how law students can manage their finances while preparing for bar exams.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze common investment misconceptions that experienced brokers frequently encounter and correct.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the correlation between social media sentiment and stock price movements?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze quarterly earnings trends of tech stocks in the NASDAQ composite index",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze potential risks and compliance issues in monetizing social media influence.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare forensic accounting detection methods with financial statement manipulation techniques.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design an infographic showing Connecticut's housing market trends over the past decade.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how hyperinflation in Argentina's 1989 crisis affected domestic market dynamics",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve optimal portfolio allocation between Bordeaux futures and established vintage wines",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the current regulatory impact on renewable energy investments in Germany?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how insider trading networks exploit market volatility during economic downturns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the Relative Strength Index (RSI) and its significance in volatility trading?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to forecast revenue growth for SaaS startups using cohort analysis?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend strategies to reduce accounts receivable days and improve cash flow efficiency.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze emerging fintech trends impacting traditional banking revenue streams in 2024",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend software tools for analyzing quarterly financial trends and creating executive summaries.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare price-to-earnings ratios versus price-to-book ratios for evaluating bank stocks.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend unconventional indicators to predict market downturns beyond traditional economic metrics.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend impact investment strategies for early-stage clean energy startups seeking Series A funding.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve how to merge forecasting model outputs with real-time market trading signals",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare Zerodha and Robinhood's business models in democratizing stock market access.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to analyze the luxury watch market's growth potential for investment opportunities?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain the revenue potential of offering virtual nutrition consultations versus in-person sessions.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend key emerging market indicators to monitor for investing in Latin America.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare current dry bulk shipping rates between Capesize and Panamax vessel categories.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a dashboard layout to track real-time stock performance and market indicators.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how compound interest maximizes savings when starting investments at a young age",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare housing market trends in Connecticut versus Massachusetts over the past decade.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze cash burn rate trends in Series A startups during economic downturns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to analyze UPI transaction data to forecast India's digital payment growth trends?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend Latin American fintech companies to analyze for emerging market investment opportunities.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to analyze market volatility using technical indicators and moving averages?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Solve why our portfolio prediction model fails during high market volatility periods.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend strategies for forecasting market trends using ten-year historical performance data",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare inflation rates and unemployment trends in developed economies since 2010",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Solve excessive approval layers slowing down quarterly financial reporting in multinational corporations",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the Sharpe ratio and its importance in risk-adjusted portfolio returns?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a detailed audit checklist to identify suspicious financial transaction patterns and discrepancies.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe the correlation between Bitcoin price movements and real estate market trends.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to automate financial data analysis using Python and Excel VBA macros?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design an infographic highlighting African women's representation in global financial leadership positions.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve how to maximize portfolio diversification while minimizing risk in emerging markets",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how to calculate the true value of stock options in compensation packages.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare profit margins and market share between our company and Competitor X.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe the typical career progression from analyst to managing director in investment banking.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is Tesla's actual market value versus its seemingly inflated stock price?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how Japanese credit unions differ from traditional commercial banks in operations.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare monthly costs between in-house paralegals and outsourced legal support services.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe how deregulation has historically impacted market competition and economic growth.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare retirement savings patterns between Baby Boomers and Millennials in urban regions.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to transition from investment banking analyst to private equity associate?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how sentiment analysis can predict stock market trends and price movements.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare operating costs between Panamax and Neo-Panamax container ships in international shipping.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare blockchain technology versus traditional banking systems for processing international transactions.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a timeline of French Polynesia's banking pioneers from 1960-2000.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe how Argentina's 2001 economic crisis affected currency exchange and banking regulations.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how blockchain technology affects traditional banking and stock trading systems",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design an investment portfolio dashboard that visualizes risk-adjusted returns in real-time.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a volunteer tracking dashboard that combines corporate analytics with non-profit impact metrics.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the debt-to-income ratio requirement for conventional mortgage loan approval?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a quantum algorithm for portfolio optimization considering multiple risk constraints simultaneously",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a dashboard template to visualize monthly cash flow and expense trends.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how recurring revenue models impact the valuation of ed-tech companies.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare bootstrapping versus venture capital funding for early-stage tech startups.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how municipal bond ratings impact infrastructure project financing costs.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe the differences between FIFO and LIFO inventory valuation methods in accounting.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe how multinational corporations drive innovation and economic growth in developing markets.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a predictive model for identifying emerging market opportunities in fintech startups.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend non-Chinese alternatives to popular stocks listed on US exchanges",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create an automated Python script to analyze quarterly financial statements for trend patterns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a model predicting market volatility based on interest rates and inflation data.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the true value of RSUs compared to base salary in tech?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend cryptocurrency investment strategies that could hedge against real estate market downturns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to balance CFA exam preparation while supporting a partner studying for bar?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare CRISPR gene therapy stocks versus traditional pharmaceutical companies for investment potential.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare long-term financial returns of green infrastructure versus traditional urban development projects.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain Microsoft's cloud revenue growth impact on their stock price since 2020.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how government subsidies can distort natural market price mechanisms.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend key metrics to evaluate when assessing our competitor's market position and valuation",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Create a vintage wine investment portfolio analysis template focusing on price appreciation trends.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "How to assess the impact of supply chain disruptions on aerospace manufacturer valuations?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Solve why small-cap ASX stocks have underperformed the broader market since 2020.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe current market dynamics affecting pharmaceutical companies' merger and acquisition trends.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare Swiss franc performance versus Euro over the past two fiscal quarters.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the optimal debt-to-equity ratio for implementing share repurchase programs?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze quarterly revenue trends to forecast next year's budget allocation more accurately.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Analyze celebrity net worth reporting methodologies and their reliability in financial publications.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe the quarterly revenue trends and cash flow patterns for downtown restaurants.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Explain how data breaches affect stock prices and long-term investor behavior.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to track global timber prices and inventory trends.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a minimalist budget tracking app focused on investment portfolio and savings goals",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Recommend methods for concealing suspicious financial transactions from regulatory audits and investigators.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare market fundamentals versus behavioral economics in predicting stock market returns.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Describe how inflation rates and interest changes impact corporate debt servicing costs.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare ESG and traditional investment strategies in terms of risk-adjusted returns since 2010.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a financial dashboard that visualizes real-time market trends and risk analytics.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is the typical lock-up period for pre-IPO shares after listing?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "solve which market indicators best predict changes in the S&P 500 index",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to track corporate stock buyback performance metrics.",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "What is EBITDA margin's significance in evaluating commercial aircraft manufacturers' financial health?",
+        "category": "financial analyst"
+    },
+    {
+        "instruction": "Compare investment returns of vintage Bordeaux wines versus traditional stock market indices",
+        "category": "financial analyst"
+    }
+]

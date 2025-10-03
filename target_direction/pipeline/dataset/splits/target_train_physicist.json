@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "How to calculate gravitational time dilation near a supermassive black hole?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a visualization showing galaxy rotation curves without relying on dark matter theory.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a visual model showing protoplanetary disk accretion challenging current formation theories.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to model gravitational interactions between multiple exoplanets in binary star systems?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Solve the relativistic mass equation for an object approaching light speed c.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the significance of Ptolemy's Almagest in early astronomical mapping methods?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the quantum entanglement patterns observed in DNA base pair mutations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare Ricci flow with mean curvature flow in geometric evolution equations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to design lab experiments testing rock conductivity under varying pressure conditions?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a miniaturized propulsion system for deep space nano-satellites under 10cm diameter",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze the electrical conductivity patterns in multi-layered graphene under varying temperatures",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend key metrics to evaluate the commercial viability of breakthrough solar technologies",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the critical mass threshold required for plutonium-239 nuclear fission?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how Schr\u00f6dinger's equation models the behavior of quantum mechanical systems.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe quantum entanglement's implications for Einstein's locality principle in spacetime dynamics",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how gamma-ray spectroscopy revolutionized our understanding of stellar nucleosynthesis.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the neutron absorption patterns in experimental thorium-based nuclear fuel configurations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend beginner-friendly telescopes under $500 for observing Jupiter's Galilean moons.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the significance of narrow-band electromagnetic signals in detecting extraterrestrial intelligence?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend software tools for analyzing X-ray emissions from magnetized neutron stars",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the judging criteria used in International Physics Olympiad competitions?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the potential role of quantum mechanics in understanding extraterrestrial biochemistry?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the quantum tunneling effect's role in modern semiconductor technology?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze the electron drift velocity measurements and identify any systematic calibration errors.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze how upper atmospheric wind patterns influence global heat distribution and circulation.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend exercises that demonstrate Newton's laws of motion in running mechanics.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze the distribution patterns of dark matter in newly formed galaxies.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend advanced physics textbooks focusing on spacecraft propulsion systems and orbital mechanics.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare Newtonian gravity equations with Einstein's field equations for gravitational wave predictions.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Solve the efficiency losses in perovskite solar cells during high-temperature operation.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the experimental evidence for R-parity violation in supersymmetric models?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design visualization tools for mapping quantum entanglement patterns in particle physics experiments.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend scientific papers about Mars terraforming that would inspire compelling science fiction.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare Cesium-137 and Strontium-90 accumulation patterns in deep-sea fish tissues.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the maximum tensile strength possible for our superconductor containment chamber design?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend introductory quantum mechanics textbooks suitable for teaching first-year physics undergraduates.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a collaborative framework for sharing quantum computing research between international physics laboratories",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design an interactive exhibit that demonstrates how optical illusions exploit visual processing mechanics.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the tangible societal benefits and cost-effectiveness of your quantum computing research.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how experimental data contradicts string theory's untestable mathematical predictions.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve the differential equations governing the evolution of a neutron star's density",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend reliable sources debunking MIT's recent quantum entanglement breakthrough claims.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to integrate quantum computing advances into our national energy storage infrastructure?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how quantum entanglement could enhance trace evidence analysis in forensic investigations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a scientifically accurate illustration of a binary star system for book cover.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the relationship between dark matter distribution and galaxy cluster formation?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze the feasibility of muon-catalyzed fusion for sustainable energy production.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the relationship between gravitational waves and interstellar communication patterns?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare quantum entanglement and classical correlation in terms of information transfer efficiency.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how quantum physics principles apply to financial derivatives pricing models.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare meal prep services versus home cooking for busy science professionals.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to calibrate a helioseismic data pipeline for solar oscillation mode identification?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design an infographic explaining black hole event horizons for a science documentary.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how gravitational time dilation would affect an interstellar alien civilization's development.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a simulation showing what happens when black holes collide in space.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a model visualizing quantum entanglement without relying on computational complexity abstractions",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain the quantum mechanics behind faster-than-light interstellar navigation calculations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to mathematically model quantum decoherence effects in multiple-universe wave function calculations?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the experimental evidence that would conclusively prove sterile neutrinos exist.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the current state of Moldova's participation in ESA space programs?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a model showing how ancient Mayans might have measured solar electromagnetic radiation.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend climate simulation models for predicting long-term atmospheric carbon dioxide levels.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain quantum entanglement's role in developing secure communication systems.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a data visualization showing coral bleaching patterns relative to ocean temperature changes.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to stabilize quantum entanglement for maintaining temporal wormhole connections?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve the mathematical inconsistencies in social conflict theory using quantitative physics models",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the current evidence supporting or challenging string theory's extra dimensions?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare nuclear-powered military vessels versus eco-friendly alternatives in terms of operational efficiency.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze the relationship between magnetic field strength and protostellar disk formation rates.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve which theoretical physicists are best suited for quantum cosmology conferences today?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a visualization workflow to identify porosity trends from well log data.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how electromagnetic waves interact with birefringent crystals in optical experiments",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a model showing how black holes affect the spacetime around them.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the gravitational waveform patterns observed during a binary black hole merger.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve carbon footprint reduction strategies for rocket launches while maintaining mission effectiveness",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how gravitational waves demonstrate the curvature of spacetime in Einstein's equations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how string theory relates to the unification of quantum mechanics and gravity.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the process of stellar nucleosynthesis in massive stars before supernova",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze seismic wave patterns in the San Andreas Fault during 2019-2020.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a visual representation of path integral formulation for quantum mechanical systems.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to accurately describe gravitational lensing effects near a supermassive black hole?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to implement numerical Ricci flow computations for curved spacetime manifolds?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the difference between nuclear fission and fusion in energy production?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the quantum mechanical effects on matter near a supermassive black hole.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how time dilation is portrayed in Christopher Nolan's film Interstellar",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend techniques for visualizing quantum entanglement concepts through abstract geometric art.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe the particle cascade process when cosmic rays interact with Earth's atmosphere",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare atmospheric re-entry effects between Apollo capsules and modern SpaceX Dragon vehicles.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend policy changes needed to integrate quantum energy storage into our grid system.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Solve quantum decoherence effects on protoplanetary disk formation during stellar accretion.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve Kristian Birkeland's contributions to understanding the physics behind aurora borealis",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to implement adaptive beamforming algorithms for phased array radar systems?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how social media algorithms influence the formation of intimate relationships offline.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to calculate orbital mechanics for a Mars transfer trajectory using Python?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve how air resistance affects the terminal velocity of different-shaped objects experimentally",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve the optimal balance between STEM coursework and art classes for high schoolers",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Design a visualization system showing how quantum entanglement warps four-dimensional spacetime geometry.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare floating-gate versus charge-trap flash memory architectures in terms of scalability limitations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to calculate the entropy of a black hole using Hawking radiation?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the maximum theoretical velocity achievable using antimatter propulsion systems?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Recommend software tools for modeling three-body gravitational interactions in orbital mechanics calculations",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the role of magnetic fields in protoplanetary disk formation?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain why black holes bend light and if we could survive entering one?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze Carl Sagan's influence on public understanding of astronomy during 1980-1990.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Explain how Flash's superspeed would affect relativistic time dilation in reality",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe quantum entanglement in simple terms that average readers can understand.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how quantum entanglement mathematically correlates to Einstein's theory of relativity",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a model comparing black hole event horizons to quantum entanglement principles.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the quantum entanglement explanation proposed in chapter four of your book?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the most effective way to visualize quantum mechanics for struggling students?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create analogies explaining quantum entanglement that everyday people can easily understand.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare thrust faults and normal faults in terms of their stress orientations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve the optimal radiation dose delivery pattern for minimizing adjacent tissue damage",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to turn my smartphone into a basic physics lab for measuring acceleration?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the philosophical implication of quantum entanglement on deterministic causality?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze numerical stability of Fast Fourier Transform algorithms in quantum wave function calculations.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a data visualization of exoplanet transit light curves from Kepler observations",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze how quantum entanglement could enable faster-than-light communication between particles.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "How to experimentally validate the falsity of quantum entanglement in biological systems?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "What is the role of aerosol microphysics in atmospheric radiative transfer modeling?",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze how black holes affect the space-time fabric of our universe.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare Madappa Prakash's neutron star research with traditional nuclear physics theories.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create a magnetometer array design for tracking subtle shifts in tectonic plate movement.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Create an infographic comparing nuclear power's carbon footprint to other energy sources.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Analyze quantum tunneling effects in carbon nanotube electron transport simulations using NEGF methods.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Describe how Star Trek's warp drive relates to Einstein's theory of relativity.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "Compare active and sterile neutrinos in terms of particle interaction and detection.",
+        "category": "physicist"
+    },
+    {
+        "instruction": "solve how ancient astronomical observations can validate archaeological dating of Mayan structures",
+        "category": "physicist"
+    }
+]

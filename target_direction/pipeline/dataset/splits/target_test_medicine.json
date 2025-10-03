@@ -1,0 +1,1207 @@
+[
+    {
+        "instruction": "Which of the following is the commonest cause of dementia in the UK?\n\t\t\tA. Alzheimer's disease\n\t\t\tB. Cerebrovascular (stroke) disease\n\t\t\tC. Lewy body dementia\n\t\t\tD. HIV infection\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true in diplopia?\n\t\t\tA. Diplopia can never occur if one eye is covered\n\t\t\tB. The outer image is always the false image\n\t\t\tC. A fourth nerve palsy occurs when the patient looks upwards\n\t\t\tD. A sixth nerve palsy causes a divergent squint\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Fatty acids are transported into the mitochondria bound to:\n\t\t\tA. thiokinase\n\t\t\tB. coenzyme A (CoA)\n\t\t\tC. acetyl-CoA\n\t\t\tD. carnitine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)?\n\t\t\tA. Blood type AB (rhesus negative), blood type B, and blood type O (rhesus negative)\n\t\t\tB. Blood type B (rhesus positive) and blood type O (rhesus positive)\n\t\t\tC. Blood type B (rhesus negative) and blood type O (rhesus negative)\n\t\t\tD. Blood type B (rhesus negative) only\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which one of the following represents a IIIrd cranial nerve palsy and is a neurosurgical emergency?\n\t\t\tA. Unilateral constricted pupil\n\t\t\tB. Bilateral constricted pupils\n\t\t\tC. Unilateral fixed dilated pupil\n\t\t\tD. Oval shaped pupils\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true about a thyroid swelling?\n\t\t\tA. It always elevates on swallowing\n\t\t\tB. Lymph node enlargement is a good prognostic sign\n\t\t\tC. An ultrasound of the swelling is the best test to determine whether the nodule is actively secreting hormone\n\t\t\tD. A functioning nodule on isotope scanning is unlikely to be due to cancer\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true regarding reflexes?\n\t\t\tA. A positive babinski reflex is the same as a normal flexor response in the assessment of the plantar reflex\n\t\t\tB. An extensor plantar response indicates a lower motor neurone lesion\n\t\t\tC. The root value of the ankle reflex is S1\n\t\t\tD. The root value of the knee reflex is L1, L2\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true of facial nerve palsy?\n\t\t\tA. Bells palsy is another term for an upper motor neurone lesion\n\t\t\tB. Ramsay Hunt Syndrome is an upper motor neurone lesion secondary to a Herpes Zoster infection\n\t\t\tC. An inability to close the eyelid on the paralysed side indicates a lower motor neurone lesion\n\t\t\tD. In Bell's Palsy the sense of taste is never affected\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following processes is not used to modify protein structure after translation has occurred?\n\t\t\tA. Lipidation\n\t\t\tB. Attachment of more amino acids via peptide bonds\n\t\t\tC. Glycosylation\n\t\t\tD. Phosphorylation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Why would you need to carry out a bladder washout for a patient at home?\n\t\t\tA. When their urine is clear\n\t\t\tB. When the catheter is blocked\n\t\t\tC. When the catheter is bypassing\n\t\t\tD. When the catheter is dirty\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Lactate and hydrogen ions leave the muscle:\n\t\t\tA. via a cotransport mechanism with carnosine\n\t\t\tB. via an active transport mechanism\n\t\t\tC. via a protein transporter molecule\n\t\t\tD. by simple diffusion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true of the spine?\n\t\t\tA. Back pain is an uncommon complaint\n\t\t\tB. Schober's test is designed to quantify the flexion of the lumbar spine\n\t\t\tC. Ankylosing spondylitis is a cause of hypermobility of the spine\n\t\t\tD. Pregnancy is a cause of loss of lordosis of the lumbar spine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true of calcium metabolism?\n\t\t\tA. Calcitonin causes a rise in plasma calcium\n\t\t\tB. Primary hyperparathyroidism is usually asymptomatic\n\t\t\tC. Vitamin D is secreted by the parathyroid glands\n\t\t\tD. Oliguria is a symptom of hypercalcaemia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Embedded in the inner membrane of the mitochondrion are:\n\t\t\tA. the enzymes of the tricarboxylic acid cycle (Krebs' cycle)\n\t\t\tB. the components of the electron transport chain\n\t\t\tC. glycogen molecules\n\t\t\tD. triacylglycerol molecules\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The main factors determining success in sport are:\n\t\t\tA. a high energy diet and large appetite\n\t\t\tB. high intelligence and motivation to succeed\n\t\t\tC. a good coach and the motivation to succeed\n\t\t\tD. innate ability and the capacity to respond to the training stimulus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:\n\t\t\tA. variable\n\t\t\tB. determined by the base sequence in RNA\n\t\t\tC. genetically determined\n\t\t\tD. always 1:1\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:\n\t\t\tA. 930\n\t\t\tB. 93\n\t\t\tC. 9.3\n\t\t\tD. 0.93\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A fundamental cause of fatigue in high intensity exercise is:\n\t\t\tA. a fall in the cell concentration of ADP\n\t\t\tB. inhibition of ATP production\n\t\t\tC. failure of the ATP supply to match the demand\n\t\t\tD. lack of skill\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following best describes the effects of morphine?\n\t\t\tA. Reduces pain intensity and increases alertness\n\t\t\tB. Reduces pain intensity but also causes sedation\n\t\t\tC. Reduces pain intensity but also causes diarrhoea\n\t\t\tD. Reduces pain intensity but also causes insomnia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true of headache?\n\t\t\tA. When associated with neck stiffness is always due to meningitis\n\t\t\tB. Severe pain usually indicates a life threatening cause\n\t\t\tC. Temporal arteritis is strongly associated with rheumatoid arthritis\n\t\t\tD. Tension headaches is a common cause of headache\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Between contractions of the left ventricle the blood continues to flow through the vessels because:\n\t\t\tA. the atria are contracting\n\t\t\tB. the vessels are contracted\n\t\t\tC. the right ventricle is relaxed\n\t\t\tD. the arteries have elastic recoil\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What might make the nurse think a patient could not use an inhaler?\n\t\t\tA. Severe leg ulcers\n\t\t\tB. Previous recovery from an acute exacerbation of asthma\n\t\t\tC. Forthcoming surgery\n\t\t\tD. Poor technique, physical impairment, or lack of understanding\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "When using an inhaler, when should a patient be asked to rinse their mouth?\n\t\t\tA. Before using their bronchodilator inhaler\n\t\t\tB. After using their bronchodilator inhaler\n\t\t\tC. Before using their steroid inhaler\n\t\t\tD. After using their steroid inhaler\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Muscle lactate production increases when:\n\t\t\tA. oxygen is readily available\n\t\t\tB. pyruvate cannot be formed from glucose breakdown\n\t\t\tC. the pH of the muscle falls\n\t\t\tD. glycolysis is activated at the onset of exercise\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is the minimum time a stretch should be held for?\n\t\t\tA. 0-10 seconds\n\t\t\tB. 10-30 seconds\n\t\t\tC. 30-50 seconds\n\t\t\tD. 60 seconds\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What three factors regulate stroke volume?\n\t\t\tA. Blood volume, preload, and afterload\n\t\t\tB. Preload, contractility, and afterload\n\t\t\tC. Contractility, blood volume, and blood pressure\n\t\t\tD. Cardiac output, contractility, and blood volume\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Name the bones of the middle finger in the correct order from the hand.\n\t\t\tA. Proximal phalynx, middle phalynx, distal phalynx\n\t\t\tB. Distal phalynx, middle phalynx, proximal phalynx\n\t\t\tC. Middle phalynx, distal phalynx, proximal phalynx\n\t\t\tD. Distal phalynx, proximal phalynx, middle phalynx\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following promotes glucose and amino acid uptake by muscle?\n\t\t\tA. Adrenaline\n\t\t\tB. Insulin\n\t\t\tC. Glycogen\n\t\t\tD. Cortisol\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "An ileostomy opening should be:\n\t\t\tA. flush with the skin\n\t\t\tB. 3-5cm in length\n\t\t\tC. below skin level\n\t\t\tD. over 5cm in length\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which one of the following manoeuvres is not a central painful stimulus?\n\t\t\tA. Supra-orbital ridge pressure\n\t\t\tB. Pressure on the little finger pulp\n\t\t\tC. Trapezius squeeze\n\t\t\tD. Sternal rub\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true about the rectal examination?\n\t\t\tA. If the patient refuses a chaperone the doctor can overrule them\n\t\t\tB. The rectal examination is of no value in a neurological examination\n\t\t\tC. The optimum position of the patient is on their right side with their knees extended\n\t\t\tD. The rectal examination is indicated for the assessment of some gastrointestinal disorders\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Wound drainage should be assessed for volume and consistency:\n\t\t\tA. each time post-operative observations are undertaken\n\t\t\tB. daily\n\t\t\tC. every hour\n\t\t\tD. only when the wound dressing is changed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "When developing a plan of care relating to the management of a person's pain, attention should be given to the following needs:\n\t\t\tA. physical and pharmacological needs only\n\t\t\tB. physical and psychological needs only\n\t\t\tC. physical, psychological, and pharmacological needs followed by regular reassessment\n\t\t\tD. none of the above, as the main priority is to limit drug side effects\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following groups of drugs may cause a dry mouth?\n\t\t\tA. Steroids\n\t\t\tB. Analgesics\n\t\t\tC. Antidepressants\n\t\t\tD. Antifungal agents\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:\n\t\t\tA. 5\n\t\t\tB. 50\n\t\t\tC. 0.5\n\t\t\tD. 500\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?\n\t\t\tA. An accumulation of inorganic phosphate\n\t\t\tB. Development of hyperosmolality in the muscles\n\t\t\tC. An excess of antioxidants\n\t\t\tD. A lack of potassium\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is hypochlorhydria?\n\t\t\tA. Increased amount of gastric acid\n\t\t\tB. Gastric ulceration\n\t\t\tC. Reduced amount of gastric acid\n\t\t\tD. Pernicious anaemia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is not an amino acid?\n\t\t\tA. Glutamic acid\n\t\t\tB. Aspartic acid\n\t\t\tC. Glutamine\n\t\t\tD. Palmitic acid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "If a blood unit has been out of refrigeration for longer than the accepted time limit, you should:\n\t\t\tA. transfuse it as soon as possible and annotate the patient's notes with the time of administration\n\t\t\tB. dispose of the contents in the sluice area, keeping the bag for record purposes\n\t\t\tC. return it to the blood bank and inform them of why you have done so\n\t\t\tD. refrigerate for a minimum of 12 hours and then administer it\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "How many different types of microorganisms may colonize the mouth?\n\t\t\tA. 35\n\t\t\tB. 100\n\t\t\tC. 350\n\t\t\tD. 500\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following:\n\t\t\tA. 1 mg/mL\n\t\t\tB. 1 mg/L\n\t\t\tC. 1 g/mL\n\t\t\tD. 100 micrograms/mL\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "An allele that is masked is referred to as:\n\t\t\tA. recessive\n\t\t\tB. redundant\n\t\t\tC. repressed\n\t\t\tD. reclusive\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Hypernatraemic dehydration is:\n\t\t\tA. water intake is less than is needed to maintain balance\n\t\t\tB. water intake is more than is needed to maintain balance\n\t\t\tC. blood volume is lost due to trauma or burns\n\t\t\tD. blood volume is lost due to surgery\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?\n\t\t\tA. Glutamine\n\t\t\tB. Glucose\n\t\t\tC. Carnosine\n\t\t\tD. Amylase\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true about Addisons Disease?\n\t\t\tA. It is due to a deficiency of prolactin hormone\n\t\t\tB. Leads to generalized pigmentation\n\t\t\tC. It is a recognized cause of hypertension\n\t\t\tD. Diabetes is a complication\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following are indicative signs and symptoms of circulatory overload?\n\t\t\tA. Hypothermia, hypotension, and bradycardia\n\t\t\tB. Hypotension, oliguria, and uticaria\n\t\t\tC. Shivering, pyrexia, and thirst\n\t\t\tD. Dyspnoea, tachycardia, and distended neck veins\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is the most likely cause of acute urinary retention of urine?\n\t\t\tA. Haematuria\n\t\t\tB. Bladder outflow obstruction\n\t\t\tC. Drinking alcohol\n\t\t\tD. Kidney stones\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Where should a stoma be sited?\n\t\t\tA. The rectus sheath abdominus\n\t\t\tB. Next to the umbilicus\n\t\t\tC. Within an abdominal crease\n\t\t\tD. In close proximity to the incision site\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Women's world record performances have improved rapidly in recent years mainly because:\n\t\t\tA. women have evolved a greater muscle mass\n\t\t\tB. women can now run faster than men\n\t\t\tC. women have started training at an earlier age\n\t\t\tD. more women are now engaged in sport\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true about the assessment of arm reflexes?\n\t\t\tA. The root value of the biceps reflex is C5, C6\n\t\t\tB. If no reflex is elicited when you tap a tendon it is documented as absent\n\t\t\tC. The triceps tendon is struck in the antecubital fossa\n\t\t\tD. Brisk finger jerks confirm a lower motor neurone lesion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is the 'normal' range of flexion at the knee joint?\n\t\t\tA. 0-115 degrees\n\t\t\tB. 0-135 degrees\n\t\t\tC. 0-155 degrees\n\t\t\tD. 0-175 degrees\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is not a controlled drug?\n\t\t\tA. A 30 milligram ampoule of Codeine Phosphate for injection\n\t\t\tB. A sustained release Morphine tablet\n\t\t\tC. A 12.5 microgram Fentanyl patch\n\t\t\tD. A 500 ml bottle of Morphine 10 mg in 5 ml in oral suspension\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "After what period of time does maximal dynamic exercise become predominantly aerobic?\n\t\t\tA. 10 seconds\n\t\t\tB. 30 seconds\n\t\t\tC. 1 minute\n\t\t\tD. 4 minutes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The trigger to initiate the contractile process in skeletal muscle is:\n\t\t\tA. potassium binding to myosin\n\t\t\tB. calcium binding to tropomyosin\n\t\t\tC. ATP binding to the myosin cross bridges\n\t\t\tD. calcium binding to troponin\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The energy charge of the cell is:\n\t\t\tA. the difference between the charge on the outside and inside of a cell\n\t\t\tB. generated by the sodium-potassium ATPase\n\t\t\tC. the overall rate of energy use by the cell\n\t\t\tD. the extent to which the total adenine nucleotide pool is phosphorylated\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following parameters are seen on typical neurological observation charts?\n\t\t\tA. Urine output\n\t\t\tB. Temperature\n\t\t\tC. Central venous pressure\n\t\t\tD. Blood glucose\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?\n\t\t\tA. The GP, consultant, and named nurse\n\t\t\tB. The nurse, patient, and ward clerk\n\t\t\tC. The nurse, ward clerk, and consultant\n\t\t\tD. The nurse, consultant, and GP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)?\n\t\t\tA. Only patients over 60 years of age\n\t\t\tB. Only patients admitted to the Emergency Department\n\t\t\tC. Only patients who have been on an Intensive care/High dependency unit\n\t\t\tD. Any patient who is acutely unwell pre-operatively or post-operatively and those who have undergone major surgery\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What type of covalent bonds link the amino acids in a protein?\n\t\t\tA. Peptide bonds\n\t\t\tB. Hydrogen bonds\n\t\t\tC. Ionic bonds\n\t\t\tD. Glycosidic bonds\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The term gene doping refers to:\n\t\t\tA. the use of drugs to modify gene transcription\n\t\t\tB. the use of genetic manipulation techniques to enhance performance in sport\n\t\t\tC. the activation or inhibition of genes to mask drug taking by athletes\n\t\t\tD. the use of drugs to modify the myostatin gene\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Name three of the five main uses of the hand.\n\t\t\tA. Touch, feel, stroke\n\t\t\tB. Grip, percussion, sensory\n\t\t\tC. Tap, slap, clap\n\t\t\tD. Touch, pinch, grasp\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with:\n\t\t\tA. a reduction in anxiety and perceived pain intensity\n\t\t\tB. an increased use of analgesia\n\t\t\tC. a decrease in the frequency of pain-related problems such as nausea and vomiting\n\t\t\tD. an increased urine output\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "When recording peak flow results, within how many litres/minute should the three readings be?\n\t\t\tA. 10 litres per minute of each other\n\t\t\tB. 20 litres per minute of each other\n\t\t\tC. 100 litres per minute of each other\n\t\t\tD. 30 litres per minute of each other\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The frontal lobe of the brain's cortex is responsible for which of the following?\n\t\t\tA. The sleep/wake cycle\n\t\t\tB. The ability to draw shapes\n\t\t\tC. Understanding others' speech\n\t\t\tD. Visual perception\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The carpal bones are the small bones of the wrist - name them.\n\t\t\tA. Scaphoid, lunate, triquetral, pisiform, trapezium, trapezoid, capitate, hamate\n\t\t\tB. Scaphoid, lunar, triquetrium, pisiform, radius, ulna, capitates\n\t\t\tC. Scaphoid, proximal phalynx, humerus, hamate, capitate\n\t\t\tD. Scaphoid, radius, ulna, cunniform, trapezius\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is 'coring'?\n\t\t\tA. A symptom of phlebitis\n\t\t\tB. Titration of a drug with its desired effect\n\t\t\tC. The delivery of medication straight into the bloodstream\n\t\t\tD. When drugs are withdrawn from a sealed vial, fragments of the rubber bung can be cut out by the needle\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following factors can affect enzyme activity?\n\t\t\tA. Temperature\n\t\t\tB. pH\n\t\t\tC. The presence of certain metal ions\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:\n\t\t\tA. Glycolysis\n\t\t\tB. creatine phosphorylation\n\t\t\tC. phosphocreatine stores\n\t\t\tD. ATP stores\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A change in blood pressure is detected by the:\n\t\t\tA. baroreceptors\n\t\t\tB. chemoreceptors\n\t\t\tC. vasomotor centre\n\t\t\tD. cardiovascular centre\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Blood clots are responsible for repeatedly blocking a catheter. What should you do?\n\t\t\tA. Call for help\n\t\t\tB. Inform medical staff\n\t\t\tC. Inform the patient\n\t\t\tD. Remove the catheter and recatheterize\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What is the pH of water?\n\t\t\tA. 3.5\n\t\t\tB. 7\n\t\t\tC. 12\n\t\t\tD. 6.25\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "How long can a cannula remain in situ?\n\t\t\tA. 24 hours\n\t\t\tB. 36 hours\n\t\t\tC. 48 hours\n\t\t\tD. 96 hours\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "How many chromosomes do all human somatic cells contain?\n\t\t\tA. 3\n\t\t\tB. 20\n\t\t\tC. 23\n\t\t\tD. 46\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?\n\t\t\tA. Ammonia, hypoxanthine and uric acid\n\t\t\tB. Ammonia, urea and uric acid\n\t\t\tC. Ammonia, urea and creatinine\n\t\t\tD. Ammonia, urea and creatine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What type of joint is the elbow?\n\t\t\tA. Ball and socket joint\n\t\t\tB. Fused joint\n\t\t\tC. Synovial hinge joint\n\t\t\tD. Plain joint\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A hypertonic solution is:\n\t\t\tA. a solution that has a higher concentration of solutes than the normal human cell\n\t\t\tB. a solution that blocks off enteral tubes easily\n\t\t\tC. a solution that has a lower concentration of solutes than the normal human cell\n\t\t\tD. a solution with a high fibre content\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of these is not necessary when examining the jugular venous pulse?\n\t\t\tA. Patient's neck muscles should be relaxed\n\t\t\tB. Timing the pulsation with the radial pulse\n\t\t\tC. Good lighting\n\t\t\tD. Patient lying at 45 degree angle\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Fast-twitch fibres contain:\n\t\t\tA. a relatively large number of mitochondria and low ATPase activity\n\t\t\tB. a relatively small number of mitochondria and low ATPase activity\n\t\t\tC. a relatively small number of mitochondria and high ATPase activity\n\t\t\tD. a relatively large number of mitochondria and high ATPase activity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The enzymes of glycolysis are located in the:\n\t\t\tA. mitochondrion\n\t\t\tB. nucleus\n\t\t\tC. cytoplasm\n\t\t\tD. lysosomes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:\n\t\t\tA. 1-2 seconds\n\t\t\tB. 5-10 seconds\n\t\t\tC. 30-40 seconds\n\t\t\tD. 50-60 seconds\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "As a general principle what is the best approach to the use of analgesic drugs following surgery?\n\t\t\tA. Give drugs only 'as required'\n\t\t\tB. Give drugs regularly with provision for additional 'as required' pain relief for breakthrough pain\n\t\t\tC. Use long-acting drugs twice daily\n\t\t\tD. Give only when pain scores are high\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Under which circumstances would you not use a catheter valve?\n\t\t\tA. If the patient is post-operative\n\t\t\tB. If the patient chooses it\n\t\t\tC. If the patient has bladder sensation\n\t\t\tD. If urine does not need to be measured\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Your first action following confirmation of cardiac arrest is to:\n\t\t\tA. ensure the emergency team/services are called\n\t\t\tB. give two rescue breaths\n\t\t\tC. give 30 chest compressions\n\t\t\tD. check the notes to see if the patient has a DNAR order\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Who has legal responsibility for a patient's care during hospital admission, stay, and discharge?\n\t\t\tA. The named nurse\n\t\t\tB. The named consultant\n\t\t\tC. The ward manager\n\t\t\tD. The GP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which of the following is true of haematemesis?\n\t\t\tA. A low blood pressure (<90mmHg systolic) and a tachycardia (>100/min) are worrying features\n\t\t\tB. A pulse rate of 80/min in a patient taking Bisoprolol is reassuring\n\t\t\tC. Abdominal pain is always present\n\t\t\tD. An alcohol history is not essential\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The genome is:\n\t\t\tA. the number of chromosomes found in the somatic cells of an organism\n\t\t\tB. the entire DNA sequence of an organism\n\t\t\tC. the entire list of proteins that an organism is capable of producing\n\t\t\tD. the DNA sequence of an entire chromosome\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The main fate of lactate that leaves muscle and enters the circulation is:\n\t\t\tA. conversion to urea in the liver\n\t\t\tB. conversion to glucose in the heart\n\t\t\tC. excretion via the kidneys\n\t\t\tD. uptake and oxidation by other tissues\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "The most rapid method to resynthesize ATP during exercise is through:\n\t\t\tA. glycolysis\n\t\t\tB. phosphocreatine breakdown\n\t\t\tC. tricarboxylic acid cycle (Krebs' cycle)\n\t\t\tD. glycogenolysis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "One of the most common reasons for stoma formation is:\n\t\t\tA. irritable bowel syndrome\n\t\t\tB. haemorrhoids\n\t\t\tC. carcinoma\n\t\t\tD. bladder instability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "A surgical support can be used for:\n\t\t\tA. prolapsed stomas\n\t\t\tB. high output stomas\n\t\t\tC. herniation around the stoma\n\t\t\tD. retraction of the stoma\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "What size of catheter bag may be used at night?\n\t\t\tA. 350ml\n\t\t\tB. 500ml\n\t\t\tC. 1L\n\t\t\tD. 2L\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Anaerobic metabolism refers to the generation of ATP:\n\t\t\tA. without the involvement of ADP\n\t\t\tB. without the use of glycogen\n\t\t\tC. without the use of oxygen\n\t\t\tD. in the absence of available oxygen\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Eccrine and apocrine glands are both types of:\n\t\t\tA. sweat glands\n\t\t\tB. salivary glands\n\t\t\tC. chemoreceptors\n\t\t\tD. tear ducts\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Two of the following are evident - pain at IV site, erythema, and swelling. What stage on the phlebitis scale is this and what should you do?\n\t\t\tA. Stage 1 - observe cannula\n\t\t\tB. Stage 2 - re-site cannula\n\t\t\tC. Stage 3 - re-site cannula and consider treatment\n\t\t\tD. Stage 0 - do nothing\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Measuring the blood pressure in an arm that is above the level of the heart will:\n\t\t\tA. accurately estimate the blood pressure\n\t\t\tB. overestimate the blood pressure\n\t\t\tC. cause an auscultatory gap\n\t\t\tD. underestimate the blood pressure\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "When you are taking a musculoskeletal history which of the following is true?\n\t\t\tA. Drugs may be implicated in the causation of gout\n\t\t\tB. A history of diarrhoea is not relevant\n\t\t\tC. Difficulty rising from a chair is diagnostic of polymyalgic rheumatica\n\t\t\tD. Joint stiffness of 5 minutes duration suggests an arthropathy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Which organ secretes insulin?\n\t\t\tA. The gastric parietal cells\n\t\t\tB. The pancreas\n\t\t\tC. The walls of the large intestine\n\t\t\tD. The autonomic nervous system\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways?\n\t\t\tA. Ask them to take lots of small, quick breaths in before using the inhaler\n\t\t\tB. Ask them to breathe normally when using the inhaler\n\t\t\tC. Ask them to perform the procedure as quickly as they can\n\t\t\tD. Ask them to hold their breath at the end of the inspiration on using the inhaler\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "In general, the higher the intensity of exercise, the greater the proportional contribution of:\n\t\t\tA. aerobic energy production\n\t\t\tB. anaerobic energy production\n\t\t\tC. the TCA cycle (Krebs' cycle) to the production of ATP\n\t\t\tD. the electron transfer chain to the production of ATP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Phosphocreatine in the muscle cell is found in:\n\t\t\tA. the mitochondria\n\t\t\tB. all subcellular compartments\n\t\t\tC. the sarcolemma\n\t\t\tD. the cytoplasm\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "clinical_knowledge"
+    },
+    {
+        "instruction": "Who set the world record for the mile race in 1886?\n\t\t\tA. R Bannister\n\t\t\tB. S Coe\n\t\t\tC. J DiMaggio\n\t\t\tD. WG George\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:\n\t\t\tA. about 10 seconds\n\t\t\tB. about 30 seconds\n\t\t\tC. about 1 minute\n\t\t\tD. about 4 minutes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Fatty acids are transported into the mitochondria bound to:\n\t\t\tA. thiokinase\n\t\t\tB. coenzyme A (CoA)\n\t\t\tC. acetyl-CoA\n\t\t\tD. carnitine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Diisopropylfluorophosphate (DFP) binds to the active site of acetylcholinesterase (ACE) in the synapses of neurons. When DFP binds to ACE, the ACE enzyme is rendered permanently inactive. This makes DFP a potent toxin, with lethal amounts at less than 100 mg. The interaction between DFP and ACE can best be characterized as:\n\t\t\tA. Competitive inhibition\n\t\t\tB. Noncompetitive inhibition\n\t\t\tC. Irreversible inhibition\n\t\t\tD. Partially competitive inhibition\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The process of translation requires the presence of:\n\t\t\tA. mRNA, tRNA and ribosomes\n\t\t\tB. mRNA, ribosomes and RNA polymerase\n\t\t\tC. DNA, mRNA and RNA polymerase\n\t\t\tD. chromatin, DNA and amino acids\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Performance enhancing synthetic steroids are based on the structure of the hormone:\n\t\t\tA. testosterone\n\t\t\tB. cortisol\n\t\t\tC. progesterone\n\t\t\tD. aldosterone\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Perchloric acid (HClO4) is considered one of the stronger acids in existence. Which of the following statements corresponds most accurately with strong acids?\n\t\t\tA. Ka is less than 1\n\t\t\tB. They have an open electron spot on their outer valence rings\n\t\t\tC. They have stable conjugate bases\n\t\t\tD. They remain bound in the presence of water\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A descript amount of 2-bromobutane is placed into a strong solution of ethanol and allowed to complete a reaction. The result of this reaction produces a major product of 2-butene and a minor product of 1-butene. Which of the following descriptions of the starting compound explains why 2-butene is the major product?\n\t\t\tA. Carbon 3 has less hydrogen atoms\n\t\t\tB. 1-butene rearranges to 2-butene in solution\n\t\t\tC. Ethanol prefers the second carbon in any chain\n\t\t\tD. Cyclic aromatization\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The maximum sustainable power:\n\t\t\tA. usually remains constant during a race\n\t\t\tB. declines with the distance of the race\n\t\t\tC. is improved by a high fat diet\n\t\t\tD. is inversely related to muscle glycogen content\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A patient comes into the ER looking extremely agitated. They are acting aggressive, and claiming they need medication or \u201cbad things will happen\u201d. What is the likely state of this patient\u2019s dopamine system?\n\t\t\tA. There is decreased dopamine in the synaptic cleft\n\t\t\tB. There are decreased dopamine receptors on the post-synaptic membrane\n\t\t\tC. There is cell death in the areas with high dopamine cells\n\t\t\tD. There is seizure-like activity in the dopamine brain areas\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The transcription of DNA to a molecule of messenger RNA occurs:\n\t\t\tA. on the ribosomes\n\t\t\tB. in the cytosol\n\t\t\tC. in the nucleus\n\t\t\tD. only during cell division\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "For a very weak base, the pKb of a solution would likely be:\n\t\t\tA. Equal to the pOH\n\t\t\tB. Higher than the pOH\n\t\t\tC. Lower than the pOH\n\t\t\tD. Near 7 at 25\u00baC\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The genome is:\n\t\t\tA. the number of chromosomes found in the somatic cells of an organism\n\t\t\tB. the entire DNA sequence of an organism\n\t\t\tC. the entire list of proteins that an organism is capable of producing\n\t\t\tD. the DNA sequence of an entire chromosome\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Most of the free fatty acids are transported in the blood:\n\t\t\tA. inside the red blood cells\n\t\t\tB. as lipoproteins\n\t\t\tC. combined with glucose\n\t\t\tD. bound to albumin\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following factors can affect enzyme activity?\n\t\t\tA. Temperature\n\t\t\tB. pH\n\t\t\tC. The presence of certain metal ions\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Living cells require constant interaction with the outside environment in order to attain the materials they need for survival, as well as to rid themselves of waste. Of the following processes, which uses only the gradient of material to control the direction in which the material moves across the cell membrane?\n\t\t\tA. Osmosis\n\t\t\tB. Passive Transport\n\t\t\tC. Active Transport\n\t\t\tD. Endocytosis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Embedded in the inner membrane of the mitochondrion are:\n\t\t\tA. the enzymes of the tricarboxylic acid cycle (Krebs' cycle)\n\t\t\tB. the components of the electron transport chain\n\t\t\tC. glycogen molecules\n\t\t\tD. triacylglycerol molecules\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A segment of DNA from a lab mouse is determined to be 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion?\n\t\t\tA. 5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019\n\t\t\tB. 5\u2019 \u2013 TGATCCCAG \u2013 3\u2019\n\t\t\tC. 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019\n\t\t\tD. 5\u2019 \u2013 GGATCCATG \u2013 3\u2019\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "When preparing for the MCAT exam, a student begins studying electrochemical cells. He learns the basic information needed by actively relating it to previous information he has learned about redox reactions. He then builds from that knowledge to learn the advanced concepts needed. The student\u2019s process is best characterized as:\n\t\t\tA. Chunking\n\t\t\tB. A network model\n\t\t\tC. Maintenance rehearsal\n\t\t\tD. Elaborative rehearsal\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A source emits a sound from one medium with a certain velocity, intensity, frequency and wavelength. When the sound exits the first medium and enters a denser medium, all of the following changes EXCEPT:\n\t\t\tA. velocity\n\t\t\tB. intensity\n\t\t\tC. frequency\n\t\t\tD. wavelength\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The energy charge of the cell is:\n\t\t\tA. the difference between the charge on the outside and inside of a cell\n\t\t\tB. generated by the sodium-potassium ATPase\n\t\t\tC. the overall rate of energy use by the cell\n\t\t\tD. the extent to which the total adenine nucleotide pool is phosphorylated\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The body compensates for increased environmental temperature by:\n\t\t\tA. decreasing salt retention\n\t\t\tB. increasing respiration rate\n\t\t\tC. increasing heart rate\n\t\t\tD. increasing water lost through skin\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following releases most energy when completely oxidised in the body?\n\t\t\tA. One gram of glucose\n\t\t\tB. One gram of palmitic acid\n\t\t\tC. One gram of leucine\n\t\t\tD. One gram of alcohol\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "An individual is born with a mutation causing her to partially retain a form of fetal hemoglobin into adulthood. Compared to a normal individual, this person would exhibit:\n\t\t\tA. no differences from a normal adult\n\t\t\tB. significantly reduced oxygen binding in the lungs\n\t\t\tC. no symptoms, since retention of fetal hemoglobin would be fatal\n\t\t\tD. increased oxygen binding to hemoglobin in the tissues\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Women's world record performances have improved rapidly in recent years mainly because:\n\t\t\tA. women have evolved a greater muscle mass\n\t\t\tB. women can now run faster than men\n\t\t\tC. women have started training at an earlier age\n\t\t\tD. more women are now engaged in sport\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The activity of creatine kinase is:\n\t\t\tA. increased when intracellular ADP rises\n\t\t\tB. increased when muscle pH falls below 6.9\n\t\t\tC. always lower in Type II fibres than Type I fibres\n\t\t\tD. increased after a period of endurance training\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The net production of ATP via substrate-level phosphorylation in glycolysis is:\n\t\t\tA. 2 from glucose and 3 from glycogen\n\t\t\tB. 2 from glucose and 4 from glycogen\n\t\t\tC. 3 from glucose and 4 from glycogen\n\t\t\tD. 3 from glucose and 2 from glycogen\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The son of a bricklayer goes to college and i) becomes a teacher at a medical school, ii) gets promoted to tenured professor, and iii) moves across the country for a new tenured professor position at a different school. Sequentially, this man has experienced:\n\t\t\tA. intergenerational mobility with respect to the father, horizontal mobility, horizontal mobility\n\t\t\tB. intragenerational mobility with respect to the son, upward mobility, upward mobility\n\t\t\tC. intergenerational mobility with respect to the father, upward mobility, horizontal mobility\n\t\t\tD. intragenerational mobility with respect to the son, horizontal mobility, upward mobility\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "DNA polymerase creates new DNA by adding complimentary nucleotides to a template strand from the original double-stranded DNA. If a section of the template strand had a ration of 3:2 of A:T bases, what is the ration of A:T in the newly synthesized complimentary strand of DNA?\n\t\t\tA. 3:02\n\t\t\tB. 1:01\n\t\t\tC. 2:03\n\t\t\tD. cannot be determined\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?\n\t\t\tA. 2CO2 and 2ATP\n\t\t\tB. 2CO2 and 16ATP\n\t\t\tC. 2CO2 and 12ATP\n\t\t\tD. 2CO2 and 1ATP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A young child is brought to a psychologist for evaluation of their home situation. The child is placed in the middle of the floor, with the mother on one side and the psychologist on the other. The mother then leaves for a short while, and then returns. Which of the following would be a concerning sign during this evaluation?\n\t\t\tA. Decreased exploration when the mother is out of the room\n\t\t\tB. Crying and returning to the mother upon return\n\t\t\tC. Avoiding the mother upon return\n\t\t\tD. Exploring the room before the mother leaves\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Neonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion?\n\t\t\tA. Increases surface permeability\n\t\t\tB. Maintains alveoli in an open state\n\t\t\tC. Depresses cilia of the lung\n\t\t\tD. Dilates blood vessels\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?\n\ufeff\nThe unbalanced reaction of ethane gas to carbon dioxide and water is as follows:\n\n C2H4 + O2 \u2014> CO2 + H2O\n\t\t\tA. 78g\n\t\t\tB. 528g\n\t\t\tC. 264g\n\t\t\tD. 156g\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following is not an amino acid?\n\t\t\tA. Glutamic acid\n\t\t\tB. Aspartic acid\n\t\t\tC. Glutamine\n\t\t\tD. Palmitic acid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The low intake of carbohydrate in the diet:\n\t\t\tA. does not influence exercise performance in events lasting less than 10 minutes\n\t\t\tB. affects the resting muscle pH\n\t\t\tC. may impair high intensity exercise performance\n\t\t\tD. results in greater reliance on muscle glycogen during exercise\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following processes is not used to modify protein structure after translation has occurred?\n\t\t\tA. Lipidation\n\t\t\tB. Attachment of more amino acids via peptide bonds\n\t\t\tC. Glycosylation\n\t\t\tD. Phosphorylation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following promotes glucose and amino acid uptake by muscle?\n\t\t\tA. Adrenaline\n\t\t\tB. Insulin\n\t\t\tC. Glycogen\n\t\t\tD. Cortisol\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "When branched chain amino acids are deaminated in muscle, the ammonia produced is mostly:\n\t\t\tA. converted into arginine and released from the muscle\n\t\t\tB. converted into alanine and glutamine and released from the muscle\n\t\t\tC. converted into urea and released from the muscle\n\t\t\tD. used to synthesise purines and pyrimidines in the muscle\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "In response to period of extreme psychological trauma, a patient begins experiencing a feeling of detachment. He says, \u201cI felt like it wasn\u2019t real while it was happening. I was just watching myself do it without any control. I mean, you know, I knew it was happening but I didn\u2019t feel like it was.\u201d The patient is describing:\n\t\t\tA. Dissociative identity disorder\n\t\t\tB. An anxiety disorder\n\t\t\tC. Depersonalization disorder\n\t\t\tD. A schizophrenic episode\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Metabolism is determined by the:\n\t\t\tA. size of proteins in the cell\n\t\t\tB. availability of amino acids\n\t\t\tC. proteins formed as dictated by the genetic material\n\t\t\tD. amino acid composition of the ribonucleic acids\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The key attribute in successful marathon running is:\n\t\t\tA. strength\n\t\t\tB. power\n\t\t\tC. stride length\n\t\t\tD. stamina\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:\n\t\t\tA. 400 kJ/min\n\t\t\tB. 200 kJ/min\n\t\t\tC. 80 kJ/min\n\t\t\tD. 40 kJ/min\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Karen is a college student working on developing a stronger sense of self-esteem and self-efficacy with her therapist. She has noticed a great change in her ability to handle situations after 3 months of therapy. Which of the following would NOT be a strategy that her therapist would ask her to employ to raise her sense of self-efficacy?\n\t\t\tA. Seek positive feedback from friends\n\t\t\tB. Put in daily practice on the tasks she wishes to improve on\n\t\t\tC. Find others her age and ability who excel at tasks she is interested in\n\t\t\tD. Avoid potential pitfalls by withholding from tasks she is not proficient in\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Phophocreatine resynthesis during recovery from exercise is inhibited by:\n\t\t\tA. an excess of creatine\n\t\t\tB. hyperventilation\n\t\t\tC. an excess of oxygen\n\t\t\tD. a lack of oxygen\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water?\n\t\t\tA. H2O(s) has a greater density than H2O(l), which causes the solid to form liquid under high pressure conditions\n\t\t\tB. H2O(s) has a greater density than H2O(l), which results from the hydrogen bonds formed between water molecules\n\t\t\tC. H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds\n\t\t\tD. H2O(s) has a lower density than H2O(l) which causes the solid to form liquid under low pressure conditions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Myoclonic epilepsy and ragged-red fiber (MERRF) is an extremely rare disorder that affects neuromuscular systems. MERRF results from a mutation in mitochondrial DNA (mtDNA) that impairs protein synthesis, oxygen consumption, and energy production. When an affected male and a normal female reproduce, which of the following best predicts the expected phenotypic ratios of the offspring?\n\t\t\tA. None of the offspring will be affected\n\t\t\tB. All males and no females will be affected\n\t\t\tC. Half of males and half of females will be affected\n\t\t\tD. One-fourth of the offspring will be affected\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "An action potential arriving at the motor endplate causes release of:\n\t\t\tA. acetylcholine which traverses the neuromuscular junction\n\t\t\tB. sodium ions which binds to sodium receptors on the muscle membrane\n\t\t\tC. calcium ions which initiate an action potential along the muscle fibre\n\t\t\tD. noradrenaline which increases muscle metabolic activity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "All of the following are example of sensory, or neural, adaptation EXCEPT:\n\t\t\tA. After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back\n\t\t\tB. After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you\n\t\t\tC. After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light\n\t\t\tD. After first walking into an anatomy lab, you no longer notice the smell of formaldehyde\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The \u03b2-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:\n\t\t\tA. yields 8 molecules of acetyl-CoA and some ATP and water\n\t\t\tB. yields 16 molecules of acetyl-CoA only\n\t\t\tC. yields carbon dioxide and water only\n\t\t\tD. does not involve oxygen\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "What is the most likely outcome of this modification?\n\ufeff\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\u2026 \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\u2026\n\t\t\tA. Absence of the protein\n\t\t\tB. Production of a similar-sized but dysfunctional protein\n\t\t\tC. No change\n\t\t\tD. Production of a larger, likely dysfunctional protein\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Glycolysis is the name given to the pathway involving the conversion of:\n\t\t\tA. glycogen to glucose-1-phosphate\n\t\t\tB. glycogen or glucose to fructose\n\t\t\tC. glycogen or glucose to pyruvate or lactate\n\t\t\tD. glycogen or glucose to pyruvate or acetyl CoA\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?\n\t\t\tA. An accumulation of inorganic phosphate\n\t\t\tB. Development of hyperosmolality in the muscles\n\t\t\tC. An excess of antioxidants\n\t\t\tD. A lack of potassium\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A muscle fibre relaxes when:\n\t\t\tA. the nerve stimulus is removed\n\t\t\tB. the nerve stimulus is too forceful\n\t\t\tC. the actin binding sites are uncovered\n\t\t\tD. the actin binding sites are saturated\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Hydrogen ions are formed when:\n\t\t\tA. glycogen becomes depleted\n\t\t\tB. phosphocreatine breakdown occurs\n\t\t\tC. pyruvate is converted to lactate\n\t\t\tD. glycolysis is being used as a major means of resynthesising ATP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Our genetic material is made up of:\n\t\t\tA. deoxyribonucleic acid\n\t\t\tB. ribonucleic acid\n\t\t\tC. dinitronucleic acid\n\t\t\tD. protein\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Muscle lactate production increases when:\n\t\t\tA. oxygen is readily available\n\t\t\tB. pyruvate cannot be formed from glucose breakdown\n\t\t\tC. the pH of the muscle falls\n\t\t\tD. glycolysis is activated at the onset of exercise\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Triacylglycerides consist of I. A ribose backbone II. a glycerol backbone III. three phosphodiester linkages IV. three ester linkages\n\t\t\tA. I and III\n\t\t\tB. II only\n\t\t\tC. II and III\n\t\t\tD. II and IV\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Noncompetitive inhibition differs from uncompetitive inhibition in that a noncompetitive inhibitor binds to an allosteric site on the enzyme and prevents it from catalyzing a reaction, whereas uncompetitive inhibitors bind to the enzymesubstrate complex and prevent catalysis. Increasing the substrate concentration would have which of the following effects?\n\t\t\tA. Increasing impact of uncompetitive inhibitor and decreasing concentration of noncompetitive inhibitor\n\t\t\tB. Decreasing impact of uncompetitive inhibitor and increasing impact of noncompetitive inhibitor\n\t\t\tC. Increasing impact of uncompetitive inhibitor\n\t\t\tD. No effect\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "In nerve cells, microtubule-associated proteins (MAPs), most notably MAP2 and MAP tau, act to stabilize microtubules. In a mouse model, a mutant is developed that vastly reduced function across all families of MAPs, leading to increased microtubule degradation. Which cellular activity would likely be most affected?\n\t\t\tA. Cardiac muscle contraction\n\t\t\tB. Transcription of mRNA from DNA\n\t\t\tC. Krebs cycle\n\t\t\tD. Meiosis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The trigger to initiate the contractile process in skeletal muscle is:\n\t\t\tA. potassium binding to myosin\n\t\t\tB. calcium binding to tropomyosin\n\t\t\tC. ATP binding to the myosin cross bridges\n\t\t\tD. calcium binding to troponin\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The sarcoplasmic reticulum in muscle cells acts as a:\n\t\t\tA. store of digestive enzymes\n\t\t\tB. store of sodium ions\n\t\t\tC. store of lipid\n\t\t\tD. store of calcium ions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?\n\t\t\tA. Acetyl choline and noradrenaline\n\t\t\tB. Dopamine and acetyl choline\n\t\t\tC. Glutamate and serotonin\n\t\t\tD. Dopamine and serotonin\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Oxygen is used:\n\t\t\tA. in glycolysis\n\t\t\tB. in the conversion of fatty acids to acetyl CoA\n\t\t\tC. in the tricarboxylic acid cycle (Krebs' cycle)\n\t\t\tD. in glycogenolysis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Mutations are errors in DNA that:\n\t\t\tA. are always harmful\n\t\t\tB. only occur in the presence of carcinogens\n\t\t\tC. increase tumour growth\n\t\t\tD. occur spontaneously at a low rate\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The enzymes of glycolysis are located in the:\n\t\t\tA. mitochondrion\n\t\t\tB. nucleus\n\t\t\tC. cytoplasm\n\t\t\tD. lysosomes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The rate limiting enzyme of glycolysis is:\n\t\t\tA. phosphorylase\n\t\t\tB. hexokinase\n\t\t\tC. pyruvate dehydrogenase\n\t\t\tD. phosphofructokinase\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm?\n\t\t\tA. slightly less than 20L\n\t\t\tB. 20L\n\t\t\tC. slightly more than 20L\n\t\t\tD. 2000L\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Assuming the circulatory system in humans obeys Bernoulli\u2019s principle of fluid dynamics, which of the statements most accurately compares the blood pressure in a capillary of the neck to a capillary with an equal crosssectional area in the right knee?\n\t\t\tA. The pressure in the neck is greater than the pressure in the knee because of the increase in pressure head\n\t\t\tB. The pressure in the neck is equal to the pressure in the knee because of the equal dynamic pressure according to the continuity equation\n\t\t\tC. The pressure in the knee is greater than the pressure in the neck because of the increase in pressure head\n\t\t\tD. An accurate comparison cannot be given without knowledge of the fluid\u2019s density and viscosity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Sodium bicarbonate ingestion improves middle distance running performance by:\n\t\t\tA. elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle\n\t\t\tB. reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle\n\t\t\tC. elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle\n\t\t\tD. elevating the pre-exercise muscle pH\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "An individual presents to the clinic for initial evaluation and establishment of care. The patient was born 46, XY, but identifies as a female. Her preferred pronouns are She/Her. Additionally, she is sexually active with females only. What would describe the gender and orientation of this individual?\n\t\t\tA. Cis-gender, heterosexual\n\t\t\tB. Transgender, heterosexual\n\t\t\tC. Cis-gender, homosexual\n\t\t\tD. Transgender, homosexual\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?\n\t\t\tA. Glutamine\n\t\t\tB. Glucose\n\t\t\tC. Carnosine\n\t\t\tD. Amylase\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Prosthetic groups are:\n\t\t\tA. required by all enzymes in the cell\n\t\t\tB. loosely bound to enzymes via hydrogen bonds\n\t\t\tC. sites on the enzyme molecule that permit allosteric modification of enzyme activity\n\t\t\tD. tightly bound to enzymes and are required for their activity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "In games like soccer the blood lactate concentration:\n\t\t\tA. rarely increases above 3 mM\n\t\t\tB. is usually lower at the end of the game than at the end of the first half\n\t\t\tC. is usually higher at the end of the game than at the end of the first half\n\t\t\tD. increases throughout the course of the game as the players become more fatigued\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "All of the following are true regarding the function of neurons EXCEPT:\n\t\t\tA. Hyperpolarization at the end of an action potential is one mechanism by which neurons limit the rate at which action potentials may fire\n\t\t\tB. The flow of sodium into the neuron depolarizes the membrane in the first phase of an action potential\n\t\t\tC. The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites\n\t\t\tD. An action potential is initiated when the axon hillock reaches the threshold potential\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The most rapid method to resynthesize ATP during exercise is through:\n\t\t\tA. glycolysis\n\t\t\tB. phosphocreatine breakdown\n\t\t\tC. tricarboxylic acid cycle (Krebs' cycle)\n\t\t\tD. glycogenolysis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake?\n\t\t\tA. Study at a health smoothie store instead of a coffee shop\n\t\t\tB. Reward himself with a savory meal every Saturday for meeting his calorie goals\n\t\t\tC. Snap himself with a rubber band when he eats a high calorie snack\n\t\t\tD. Hide snack food out of sight within his house\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "In an SDS-PAGE procedure, the SDS serves as a detergent. Why are the proteins treated with a detergent before being run through the electrophoresis gel?\n\t\t\tA. To coat the proteins with a large positive charge, since amino acid side chains may have positive, negative, or neutral charges, and a large uniform charge is necessary to get good separation in the gel\n\t\t\tB. To allow the electrophoresis to separate the proteins solely on the basis of the length of the primary sequence\n\t\t\tC. To prevent the protein from denaturing so that the electrophoresis can accurately resolve the proteins on the basis of tertiary structure\n\t\t\tD. To break the intramolecular bonds holding the tertiary and primary structure of the protein together, thereby generating linear fragments that may be sorted on size\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "For very high force contractions lasting 1-2 seconds, the initial energy source is from:\n\t\t\tA. Glycolysis\n\t\t\tB. creatine phosphorylation\n\t\t\tC. phosphocreatine stores\n\t\t\tD. ATP stores\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following factors does not influence success in sport?\n\t\t\tA. Ability to tolerate heavy training without succumbing to illness or injury\n\t\t\tB. Tactics\n\t\t\tC. The diet\n\t\t\tD. Ingestion of carnitine during exercise\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The lining of the digestive tract and the respiratory tract develops from which germ layer? I. Endoderm II. Mesoderm III. Ectoderm\n\t\t\tA. I only\n\t\t\tB. II only\n\t\t\tC. III only\n\t\t\tD. I and II\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "A transmembrane protein being isolated in the laboratory is found to be composed of four different amino acids in varying quantity. They are, in order of frequency, glycine, tyrosine, arginine, and isoleucine. Of these amino acids, which is most likely to be inside the transmembrane domain?\n\t\t\tA. Glycine\n\t\t\tB. Tyrosine\n\t\t\tC. Arginine\n\t\t\tD. Isoleucine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following nucleotide bases is not found in RNA?\n\t\t\tA. Thymine\n\t\t\tB. Adenine\n\t\t\tC. Uracil\n\t\t\tD. Guanine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Fast-twitch fibres contain:\n\t\t\tA. a relatively large number of mitochondria and low ATPase activity\n\t\t\tB. a relatively small number of mitochondria and low ATPase activity\n\t\t\tC. a relatively small number of mitochondria and high ATPase activity\n\t\t\tD. a relatively large number of mitochondria and high ATPase activity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Acute Myeloid Leukemia is a malignant cancer in which myeloid progenitor cells become rapidly dividing and retain their semi-stem cell state. Under normal circumstances, which of the following cell types would arise from this stem cell?\n\t\t\tA. NK cell\n\t\t\tB. Platelet\n\t\t\tC. T cell\n\t\t\tD. Lymphoid progenitor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Lactate and hydrogen ions leave the muscle:\n\t\t\tA. via a cotransport mechanism with carnosine\n\t\t\tB. via an active transport mechanism\n\t\t\tC. via a protein transporter molecule\n\t\t\tD. by simple diffusion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "There are five stages of mitosis that must be carried out correctly for a cell to properly divide. Match the stage of mitosis with its proper component:\nProphase \u2014 Dissolution of nucleoli\n\t\t\tA. Metaphase \u2014 Formation of two distinct nuclear membranes\n\t\t\tB. Cytokinesis \u2014 Separation of sister chromatids to their respective poles\n\t\t\tC. Telophase \u2014 Formation of the equatorial plate\n\t\t\tD. Anaphase \u2014 Separation of the cytoplasm and organelles\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries?\n\t\t\tA. Strong central government\n\t\t\tB. An economy centralized around one natural resource\n\t\t\tC. A diversified and developed economy\n\t\t\tD. Small percentage of very high class individuals\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Glycogen breakdown in exercising muscle is activated by:\n\t\t\tA. insulin\n\t\t\tB. cortisol\n\t\t\tC. increased pH\n\t\t\tD. none of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "According to attachment theory, which of the following children is most likely to attach to a male psychologist, previously unknown to the child, in the course of a psychological study?\n\t\t\tA. A two month old female infant raised in a safe, stable environment\n\t\t\tB. A five month old male infant raised in a safe, stable environment\n\t\t\tC. An eight month old male infant raised by a single caregiver who frequently neglect the child\n\t\t\tD. A thirteen month old female infant raised by two caregivers who occasionally neglect the child\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Creatine is synthesized from:\n\t\t\tA. amino acids in the muscles\n\t\t\tB. amino acids in the liver\n\t\t\tC. amino acids in the kidneys\n\t\t\tD. creatinine in the kidneys\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The energy for all forms of muscle contraction is provided by:\n\t\t\tA. ATP\n\t\t\tB. ADP\n\t\t\tC. phosphocreatine\n\t\t\tD. oxidative phosphorylation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The coding sequences of genes are called:\n\t\t\tA. extrons\n\t\t\tB. exons\n\t\t\tC. introns\n\t\t\tD. codons\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression?\n\t\t\tA. Increased histone acetyltransferase activity\n\t\t\tB. Decrease in histone deacetyltransferase activity\n\t\t\tC. Increase in methylation activity\n\t\t\tD. Increase in heterochromatin:euchromatin ratio\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Anaerobic metabolism refers to the generation of ATP:\n\t\t\tA. without the involvement of ADP\n\t\t\tB. without the use of glycogen\n\t\t\tC. without the use of oxygen\n\t\t\tD. in the absence of available oxygen\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Which of the following molecules does not form part of DNA?\n\t\t\tA. Purine\n\t\t\tB. Pyrimidine\n\t\t\tC. Deoxyribose\n\t\t\tD. Amino acid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "With an increasing number of sprints the:\n\t\t\tA. anaerobic contribution progressively increases\n\t\t\tB. pH of the muscle falls below 6.0\n\t\t\tC. blood glucose concentration falls below 3 mmol/L\n\t\t\tD. relative contribution of aerobic metabolism increases\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:\n\t\t\tA. 6 ATP\n\t\t\tB. 5 ATP\n\t\t\tC. 4 ATP\n\t\t\tD. 3 ATP\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:\n\t\t\tA. 1-2 seconds\n\t\t\tB. 5-10 seconds\n\t\t\tC. 30-40 seconds\n\t\t\tD. 50-60 seconds\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:\n\t\t\tA. frequently rises by 1 - 3 mM\n\t\t\tB. remains relatively unchanged\n\t\t\tC. frequently falls by 1 - 3 mM\n\t\t\tD. falls to hypoglycaemic levels\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Each of the following are aspects of the McDonaldization of Society EXCEPT:\n\t\t\tA. Rationalization of decisions into cost/benefit analysis structures and away from traditional modes of thinking\n\t\t\tB. Bureaucratic organization that formalizes well-establish division of labor and impersonal structures\n\t\t\tC. A dissolution of hierarchical modes of authority into collaborative teambased decision protocols\n\t\t\tD. An intense effort on achieving sameness across diverse markets\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "college_medicine"
+    },
+    {
+        "instruction": "Six healthy subjects participate in a study of muscle metabolism during which hyperglycemia and hyperinsulinemia is induced. Muscle biopsy specimens obtained from the subjects during the resting state show significantly increased concentrations of malonyl-CoA. The increased malonyl-CoA concentration most likely directly inhibits which of the following processes in these subjects?\n\t\t\tA. Fatty acid oxidation\n\t\t\tB. Fatty acid synthesis\n\t\t\tC. Gluconeogenesis\n\t\t\tD. Glycogenolysis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 65-year-old woman has a 6-month history of progressive irritability, palpitations, heat intolerance, frequent bowel movements, and a 6.8-kg (15-lb) weight loss. She has had a neck mass for more than 10 years. 131I scan shows an enlarged thyroid gland with multiple areas of increased and decreased uptake. Which of the following is the most likely diagnosis?\n\t\t\tA. Defect in thyroxine (T4) biosynthesis\n\t\t\tB. Graves' disease\n\t\t\tC. Multinodular goiter\n\t\t\tD. Riedel's thyroiditis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 42-year-old man comes to the physician for a follow-up examination 1 week after he passed a renal calculus. X-ray crystallographic analysis of the calculus showed calcium as the primary cation. Physical examination today shows no abnormalities. A 24-hour collection of urine shows increased calcium excretion. Which of the following is the most appropriate pharmacotherapy?\n\t\t\tA. Carbonic anhydrase inhibitor\n\t\t\tB. Na+ \u2013Cl\u2212 symport inhibitor\n\t\t\tC. Na+ \u2013K + \u20132Cl\u2212 symport inhibitor\n\t\t\tD. Osmotic diuretic\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 32-year-old male presents to the office with the complaint of pain in his right shoulder for the past two weeks. Physical examination reveals tenderness at the greater tubercle of the humerus and painful abduction of the right upper extremity. The cause of this patient's condition is most likely a somatic dysfunction of which of the following muscles?\n\t\t\tA. anterior scalene\n\t\t\tB. latissimus dorsi\n\t\t\tC. pectoralis minor\n\t\t\tD. supraspinatus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 19-year-old male presents to the office for evaluation after he was hit from behind below the right knee while playing football. Gait analysis reveals a lack of fluid motion. Standing flexion test results are negative. Cruciate and collateral knee ligaments appear intact. Foot drop on the right is noted. The most likely diagnosis is\n\t\t\tA. anteriorly deviated distal femur\n\t\t\tB. plantar flexed cuboid\n\t\t\tC. posteriorly deviated fibular head\n\t\t\tD. unilateral sacral shear\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequently develops urinary incontinence. There is no evidence of urinary tract infection and no prior history of urinary pathology. The most likely diagnosis is\n\t\t\tA. autonomic neurogenic bladderv\n\t\t\tB. motor paralytic bladder\n\t\t\tC. reflex neurogenic bladder\n\t\t\tD. uninhibited neurogenic bladder\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 77-year-old female presents to the office for evaluation of a syncopal event that occurred while she was walking. Cardiac examination reveals a grade 3/6\u00a0systolic murmur, heard best at the right upper sternal border. There is radiation of the murmur into the neck. The valvular abnormality that most likely caused this episode is\n\t\t\tA. aortic insufficiency\n\t\t\tB. aortic stenosis\n\t\t\tC. mitral regurgitation\n\t\t\tD. mitral stenosis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "During a study of renal glomeruli, a healthy animal kidney is kept in a vascular bath preparation at a constant afferent arterial pressure of 100 mm Hg. If the efferent arteriole is constricted with a vascular clamp, which of the following Starling forces is most likely to change in the glomeruli?\n\t\t\tA. Decreased filtration coefficient (Kf)\n\t\t\tB. Decreased hydrostatic pressure\n\t\t\tC. Decreased oncotic pressure\n\t\t\tD. Increased hydrostatic pressure\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and pleuritic chest pain. A diagnosis of pulmonary embolism is made. Which of the following signs, if present on physical examination, would be the most specific indicator of pulmonary arterial hypertension in this patient?\n\t\t\tA. Increased jugular venous pressure\n\t\t\tB. P2 louder than A2\n\t\t\tC. Peripheral edema\n\t\t\tD. Presence of an S3\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 46-year-old woman with active ankylosing spondylitis comes to the office for a follow-up examination. The use of various conventional nonsteroidal anti-inflammatory drugs has been ineffective. Sulfasalazine treatment also has not resulted in improvement. The most appropriate next step in treatment is administration of a drug that inhibits which of the following?\n\t\t\tA. Cytotoxic T-lymphocyte antigen 4\n\t\t\tB. Epidermal growth factor\n\t\t\tC. Interleukin-1 (IL-1)\n\t\t\tD. Tumor necrosis factor \u03b1\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 50-year-old female presents to the office with the complaints of chronic achiness, stiffness, and fatigue. Physical examination reveals multiple bilateral tender points in the trapezius, gluteal, and suboccipital muscle groups. Radiograph findings and laboratory study results are normal. The most likely diagnosis is\n\t\t\tA. ankylosing spondylitis\n\t\t\tB. fibromyalgia\n\t\t\tC. myofascial pain syndrome\n\t\t\tD. osteoarthritis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 23-year-old woman with bone marrow failure is treated with a large dose of rabbit antithymocyte globulin. Ten days later, she develops fever, lymphadenopathy, arthralgias, and erythema on her hands and feet. Which of the following is the most likely cause of these symptoms?\n\t\t\tA. Cytokine secretion by natural killer cells\n\t\t\tB. Eosinophil degranulation\n\t\t\tC. Immune complex deposition in tissues\n\t\t\tD. Polyclonal T-lymphocyte activation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A sexually active 23-year-old man with multiple sex partners has dysuria and a yellow urethral exudate. Gram stain of the exudate shows numerous neutrophils, many that contain intracellular gram-negative diplococci. He has had three similar episodes of urethritis over the past 2 years. Which of the following properties of the infecting organism best explains the reinfection?\n\t\t\tA. Antigenic variation\n\t\t\tB. Catalase\n\t\t\tC. Inhibition of B-lymphocyte function\n\t\t\tD. Inhibition of T-lymphocyte function\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 64-year-old man with non-Hodgkin lymphoma comes to the physician because of a 3-week history of progressive numbness in his hands and feet and weakness in his legs when he stands. He received his third course of chemotherapy 4 weeks ago. Physical examination shows areflexia. Which of the following drugs is the most likely cause of these adverse effects?\n\t\t\tA. Doxorubicin\n\t\t\tB. Fluorouracil\n\t\t\tC. Methotrexate\n\t\t\tD. Vincristine\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 67-year-old woman comes to the physician for her first influenza virus vaccination. She has a history of untreated hypertension. Her blood pressure is 160/100 mm Hg, and pulse is 100/min. Shortly after administration of the influenza virus vaccine, she develops shortness of breath, hives, and angioedema. Which of the following is most likely to have prevented this reaction?\n\t\t\tA. Inquiry about an egg allergy\n\t\t\tB. Heterophile agglutination test\n\t\t\tC. Skin test with histamine reagent\n\t\t\tD. \u03b2-Adrenergic blocking agent therapy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 43-year-old female presents to the office with a\u00a02-month\u00a0history of heat intolerance, weight loss, tachycardia, and diffuse goiter. Examination reveals exophthalmos, inflammation of the periorbital tissue and conjunctivae, a heart rate of 140/min, and warm, velvety skin. An MRI of the head and orbits will most likely reveal\n\t\t\tA. calcification of the orbit\n\t\t\tB. diffuse enlargement of the rectus muscles\n\t\t\tC. dilated ventricles\n\t\t\tD. lymphoma\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 4-year-old boy is brought to the physician because of temperatures to 39.4\u00b0C (102.9\u00b0F) for 8 days. Examination shows anterior cervical lymphadenopathy, nonexudative conjunctivitis bilaterally, a strawberry tongue, an erythematous truncal rash, and edema of the hands and feet. Which of the following is the most appropriate pharmacotherapy to prevent complications of this illness?\n\t\t\tA. Intravenous immune globulin\n\t\t\tB. Intravenous penicillin\n\t\t\tC. Intravenous prednisone\n\t\t\tD. Oral isoniazid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 25-year-old woman who is 19 weeks pregnant comes to the office for a prenatal examination. Her father had classic hemophilia. A karyotype obtained from an amniotic fluid sample of the patient shows that the fetus is XY. Which of the following should you tell the patient regarding her infant?\n\t\t\tA. The infant will neither have hemophilia nor be a carrier\n\t\t\tB. The infant has a 50% risk for hemophilia\n\t\t\tC. The infant has a 50% risk for being a carrier\n\t\t\tD. The infant has a 75% risk for hemophilia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "In a cohort study of elderly women, the relative risk ratio for hip fractures among those who exercise regularly is 1.2 (95% confidence interval of 1.1 to 1.8). Which of the following is the most appropriate conclusion about the effect of regular exercise on the risk for hip fracture?\n\t\t\tA. Statistically nonsignificant increase in risk\n\t\t\tB. Statistically nonsignificant overall decrease in risk\n\t\t\tC. Statistically significant overall decrease in risk\n\t\t\tD. Statistically significant overall increase in risk\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A healthy 2-year-old girl is brought to the office for a routine well-child visit. The child was weaned at 6 months of age and began to walk at 10 months of age. On physical examination, she has mild bowlegs (10-degree genu varum). Which of the following is the most appropriate management to recommend at this time?\n\t\t\tA. Increased intake of vitamin D\n\t\t\tB. A special exercise program\n\t\t\tC. Surgical correction\n\t\t\tD. No treatment is needed at this time\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 13-month-old child is brought to the emergency department because of urticaria, swelling of the lips, and difficulty breathing immediately after eating an egg. A potential risk for hypersensitivity reaction is posed by vaccination against which of the following illnesses?\n\t\t\tA. Hepatitis\n\t\t\tB. Influenza\n\t\t\tC. Pertussis\n\t\t\tD. Poliomyelitis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 35-year-old female develops nausea and vomiting after she underwent a cholecystectomy for protracted ileus. Her body mass index was 23\u00a0kg/m2\u00a0before surgery, and, except for the cholecystitis, she was in good health. The patient remains unable to eat 6\u00a0days after surgery. Which of the following forms of nutritional support is most appropriate for this patient?\n\t\t\tA. central hyperalimentation\n\t\t\tB. feeding through a nasogastric feeding tube\n\t\t\tC. oral fat-free modular diet\n\t\t\tD. peripheral hyperalimentation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 14-year-old girl has had nausea, intermittent diarrhea, and a 2.2-kg (5-lb) weight loss over the past 4 weeks. Examination shows a migrating serpiginous pruritic perianal rash. Her leukocyte count is 8000/mm3 with 20% eosinophils. Which of the following tests is most likely to yield an accurate diagnosis?\n\t\t\tA. Blood smear\n\t\t\tB. Bone marrow biopsy\n\t\t\tC. KOH preparation\n\t\t\tD. Microscopic examination of the stool\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 2-month-old female is brought to the office for her first routine health maintenance examination and for her immunization update. In order to determine whether or not any contraindications exist for diphtheria, tetanus, pertussis (DtaP) immunization, the parents should be questioned regarding\n\t\t\tA. allergy to eggs\n\t\t\tB. Apgar scores at birth\n\t\t\tC. gestational age at birth\n\t\t\tD. previous seizures\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A study is designed to evaluate the feasibility of acupuncture in children with chronic headaches. Sixty children with chronic headaches are recruited for the study. In addition to their usual therapy, all children are treated with acupuncture three times a week for 2 months. Which of the following best describes this study design?\n\t\t\tA. Case-control\n\t\t\tB. Case series\n\t\t\tC. Crossover\n\t\t\tD. Cross-sectional\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 15-year-old male presents to the office with the complaint of painless swelling in the left testicle that has varied in size over the past several months. There is no history of trauma. The lesion transilluminates well, and no inguinal nodes are palpable. Findings from a testicular scan are normal. The most appropriate management includes\n\t\t\tA. injection with a sclerosing agent\n\t\t\tB. needle aspiration\n\t\t\tC. needle biopsy\n\t\t\tD. surgical repair\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 29-year-old woman is prescribed carbamazepine for trigeminal neuralgia. She has a strong family history of osteoporosis. As a result, the physician also advises her to increase her intake of vitamin D. The most likely reason for this recommendation is that carbamazepine may affect which of the following pharmacokinetic processes?\n\t\t\tA. Absorption\n\t\t\tB. Distribution\n\t\t\tC. Excretion\n\t\t\tD. Metabolism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A male stillborn is delivered at 32 weeks' gestation to a 30-year-old woman. The pregnancy was complicated by oligohydramnios. Examination of the stillborn shows the absence of a urethral opening. Which of the following additional findings is most likely in this stillborn?\n\t\t\tA. Congenital diaphragmatic hernia\n\t\t\tB. Intralobar sequestration\n\t\t\tC. Pulmonary hypoplasia\n\t\t\tD. Situs inversus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 22-year-old male presents to the office with a\u00a05-day\u00a0history of diarrhea after completing his third course of antibiotics for mastoiditis. Physical examination reveals vague generalized abdominal pain on palpation. Culture on hektoen enteric agar is positive. The most likely etiologic agent causing the diarrhea is\n\t\t\tA. Clostridium difficile\n\t\t\tB. Entamoeba histolytica\n\t\t\tC. Giardia lamblia\n\t\t\tD. Salmonella typhi\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 15-year-old male is brought to the office with a 2-day history of painful swelling over the sacral prominence that began after a fall during a high school wrestling match. The patient has a low-grade fever. Examination reveals an erythematous, fluctuant, elevated mass with 3\u00a0midline pores. Rectal examination reveals no induration or pain. The most likely diagnosis is\n\t\t\tA. anocutaneous fistula\n\t\t\tB. coccygodynia\n\t\t\tC. hidradenitis suppurativa\n\t\t\tD. pilonidal abscess\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 17-year-old girl has never had a menstrual period. Physical examination shows a normal female body habitus, normal breast development, and normal appearing external genitalia. She has no axillary or pubic hair. The patient refuses to have a pelvic or rectal examination. Which of the following is the most likely explanation for the clinical presentation?\n\t\t\tA. Androgen insensitivity\n\t\t\tB. Congenital adrenal hyperplasia\n\t\t\tC. Ectodermal dysplasia\n\t\t\tD. A psychiatric disorder\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 68-year-old female presents to the emergency department with a\u00a03-day\u00a0history of worsening fever and headache. Today the patient is nauseated and less responsive. Lumbar puncture reveals a protein level of 89\u00a0mg/dL (reference range: 15-45\u00a0mg/dL) with pleocytosis. The most likely etiologic organism is\n\t\t\tA. Clostridium perfringens\n\t\t\tB. Haemophilus influenzae\n\t\t\tC. rhinovirus\n\t\t\tD. Streptococcus pneumoniae\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told her that the patient is inattentive, has difficulty following sequential instructions, and often seems to drift off to sleep during class. A polysomnogram reveals obstructive sleep apnea. The most appropriate management is\n\t\t\tA. elevation of the head of the bed\n\t\t\tB. heart rate and apnea monitoring\n\t\t\tC. imipramine\n\t\t\tD. surgical evaluation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 55-year-old man comes to the physician for a routine physical examination. He is currently taking no medications. His pulse is 80/min, and blood pressure is 165/95 mm Hg. Physical examination shows no other abnormalities. The presence of which of the following mechanisms is most likely to increase this patient's blood pressure further?\n\t\t\tA. Decreased cardiac output\n\t\t\tB. Decreased pulse\n\t\t\tC. Decreased stroke volume\n\t\t\tD. Increased peripheral vascular resistance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 45-year-old female presents to the office for evaluation of unexplained elevations of her blood pressure. Paroxysmal episodes of headache, sweating, anxiety, nausea, and vomiting occur frequently. A CT\u00a0scan reveals a left adrenal mass. Which of the following urinary assays will be most helpful in establishing this patient's diagnosis?\n\t\t\tA. cortisol\n\t\t\tB. glucose\n\t\t\tC. sodium\n\t\t\tD. vanillylmandelic acid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 19-year-old woman comes to the emergency department because, she says, \"I'm burning up.\" Medical history is significant for intravenous drug use. Physical examination discloses a systolic heart murmur over the precordium. An expected physical finding will be which of the following?\n\t\t\tA. Decreased intensity of S1\n\t\t\tB. Increased intensity of the murmur with deep inspiration\n\t\t\tC. Increased intensity of the murmur with forced expiration\n\t\t\tD. Positive Kussmaul sign (rise in jugular venous pulse with inspiration)\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A new severe respiratory illness caused by a newly identified virus is discovered. Which of the following properties of a killed vaccine relative to a live vaccine is the most appropriate rationale for developing a killed vaccine for this illness?\n\t\t\tA. Avoids the concern for reversion to virulence\n\t\t\tB. Develops more rapid protective immunity\n\t\t\tC. Is less likely to require subsequent boosters for lifelong immunity\n\t\t\tD. Is most likely to generate mucosal immunity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 32-year-old man who is a jackhammer operator comes to the physician because of pain and swelling of his right arm for 3 days. The symptoms are moderately exacerbated by exertion. Examination of the right upper extremity shows erythema and moderate edema. Capillary refill time is less than 3 seconds. Which of the following is the most likely diagnosis?\n\t\t\tA. Axillary-subclavian venous thrombosis\n\t\t\tB. Deep venous valvular insufficiency\n\t\t\tC. Superficial thrombophlebitis of the basilic vein\n\t\t\tD. Superior vena cava syndrome\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 72-year-old woman who has smoked 20 cigarettes daily for the past 38 years begins using eyedrops for glaucoma. Three days later, she has a marked increase in shortness of breath while walking up a flight of stairs. Which of the following drugs is the most likely cause of the development of shortness of breath in this patient?\n\t\t\tA. Apraclonidine\n\t\t\tB. Epinephrine\n\t\t\tC. Latanoprost\n\t\t\tD. Timolol\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 22-year-old woman comes to the office because of urticaria. This is her first episode of urticaria and it has occurred and then resolved several times in the past week. The history and physical examination disclose no abnormalities. Which of the following is the most appropriate course of action?\n\t\t\tA. Determine the serum IgE concentration\n\t\t\tB. Determine the total eosinophil count\n\t\t\tC. Refer her to an allergist\n\t\t\tD. Treat the symptoms\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_medicine"
+    },
+    {
+        "instruction": "A 64-year-old female presents to the office with the complaint of difficulty swallowing saliva for about 6\u00a0months. She has slurred speech. Examination of the tongue reveals wasting and fasciculation. Decreased deep tendon reflexes and fasciculation are noted in the left lower extremity. The deep tendon reflexes of the left upper extremity are hyperactive. The most likely diagnosis is\n\t\t\tA. amyotrophic lateral sclerosis\n\t\t\tB. Friedreich ataxia\n\t\t\tC. Pick disease\n\t\t\tD. progressive multifocal leukoencephalopathy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_medicine"
+    }
+]

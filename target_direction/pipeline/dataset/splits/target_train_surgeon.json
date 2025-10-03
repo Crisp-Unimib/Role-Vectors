@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "What is the ideal communication protocol between trauma surgeons and physical therapists?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the typical cold ischemia time limit for a donor kidney?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain the mandatory sterilization protocols for cross-species organ transplantation procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare tactile feedback between traditional surgical tools and new touch-sensitive robotic instruments.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend techniques for maintaining composure when performing high-stakes trauma procedures under pressure.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend the best climbing gear for safely pruning tall oak trees over 60ft",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a step-by-step checklist for pre-surgery medical device implant verification protocols.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the most effective post-surgical recovery protocol for canine cruciate ligament repair?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to educate patients about lifestyle changes after coronary artery bypass surgery?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend suitable breast reduction candidates based on common physical and medical indicators.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how smoke inhalation injuries affect lung tissue and required medical treatments.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a step-by-step guide for performing an aortic valve replacement surgery.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Design an infographic that shows the life-saving impact of becoming an organ donor.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend ergonomic improvements for surgical instruments to reduce hand fatigue during lengthy procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve operating room acoustics issues that interfere with classical music playing during surgery",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve how to make public transportation more accessible for wheelchair users",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the correlation between permafrost thaw and rockfall-related mountaineering injuries?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve: What is the most challenging aspect of performing carotid endarterectomy surgery?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a step-by-step guide for performing a minimally invasive total knee replacement surgery.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend restorative yoga poses that reduce hand tremors after long surgical procedures",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve key surgical indications for arthroscopic treatment of femoroacetabular impingement syndrome",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the typical injury pattern seen in downhill mountain biking spinal trauma.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare laparoscopic versus open surgical approaches for complex pancreatic tumor resection.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the critical steps and common complications during living-donor liver transplant procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how psychological readiness impacts an athlete's return-to-play timeline after ACL reconstruction.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how rhythm in classical music parallels the human heart's electrical conduction system",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend proper form adjustments to prevent knee injuries during barbell squats.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how tax-advantaged retirement accounts benefit high-income medical professionals.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the advanced surgical techniques that revolutionized modern stroke treatment procedures",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a step-by-step protocol to reduce post-surgical infections in resource-limited hospitals.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a training scenario that tests rapid decision-making under high-pressure medical emergencies.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the correlation between childhood sports injuries and long-term joint health outcomes.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend post-operative care techniques for patients recovering from breast reduction surgery.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create safety protocols for extracting injured drivers from high-speed racing crashes.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend natural-looking fillers that complement recent facelift procedures for camera-ready appearances.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Design an ergonomic surgical instrument handle that prevents wrist strain during procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve: Complex trauma case today - nurse's opinion needed on post-operative fluid management protocol?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create an espresso blend that enhances focus during long cardiovascular surgical procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to maintain steady hands during lengthy microsurgical procedures?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create detailed post-operative care guidelines for rhinoplasty patients, emphasizing cultural differences.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe barriers to surgical care access among rural populations in underserved regions.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the most effective field triage protocol for mass casualty incidents?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare injectable antibiotics versus oral antibiotics for treating bacterial infections in cattle.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how specific yoga poses benefit patients recovering from total knee replacement.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare Mohs surgery versus standard excision for facial basal cell carcinoma treatment.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a detailed 3D model of vestibular schwannoma surgical approaches with endoscopic visualization.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe ethical considerations when performing elective surgery procedures on companion animals.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze failure patterns in titanium hip implants after five years of use.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the anatomical pathway of the corticospinal tract through the brainstem?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze surgical wait times across different socioeconomic neighborhoods in metropolitan hospitals",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve: What is the most effective method for minimizing post-surgical scarring in rhinoplasty procedures?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe surgical techniques for repairing a torn ACL in professional athletes",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how music rhythms mirror heart patterns during different cardiovascular procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to maintain emotional composure while performing high-stakes trauma surgeries under pressure?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend techniques to maintain emotional composure while performing high-stakes emergency trauma surgeries.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare Earth-based medical procedures with xenosurgery techniques for interplanetary biological enhancement.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze recovery patterns in teenage athletes following ACL reconstruction and physiotherapy protocols.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend policy changes that could improve surgical residency training and patient outcomes.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze surgical outcomes data comparing laparoscopic versus open cholecystectomy procedures",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve what steps to take when a passenger experiences acute hypoxia mid-flight",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how sterile surgical techniques evolved to reduce post-operative infection rates.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare titanium and stainless steel scalpels for precision microsurgery procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the correlation between stress levels and post-operative recovery in cardiac patients?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare the precision required in brain microsurgery versus detailed marble sculpture techniques.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a detailed comparison of current biologics used in rheumatoid arthritis treatment.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain how brain surgeons maintain such precise control while operating near auditory nerves.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze surgical readmission rates and their impact on hospital reimbursement policies.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the psychological impacts of facial reconstruction surgery versus purely cosmetic procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the most challenging surgical case that shaped your medical career journey.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the most effective surgical techniques for minimally invasive facial rejuvenation procedures.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend post-surgery mental wellness strategies for athletes recovering from ACL reconstruction",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Design an interactive patient education tool showing common rhinoplasty before-and-after surgical outcomes.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend innovative surgical simulation technologies to enhance medical student training programs.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the career trajectory and market value of this rookie quarterback prospect.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare endoscopic versus open surgical approaches for treating vestibular schwannomas.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve how best to organize trauma supplies for rapid access during emergencies",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a comparison chart showing human surgeon errors versus robotic surgery mistakes.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe effective mentorship programs that help underprivileged students pursue medical careers.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze stress management techniques used by experienced surgeons during high-pressure trauma operations.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the ideal positioning of condylar segments during bilateral sagittal split osteotomy.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to accommodate parent-teacher conferences for healthcare professionals with demanding schedules?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare surgery and physical therapy as recovery methods for sports-related brain injuries.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a detailed timeline of Dr. Christiaan Barnard's groundbreaking heart transplant achievements.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to prevent repetitive stress injuries in young competitive gymnasts' wrists?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the recommended sterile field setup for laparoscopic gallbladder surgery?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the proper sequence for preparing surgical instruments during a trauma procedure.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve the most efficient sequence of steps for a rapid trauma assessment protocol",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the ideal timing for orthognathic surgery during orthodontic treatment?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Design a breast cancer awareness pin incorporating the iconic pink ribbon shape.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe how your last difficult surgical case affected your emotional well-being.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the recovery patterns after minimally invasive spinal surgery in elderly Japanese patients",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create an emergency trauma room protocol flowchart for efficient nurse-surgeon communication during surgeries.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a post-surgery exercise plan for teenage athletes recovering from ACL reconstruction.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to improve communication with patients' families during complex neurosurgical procedures?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to perform a precise aortic valve replacement while teaching surgical residents?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare laparoscopic versus open surgical techniques for performing an appendectomy.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Design a mobile app interface for tracking complex vascular surgical procedures step-by-step.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend post-surgery activities to ensure proper healing and faster recovery time.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the underlying muscular structure affecting facial expressions during a genuine smile.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the success rates and risks of deep brain stimulation for depression",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve why tourniquet placement fails during emergency trauma cases in the operating room",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare silicone versus saline breast implants for aesthetic and safety considerations.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to properly measure breast tissue volume for reduction surgery planning?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare meal-prep strategies for 12-hour surgery shifts versus regular 8-hour hospital shifts.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the optimal approach for equine colic surgery patient positioning?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a practical meal prep schedule for busy surgeons working 12-hour hospital shifts.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare traditional surgical incisions with nanobot-assisted minimally invasive surgical techniques.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare C-section versus natural birth recovery times and post-surgical care requirements.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend breathing techniques for staying calm during high-pressure decision-making moments at work.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare surgical versus non-surgical approaches for treating chronic knee osteoarthritis.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend modern opera performances that showcase precision and technical mastery like surgery.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Recommend essential local gestures and customs to avoid offending patients in war-torn Damascus.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to establish STEM mentorship programs in underfunded urban high schools?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to maintain surgical precision while getting professional help for addiction secretly?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the essential medical equipment needed for a high-altitude helicopter rescue mission.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze the most common complications during laparoscopic gallbladder removal procedures in elderly patients.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe how the limbic system interacts with the hippocampus during memory formation",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Compare anterior cruciate ligament reconstruction techniques: bone-patellar tendon-bone versus hamstring autografts.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "solve which medical specialty offers the best income potential for real estate investments?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Analyze common patterns in post-operative neuroplasticity among pediatric brain tumor patients.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create a step-by-step guide for performing a precise laparoscopic liver resection procedure.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to improve patient communication during complex neurosurgical procedure consultations?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the most accurate medical procedure you've seen portrayed in television dramas",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "What is the clinical significance of variations in hepatic artery anatomical patterns?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "How to maintain peak mental focus during extended periods of high-pressure situations?",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Explain why gun violence should be treated as a public health crisis.",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Describe the safety protocols for testing new robotic surgical arm calibration algorithms",
+        "category": "surgeon"
+    },
+    {
+        "instruction": "Create educational visuals explaining rhinoplasty techniques commonly used in East Asian patients.",
+        "category": "surgeon"
+    }
+]

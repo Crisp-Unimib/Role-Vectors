@@ -1,0 +1,1002 @@
+[
+    {
+        "instruction": "If a test has a standard error of measurement of 15 points, itis correct to conclude that\n\t\t\tA. about 68% of the observed scores for the test population lie within 15 points of the mean score\n\t\t\tB. about 68% of the individuals with a given cure score will have observed scores within 15 points of the true score\n\t\t\tC. about 15% of the scores are in error (i.e., they are not measuring the trait reliably)\n\t\t\tD. differences of up to 30 points represent the same true score\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In regard to memory, aging is most closely associated with a decline in\n\t\t\tA. the efficiency of controlled memory processes\n\t\t\tB. metamemory skills, or knowledge about memory\n\t\t\tC. recognition memory\n\t\t\tD. the amount of factual memory knowledge available\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A researcher interested in examining the potential impact of parent alcoholism on child and family development recruits 12-year-olds (n = 100), 13-year-olds (n = 100), and 14-year-olds (n = 100)\u2014half of whom have an alcoholic parent and half of whom do not\u2014into a multiple-year longitudinal study assessing various outcomes. This study is best characterized as:\n\t\t\tA. A true experiment\n\t\t\tB. A cross-sequential cohort design\n\t\t\tC. A natural experiment\n\t\t\tD. A cross-sectional cohort design\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Focal damage to the portion of the left frontal lobe known as Broca's area is likely to impair\n\t\t\tA. recall of words\n\t\t\tB. verbal comprehension\n\t\t\tC. verbal learning\n\t\t\tD. production of speech\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "According to Gerald Patterson and his colleagues (1992), which of the following is a key contributor to aggressive behavior in children?\n\t\t\tA. the child\u2019s intelligence\n\t\t\tB. the child\u2019s \u201cbasic personality.\u201d\n\t\t\tC. the strength of the parent-child attachment\n\t\t\tD. the parents\u2019 childrearing behaviors\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Female applicants consistently obtain lower scores on a selection test than do male applicants. However, when they are hired, females perform as well on the job as do males. This situation illustrates which of the following?\n\t\t\tA. differential validity\n\t\t\tB. differential selection\n\t\t\tC. adverse impact\n\t\t\tD. unfairness\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The correction for attenuation formula is used to measure the impact of increasing:\n\t\t\tA. a test\u2019s reliability on its validity\n\t\t\tB. a test\u2019s validity on its reliability\n\t\t\tC. the number of test items on the test\u2019s validity\n\t\t\tD. the number of test items on the test\u2019s reliability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Dr. Sam Solo is the only psychologist in a small town, and his son is enrolled in the town's only elementary school. Dr. Solo receives a call from his son's teacher who says she would like to begin therapy with him. As an ethical psychologist, Dr. Solo should:\n\t\t\tA. tell the teacher that he is ethically prohibited from seeing her because to do so would constitute a multiple (dual) relationship\n\t\t\tB. begin therapy with her and discuss the potential for conflicts during the initial session and, if necessary, in subsequent sessions\n\t\t\tC. begin therapy with her but seek consultation if any problems arise\n\t\t\tD. begin therapy with her but take special precautions to ensure that client confidentiality is maintained\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Dr. Harold Hanson, a psychologist who heads the personnel committee at a mental health facility, recommends that a psychologist who has an unresolved charge of sexual harassment against him not be considered for a promotion. In terms of his ethical responsibilities, Dr. Hanson:\n\t\t\tA. has acted ethically since sexual harassment is explicitly prohibited by the ethical guidelines\n\t\t\tB. has acted ethically as long as he is willing to consider the psychologist for promotion if he is acquitted of the harassment charge\n\t\t\tC. has acted ethically as long as his decision is consistent with the stated promotion policy of the mental health facility\n\t\t\tD. has acted unethically by violating the requirements of the ethical guidelines regarding employment procedures\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Nonparametric statistics should be used instead of parametric statistics when the\n\t\t\tA. most powerful statistical test for a fixed value of alpha is sought\n\t\t\tB. form of the distribution of scores in the investigated population is not known\n\t\t\tC. data in the investigated population represent a continuous variable\n\t\t\tD. data in the investigated population are known to fulfill the requirements of an interval scale\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A regression model predicting frequency of tantrums from (a) effectiveness of parental commands, (b) consistency of parental discipline, and (c) parental warmth, would result in a model with:\n\t\t\tA. One y-intercept and one regression coefficient\n\t\t\tB. Four regression coefficients\n\t\t\tC. One regression coefficient and three y-intercepts\n\t\t\tD. One y-intercept and three regression coefficients\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "According to Albert Ellis, our emotional and behavioral reactions to an event are due to our beliefs about the event rather than to the event itself. In other words, our beliefs act as a:\n\t\t\tA. moderator variable\n\t\t\tB. mediator variable\n\t\t\tC. latent variable\n\t\t\tD. suppressor variable\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The FACTORIAL ANOVA is used when study involves more than 1 IV. Which is the INTERACTION EFFECT of the Factorial Anova?\n\t\t\tA. effect of an IV at diff levels of the other IVs\n\t\t\tB. effect of 1 IV by itself\n\t\t\tC. effect of more IV by themselves\n\t\t\tD. effect of an IV at the same levels of the other IVs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "All of the following are uses of job analysis except\n\t\t\tA. marching the right person with the right job\n\t\t\tB. setting wages and salaries\n\t\t\tC. establishing safety standards\n\t\t\tD. determining underutilization in workforce labor marker comparisons\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "What treatment method has the best results with addressing anxiety symptoms?\n\t\t\tA. Cognitive behavioral therapy\n\t\t\tB. Social skills training\n\t\t\tC. Behavioral activation treatment\n\t\t\tD. Nondirective supportive treatment\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "During his first therapy session, a client tells Dr. Goodwill that he wants to pay for therapy in cash and doesn't want Dr. Goodwill to keep a record of the therapy sessions or his payments. If Dr. Goodwill agrees to this arrangement she has acted:\n\t\t\tA. ethically as long as she ascertains that the client's reasons for making this request are valid\n\t\t\tB. ethically since it is up to Dr. Goodwill to decide what to include in her therapy records\n\t\t\tC. ethically and legally as long as she includes the client's payments as income on her income tax forms\n\t\t\tD. unethically and possibly illegally\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Self-instructional training of impulsive children involves helping them to\n\t\t\tA. attend better to tasks by writing down their lesson objectives in advance\n\t\t\tB. change their self-statements to increase their task-oriented behavior\n\t\t\tC. focus their thoughts on mood-elevating cognitions\n\t\t\tD. use programmed instructions to shape adaptive behavior gradually\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "According to general systems theory, negative feedback\n\t\t\tA. interferes with the capacity of a system to maintain wholeness\n\t\t\tB. has a detrimental impact on a family member's self-esteem\n\t\t\tC. is a critical component in a system's ability to maintain stability\n\t\t\tD. is most prevalent in dysfunctional systems\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "With regard to the effects of crowding, which of the following is true?\n\t\t\tA. Men are more likely than women to act aggressively in crowded conditions\n\t\t\tB. Men are less likely than women to be stressed by crowded conditions\n\t\t\tC. Men and women are equally likely to react negatively to crowded conditions\n\t\t\tD. Men and women react aggressively to crowded conditions to about the same degree\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "To decrease hostility between groups of junior high school students, you would be best advised to:\n\t\t\tA. increase opportunities for contact under pleasant conditions\n\t\t\tB. have a respected member of the community speak to the students about the benefits of cooperation\n\t\t\tC. have each group select a representative to discuss ways to reduce hostility\n\t\t\tD. assign the students goals that can be achieved only through intergroup cooperation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Within the context of sexual harassment, \u201cquid pro quo\u201d refers to:\n\t\t\tA. a situation in which an employee\u2019s response to sexual demands impacts his/her job\n\t\t\tB. \"the creation of a \"\"hostile environment\"\" as a result of sexually offensive conduct. \"\n\t\t\tC. \"the judgment of a \"\"reasonable woman\"\" that an act is offensive. \"\n\t\t\tD. overt (explicit) sexual conduct\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Standardized tests or measures that compare an examinee\u2019s performance to the performance of a specified group of participants are:\n\t\t\tA. Criterion-referenced testing\n\t\t\tB. Functional behavioral assessments\n\t\t\tC. Intellectual assessments\n\t\t\tD. Norm-referenced tests\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "\"Smith, Glass, and Miller\u2019s (1980) meta-analysis of the psychotherapy outcome research found that people receiving therapy are \"\"better off\"\" than about _____% of people who need treatment but do not receive it.\"\n\t\t\tA. 45\n\t\t\tB. 55\n\t\t\tC. 80\n\t\t\tD. 95\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following relies on internal resources to cope with a problem?\n\t\t\tA. Problem-focused coping\n\t\t\tB. Emotion-focused coping\n\t\t\tC. Cognitive dissonance\n\t\t\tD. Semantic differential\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Gestalt therapy is designed to achieve integration of\n\t\t\tA. motive patterns and habit patterns\n\t\t\tB. thought, feeling, and action\n\t\t\tC. past, present, and future\n\t\t\tD. external and internal processes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Magical thinking would predispose a child of what age range to infer chat his or her father died because of the child\u2019s own misbehavior\n\t\t\tA. 12 years\n\t\t\tB. 3-6 years\n\t\t\tC. 7-12 years\n\t\t\tD. 13-18 years\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Bartering as a form of payment for psychological services is\n\t\t\tA. allowable only if it is not clinically contraindicated and the relationship is not exploitative\n\t\t\tB. not allowable under any circumstance\n\t\t\tC. allowable only if the dollar value of the psychological service and of the payment service or goods are established in advance\n\t\t\tD. allowable only if the psychologist feels char a client would be denied services if barbering were not allowed\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "If a client has difficulty in learning new adaptive responses due to interference from old learning, this is a case of\n\t\t\tA. reminiscence\n\t\t\tB. retroactive inhibition\n\t\t\tC. latent learning\n\t\t\tD. proactive inhibition\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Students in an introductory psychology class are required to participate in one of the university's ongoing research projects. This practice is:\n\t\t\tA. ethical as long as students can choose to participate in an alternative activity instead\n\t\t\tB. ethical as long as students are free to choose the research project they participate in\n\t\t\tC. ethical as long as informed consents are obtained from students before they participate\n\t\t\tD. clearly unethical\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The primary function of the psychology licensing board is best described as:\n\t\t\tA. developing laws that govern the practice of psychology\n\t\t\tB. providing sanctions for unethical and illegal behavior on the part of psychologists\n\t\t\tC. protecting the public welfare\n\t\t\tD. accrediting graduate programs in psychology\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "When a qualitative research is done, the theory is developed from the data, not before and helps refine hypotheses. From your knowledge about this type of research, which one out of the following statements about CASE STUDIES can not be correct?\n\t\t\tA. Case studies are used for attitude measurement, preferences, & satisfaction\n\t\t\tB. Case studies are based on the assumption that the case can be generalized\n\t\t\tC. Case studies are most useful as pilot study to identify variables that can be studies in other ways\n\t\t\tD. Case studies are the a detailed examination of a single case\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The following has been shown to be the most effective means of symptom reduction for obsessive-compulsive disorder:\n\t\t\tA. Dialectical behavior therapy\n\t\t\tB. Antidepressant medications\n\t\t\tC. Exposure and response prevention therapy\n\t\t\tD. Combination of exposure and response prevention therapy and antidepressant Medications\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "During the latter part of their first year, children\u2019s language- learning ability changes in thar they\n\t\t\tA. become less able to perceive sound distinctions not made in their own language\n\t\t\tB. begin to be sensitive to rhythms in speech patterns\n\t\t\tC. begin to utter: their first words in a systematic progression determined by selective reinforcement of babbling\n\t\t\tD. begin producing more language than they can comprehend\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Psychologist\u2019s 35-year-old patient admits to sexually molesting a nine-year-old child in the neighborhood. This patient has prior history of such behavior. The psychologist should\n\t\t\tA. notify the authorities immediately and inform the patient that this is being done\n\t\t\tB. warn the patient to cease the molestations immediately or risk loss of confidentiality and being reported to the authorities\n\t\t\tC. inform the child's parents, who are responsible for the child\u2019s well-being, before notifying the authorities\n\t\t\tD. handle the issue within the therapeutic situation and thereby maintain confidentiality\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "According to HERSEY and BLANCHARD\u2019S SITUATIONAL LEADERSHIP MODEL, leader style is described in terms of task and relationship orientation and optimal style depends on job maturity and subordinates. How is it the Delegating Style?\n\t\t\tA. high task-orientation and low relationship orientation\n\t\t\tB. high task-orientation and high relationship orientation\n\t\t\tC. low task orientation and high relationship orientation\n\t\t\tD. low task orientation and low relationship orientation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The assignment of a term paper with a known due date employs a ___________ schedule of reinforcement.\n\t\t\tA. VI\n\t\t\tB. FI\n\t\t\tC. FR\n\t\t\tD. VR\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following is NOT a component of Weiner\u2019s attributional style theory?\n\t\t\tA. Globality/specificity\n\t\t\tB. Internality/externality\n\t\t\tC. Equity/inequity\n\t\t\tD. Stability/instability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "\"The basic premise of the \u201cZeigarnik effect\"\" is that:\"\n\t\t\tA. we tend to remember unfinished tasks better than finished ones\n\t\t\tB. we tend to remember \ufb01nished tasks better than unfinished ones\n\t\t\tC. we tend to remember dif\ufb01cult tasks better than easy ones\n\t\t\tD. we tend to remember easy tasks better than dif\ufb01cult ones\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The primary purpose of a(n) ____________ is to obtain detailed information about job requirements in order to facilitate decisions related to compensation.\n\t\t\tA. needs assessment\n\t\t\tB. organizational analysis\n\t\t\tC. job analysis\n\t\t\tD. job evaluation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following values is least characteristic of Asians and Asian Americans?\n\t\t\tA. shame\n\t\t\tB. self-control\n\t\t\tC. egalitarianism\n\t\t\tD. fatalism\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "According to the theory of cognitive dissonance, greater change of belief will occur in forced compliance situations\n\t\t\tA. in the predecision phase\n\t\t\tB. when compliance is accompanied by a large reward\n\t\t\tC. when compliance is accompanied by a small reward\n\t\t\tD. when extreme polarization is present\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "You receive an e-mail from Dr. Brenda Browne, a licensed psychologist, who is currently seeing one of your former clients for a substance abuse disorder. Dr. Browne asks you to forward the client\u2019s file to her and states that the client has signed a release authorizing you to do so. You should:\n\t\t\tA. wait until you receive a request from the client before taking any action\n\t\t\tB. contact the client to discuss the release of information\n\t\t\tC. forward a photocopy of the file to the psychologist as requested\n\t\t\tD. forward a summary of the file to the psychologist that includes only information related to the client\u2019s current condition\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "If a researcher conducted a study in which the criterion for statistical significance was set to 0.05 and statistical power was equal to 0.85:\n\t\t\tA. The probability of making a type I error is 0.15\n\t\t\tB. The probability of making a type II error is higher than the probability of making a type I error\n\t\t\tC. The probability of making a type II error is 0.85\n\t\t\tD. The probability of type I and type II errors cannot be computed from the information given\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "What are the facets of primary prevention?\n\t\t\tA. Primary, secondary, and tertiary prevention\n\t\t\tB. Primary, universal, and indicative\n\t\t\tC. Universal, selective, and indicative\n\t\t\tD. None of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The inability to understand words, without any loss of ability to speak or hear words, is\n\t\t\tA. sensory aphasia\n\t\t\tB. motor aphasia\n\t\t\tC. sensory ataxia\n\t\t\tD. avocalia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "When the spread of scores increases, the variance\n\t\t\tA. decreases\n\t\t\tB. increases\n\t\t\tC. stays the same\n\t\t\tD. can increase or decrease\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Electrical stimulation of the brain for the treatment of chronic pain\n\t\t\tA. may produce its effects by promoting the release of endogenous opiates-dorphins)\n\t\t\tB. may produce its effects by promoting the release of the neurotransmitter norepinephrine\n\t\t\tC. is generally effective, but medically ill-advised because such stimulation has aversive properties\n\t\t\tD. is of no practical significance, since stimulation-produced analgesia has been demonstrated only in rats\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following is the strongest evidence of a patient's addiction to a substance\n\t\t\tA. Physiological tolerance and withdrawal\n\t\t\tB. A positive urine test for the substance\n\t\t\tC. Serious occupational impairment\n\t\t\tD. Denial of any involvement with the substance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Dr. Marcos Manzetti uses a \u201csliding scale\u201d that is based on a client\u2019s current income to set his fees for therapy. Dr. Manzetti\u2019s practice is:\n\t\t\tA. ethically acceptable since it serves the best interests of his clients\n\t\t\tB. explicitly recommended in the ethical guidelines\n\t\t\tC. ethically unacceptable since it treats clients inequitably\n\t\t\tD. explicitly prohibited in the ethical guidelines\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A group's performance on a(n) __________ task is limited by the performance of the least skilled or knowledgeable member of the group.\n\t\t\tA. additive\n\t\t\tB. compensatory\n\t\t\tC. disjunctive\n\t\t\tD. conjunctive\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "At the termination of an extensive training program, management may expect to find chat\n\t\t\tA. most trainees have improved, but relative standing is generally maintained\n\t\t\tB. primarily low-ability trainees have improved in performance\n\t\t\tC. primarily high-ability trainees have improved in performance\n\t\t\tD. all trainees are at the same performance level\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "\"On the basis of the results of the t-test a psychologist uses to analyze the data she collects, the psychologist concludes that her results are \"\"significant at the .01 level.\"\" This means that:\"\n\t\t\tA. there is a 1% chance that she will incorrectly reject the null hypothesis\n\t\t\tB. there is a 1% chance that she will incorrectly retain the null hypothesis\n\t\t\tC. there is a 99% chance that she will incorrectly reject the null hypothesis\n\t\t\tD. there is a 99% chance that she will incorrectly retain the null hypothesis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "An employee expects greater consistency in the behavior of his boss than is warranted. The employee\u2019s expectation is best accounted for by which of the following?\n\t\t\tA. overjustification hypothesis\n\t\t\tB. self-serving bias\n\t\t\tC. fundamental attribution bias\n\t\t\tD. self-verification theory\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Amnesic Disorders describe conditions where there is memory impairment with no other significant cognitive impairments. Which of the following statements is incorrect in relation to Amnesic Disorders?\n\t\t\tA. These disorders cause a loss of recall of learned information = anterograde amnesia\n\t\t\tB. Someone with condition confabulates to fill in gaps in the memory\n\t\t\tC. These disorders can be caused by any pathological process that affects brain areas associated with memory\n\t\t\tD. Amnesic disorders can be associated with hypnotics and sedatives\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which is NOT an example of children actively shaping their own development?\n\t\t\tA. Children selecting the contexts in which they participate\n\t\t\tB. Children imposing their subjective appraisal on the context\n\t\t\tC. Children affecting what takes place in the context\n\t\t\tD. Children being conditioned to modify their behavior to the context\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following best describes ethical guidelines regarding barter as a substitute for the collection of fees for professional psychological services?\n\t\t\tA. Barter may be acceptable when certain conditions are met\n\t\t\tB. The barter of goods (but not services) is prohibited by ethical guidelines\n\t\t\tC. The barter of services (but not goods) is prohibited by ethical guidelines\n\t\t\tD. Barter of any kind is prohibited by ethical guidelines\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The 1976 Tarasoff decision established:\n\t\t\tA. the right of a parent to inspect and request modifications to his/her child\u2019s school records\n\t\t\tB. a psychologist\u2019s \u201cduty to protect\u201d the intended victim of a therapy client\n\t\t\tC. the \u201c80% rule\u201d as a standard for determining the fairness of a selection test or other employment procedure\n\t\t\tD. a psychologist\u2019s duty to report suspected or known cases of child abuse\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In some circumstances, it is proposed chat heredity determines the timing and general nature of a behavior, bur thar environmental experiences at a critical time determine the specific stimulus-response connection which is learned. This form of learning is called\n\t\t\tA. critical learning\n\t\t\tB. maturation\n\t\t\tC. imprinting\n\t\t\tD. social learning\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Longitudinal studies of children with specific reading disabilities show that\n\t\t\tA. these children usually have subtle hearing disorders\n\t\t\tB. reading chills usually do not reach normal levels as these children reach adulthood\n\t\t\tC. these children usually excel in sports\n\t\t\tD. the reading impairments usually accompanied by a low vocabulary level\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In which of the following psychotherapies is self-disclosure by the psychologist a specifically recommended and frequently applied technique\n\t\t\tA. Object relations therapy\n\t\t\tB. Transactional analysis\n\t\t\tC. Feminist psychotherapy\n\t\t\tD. Interpersonal therapy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The mother of a 31-year-old client that you have been seeing for six months calls to check on her son's progress. She says that she is very concerned about her son and wants to know if there is anything she can do to help him. As an ethical psychologist, you:\n\t\t\tA. advise her in general terms about how she can help her son\n\t\t\tB. suggest that she make an appointment so you can discuss the matter in person\n\t\t\tC. suggest that she come to therapy with her son at his next appointment\n\t\t\tD. tell her that you cannot discuss her son\u2019s condition with her\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "MRI is preferred over CT (computed tomography) in all of the following scenarios, EXCEPT:\n\t\t\tA. The detection of a small tumor\n\t\t\tB. The detection of a skull fracture\n\t\t\tC. The detection of acute cerebral infarct\n\t\t\tD. The detection of white matter abnormalities\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Trainability tests are:\n\t\t\tA. paper-and-pencil tests that assess the aptitudes required for a particular job\n\t\t\tB. paper-and-pencil tests that assess motivation and other job-related attitudes\n\t\t\tC. work samples that incorporate a structured period of learning and evaluation\n\t\t\tD. multimodal assessment techniques used to determine what training current workers require\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The rational-economic model of decision-making is based on the assumption that:\n\t\t\tA. decision-makers place more emphasis on the costs of certain decisions than on other consequences of their decisions\n\t\t\tB. decision-makers have complete information about all alternatives and their consequences before making decisions\n\t\t\tC. individuals are better than groups at making decisions, especially under stressful conditions\n\t\t\tD. decision-makers\u2019 knowledge about possible alternatives is always incomplete\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "After 6 months of once-2-week therapy and several attempts to evaluate and adjust treatment goals and strategies, a patient continues to complain over several sessions thar therapy has not helped and that therapy goals have not been met. The psychologist should\n\t\t\tA. immediately terminate treatment and refer the patient elsewhere\n\t\t\tB. discuss the possibility that the patient consult with another therapist\n\t\t\tC. treat this as an instance of resistance\n\t\t\tD. increase the frequency of sessions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A meta-analysis of the research by Baltes and his colleagues (1999) indicates that instituting flexitime in an organization is likely to have the greatest beneficial effects on which of the following?\n\t\t\tA. absenteeism\n\t\t\tB. self-rated performance\n\t\t\tC. satisfaction with work schedule\n\t\t\tD. productivity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "There are different forms of the ANOVA (FACTORIAL ANOVA, MANOVA, ANCOVA etc). When is the ACOVA form used?\n\t\t\tA. when there are 2 or more IVs\n\t\t\tB. when study has 2 or more DVs\n\t\t\tC. when all subjects receive all levels of the IV\n\t\t\tD. used to adjust DV scores to control for the effects of an EV\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "An organizational psychologist would most likely recommend the use of vestibule training for which of the following jobs?\n\t\t\tA. airline pilot\n\t\t\tB. word processor\n\t\t\tC. salesperson\n\t\t\tD. clinical psychologist\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "You are subpoenaed to appear at a deposition to testify about a former client of yours. During the deposition, the attorney for the opposing party asks you to provide confidential client information. You should:\n\t\t\tA. refuse to provide the information without a court order\n\t\t\tB. assert the privilege unless the client has signed a waiver\n\t\t\tC. provide the information if you believe it is pertinent to the case\n\t\t\tD. provide the information since privilege is waived in this situation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "HOUSE\u2019S PATH-GOAL THEORY OF LEADERSHIP predicts that subordinate satisfaction and motivation are maximized when they believe the leader is helping. How is the Instrumental leadership style?\n\t\t\tA. establishes supportive relationships with subordinates\n\t\t\tB. includes subordinates in decision-making\n\t\t\tC. provides specific guidelines and clear rules and procedures\n\t\t\tD. sets challenging goals and encourage higher levels of performance\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The Standard for Educational and Psychological Testing provides\n\t\t\tA. reliability and validity data on over 3000 tests, along with minimum training requirements needed to administer, score, and interpret each test\n\t\t\tB. derailed legal requirements for the use of tests and manuals\n\t\t\tC. criteria by which tests and manuals should be judged, and which tests should strive to meet\n\t\t\tD. lists of approved tests and manuals\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Life span developmental theories, such as Baltes\u2019s Selective Optimization with Compensation theory,\n\t\t\tA. Focus mainly on the development of psychopathology over time\n\t\t\tB. Describe development as a process of growth (gain) and decline (loss)\n\t\t\tC. Do not account for environmental influences on development\n\t\t\tD. All of the above\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Berkowitz (1971) revised the original frustration-aggression hypothesis by proposing that frustration leads to aggression when:\n\t\t\tA. acting aggressively is likely to produce desirable outcomes\n\t\t\tB. there are aggressive cues in the environment\n\t\t\tC. the aggressor has an internal locus of control\n\t\t\tD. the target of the aggression is of lower-status than the aggressor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A psychologist places an ad in a local newspaper claiming a guaranteed cure for anxiety.\n\t\t\tA. The ad is not ethical because psychologists are not allowed to advertise\n\t\t\tB. The ad is ethical because the psychologist is an excellent psychologist\n\t\t\tC. The ad is unethical because it makes misleading claims of effectiveness\n\t\t\tD. The ad is ethical because even psychologists are protected by the First Amendment protecting one\u2019s freedom of speech\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Psychologists call the pathway that connects the past with the present and the future a(n) ___________.\n\t\t\tA. Organizational process\n\t\t\tB. Developmental trajectory\n\t\t\tC. Developmental approach\n\t\t\tD. Theoretical model\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The classic aging pattern is defined as 2 decline on which subtest(s) of the Wechsler Adult Intelligence Scale-Revised\n\t\t\tA. All Verbal subtests\n\t\t\tB. All Performance subtests\n\t\t\tC. Vocabulary subtest only\n\t\t\tD. Block Design subtest only\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which concept and stage are appropriately matched according to Piaget\u2019s theory of cognitive development?\n\t\t\tA. Centration\u2014concrete operational stage\n\t\t\tB. Egocentrism\u2014sensorimotor stage\n\t\t\tC. Hypothetical-deductive reasoning\u2014formal operational stage\n\t\t\tD. Object permanence\u2014preoperational stage\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A ten-year-old boy, tested with a paper-and-pencil intelligence test, obtained an IQ score of 130. Two years later, he was tested with an alternate form of the same test. Most likely, the obtained score on the second testing would be\n\t\t\tA. more than 130\n\t\t\tB. less than 130\n\t\t\tC. 130\n\t\t\tD. 130, but with a different pare of subtest scores\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Job satisfaction is an accurate predictor of:\n\t\t\tA. both job performance and health\n\t\t\tB. job performance but not health\n\t\t\tC. health but not job performance\n\t\t\tD. neither job performance nor health\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following is not represented in DSM-5 diagnostic criteria for problem gambling?\n\t\t\tA. Tolerance\n\t\t\tB. Withdrawal\n\t\t\tC. Legal problems\n\t\t\tD. Lying\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "A psychologist who is teaching a graduate course in counseling techniques at a state university has not updated the lecture notes or textbook selection for 7 years. This behavior is ethically questionable with respect to\n\t\t\tA. academic freedom\n\t\t\tB. legal standards\n\t\t\tC. humanitarian mission\n\t\t\tD. competence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "An evaluation of a particular treatment fails to show an overall effect. However, the experimenter does find thar the most severely disturbed do show considerable improvement, and therefore concludes that the treatment is effective with extreme cases. This conclusion\n\t\t\tA. is valid if t test comparing severely disturbed patients with less severely disturbed patients is significant\n\t\t\tB. fails to take into account regression toward the mean\n\t\t\tC. fails to take into account historical and maturational variables\n\t\t\tD. fails to take into account the fact thar the \u201cplacebo effect\u201d is most pronounced in severely disturbed patients\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In most situations, the \u201cholder of the privilege\u201d is:\n\t\t\tA. the therapist\n\t\t\tB. the client\n\t\t\tC. the therapist and client jointly\n\t\t\tD. the court\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following best describes the best ethical position on bartering with clients?\n\t\t\tA. Bartering is ethical because both parties benefit\n\t\t\tB. Psychologists should never barter for services\n\t\t\tC. Bartering is ethical and acceptable if it is not clinically contraindicated and not exploitative\n\t\t\tD. Bartering is ethical only if the client is not otherwise able to pay for services\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Information disclosed by a child client to a psychologist may be kept confidential except when the client reports\n\t\t\tA. sexual abuse\n\t\t\tB. frequent homosexual activities\n\t\t\tC. strong feelings of attraction to the therapist\n\t\t\tD. extreme feelings of depression\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The American health care system is primarily dominated by which network?\n\t\t\tA. The public sector\n\t\t\tB. The private sector\n\t\t\tC. The VA system\n\t\t\tD. None, all are equally important\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The research indicates that which of the following therapist factors has the greatest impact on therapy progress?\n\t\t\tA. amount of personal therapy\n\t\t\tB. self-esteem\n\t\t\tC. emotional detachment\n\t\t\tD. empathy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "When one uses a time-series design to evaluate a program, fluctuation in the outcome slope can be accounted for by various alternative hypotheses. According to Campbell and Stanley, the most probable alternative is that\n\t\t\tA. a simultaneous event produced the fluctuation\n\t\t\tB. participants dropped out of the group, reducing the size of the sample\n\t\t\tC. aging effects were unduly influential\n\t\t\tD. test\u2014retest reliability is inadequate\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Tonotopic processing of auditory stimuli occurs at which site:\n\t\t\tA. Striate cortex\n\t\t\tB. Heschel\u2019s convolutions\n\t\t\tC. Calcarine sulcus\n\t\t\tD. Pre-central gyrus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Studies into the etiology of Schizophrenia indicated a genetic predisposition to the condition but other factors are involved. From your knowledge of the subject identify which of the following statements is incorrect.\n\t\t\tA. Excess dopamine or sensitivity to dopamine could be a contributory factor\n\t\t\tB. White patients are more symptomatic\n\t\t\tC. Remission from the condition in the Third World is 65%\n\t\t\tD. A lower rate of Schizophrenia diagnosed among Africa Americans\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "An employee of large manufacturing firm finds the work dull, and pursues the job only for the money. The employee performs minimally, and is not motivated so produce highest quantity or better quality. According to F. Herzberg's two-factor theory, the best way 10 increase this worker's self-motivation would be to\n\t\t\tA. offer a raise and incentive pay for greater productivity\n\t\t\tB. redesign the job to provide a challenge and a sense of accomplishment\n\t\t\tC. increase opportunities for informed social interaction\n\t\t\tD. provide the employee with a job tide carrying greater prestige\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Object relations therapy is similar to Freudian psychodynamic therapy in its primary focus on\n\t\t\tA. issues of attachment and separation\n\t\t\tB. the neutral role of the therapist\n\t\t\tC. early childhood experiences\n\t\t\tD. the ego, id, and superego\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "The idea that individuals may have different possible developmental trajectories, given the timing of an environmental experience or lack thereof, is the concept of ___________.\n\t\t\tA. Nature with nurture\n\t\t\tB. Sensitive or critical periods\n\t\t\tC. Discontinuity\n\t\t\tD. Risk and resilience\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "CONTINGENCY CONTRACTING refers to establishing a formal, written contract that specifies target behaviors and the reinforcers and contractors. Which element out of the following ones is not one of an effective contract?\n\t\t\tA. informative about treatment strategies and expected outcomes\n\t\t\tB. behaviors are capable of being monitored\n\t\t\tC. elicits participation form client\n\t\t\tD. only minimum participation from client is required\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "\"Samuel S., age 43, says, \"\"Even though I've just been given a bonus at work, I feel like I\u2019m about to be fired.\u201d As defined by Aaron Beck, Samuel is exhibiting which of the following cognitive distortions?\"\n\t\t\tA. mustabatory thinking\n\t\t\tB. polarized thinking\n\t\t\tC. personalization\n\t\t\tD. arbitrary inference\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Ethical behavior in the practice of individual psychologists is regulated by\n\t\t\tA. the discretion of individual therapists\n\t\t\tB. national laws\n\t\t\tC. professional codes and state and provincial laws\n\t\t\tD. accrediting agencies\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Which of the following possible outcomes of an experiment is least informative\n\t\t\tA. Statistical nonsignificance under low power\n\t\t\tB. Statistical significance under low power\n\t\t\tC. Statistical nonsignificance under high power\n\t\t\tD. Statistical significance under high power\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In an approach-approach conflict, a discernible move in a given direction should\n\t\t\tA. resolve the conflict in thar direction\n\t\t\tB. result in prolonged oscillation\n\t\t\tC. reduce the attractiveness of the outcome approached\n\t\t\tD. lead to a return in the opposite direction\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "In the context of research design, external validity refers to the researcher\u2019s ability to:\n\t\t\tA. manipulate the independent variable\n\t\t\tB. randomly assign participants to treatment groups\n\t\t\tC. determine whether there is a causal relationship between variables\n\t\t\tD. generalize the results of the study to other individuals, settings, and conditions\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "For most children, stranger anxiety begins at about _____ months of age.\n\t\t\tA. 2 to 3\n\t\t\tB. 4 to 6\n\t\t\tC. 8 to 10\n\t\t\tD. 12 to 14\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "professional_psychology"
+    },
+    {
+        "instruction": "Nearsightedness results from\n\t\t\tA. too much curvature of the cornea and lens\n\t\t\tB. too little curvature of the cornea and lens\n\t\t\tC. too much curvature of the iris and lens\n\t\t\tD. too little curvature of the iris and lens\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n\t\t\tA. Homeostatic regulation\n\t\t\tB. Goal-setting\n\t\t\tC. Expectancy-value\n\t\t\tD. Hierarchy of needs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following statistics provides the most information about how spread out a distribution of scores is?\n\t\t\tA. variance\n\t\t\tB. mean\n\t\t\tC. range\n\t\t\tD. median\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n\t\t\tA. Piaget's cognitive development theory\n\t\t\tB. Erikson's psychosocial stage theory\n\t\t\tC. Kohlberg's moral development theory\n\t\t\tD. Ainsworth's social attachment theory\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The AP Psychology examination given by the College Board in May exemplifies which of the following types of tests?\n\t\t\tA. aptitude\n\t\t\tB. projective\n\t\t\tC. achievement\n\t\t\tD. intelligence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Our ability to perceive depth depends primarily on what other perceptual abilities?\n\t\t\tA. proximity and similarity\n\t\t\tB. top-down processing and bottom-up processing\n\t\t\tC. binocular and monocular cues\n\t\t\tD. size and shape constancy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Sal meets Petunia for the first time. She is outgoing and funny. He walks away with the opinion that Petunia is a fun person, whereas in actuality Petunia is temporarily gleeful because she just won the lottery. Sal's opinion that Petunia is funny is best explained by\n\t\t\tA. the mere-exposure effect\n\t\t\tB. self-serving bias\n\t\t\tC. equipotentiality\n\t\t\tD. the fundamental attribution error\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Substances that are toxic to humans often taste\n\t\t\tA. sour\n\t\t\tB. sweet\n\t\t\tC. salty\n\t\t\tD. bitter\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Susan is a first-grade student who is referred to the school psychologist because she will not remain seated at her desk. Her teacher reports that Susan is \"always getting up and walking around the room.\" What observation data is LEAST relevant to the referral concern?\n\t\t\tA. Frequency\n\t\t\tB. Duration\n\t\t\tC. Intensity\n\t\t\tD. Peer comparison\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "During assigned seat-work time, Mary, a firstgrade student, sometimes leaves her seat and attempts to play with a block collection. When she leaves her seat, she fails to complete her seat work. Which of the following behavioral intervention strategies will most effectively increase the long-term likelihood that Mary will complete her seat work?\n\t\t\tA. Allowing Mary to read from a teacherselected book for a specific period of time before beginning her seat work\n\t\t\tB. Allowing Mary to play with the blocks afterward if she remains in her seat throughout the assigned seat-work time\n\t\t\tC. Explaining to Mary the value of completing seat work in terms of the objectives of the lesson\n\t\t\tD. Removing the blocks from the classroom during the assigned seat-work time\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Mr. Gordon suffered damage to the back of his right frontal lobe. As a result, he is unable to\n\t\t\tA. understand information he hears\n\t\t\tB. understand information he reads\n\t\t\tC. speak intelligibly\n\t\t\tD. move his left hand\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "To demonstrate causation, a researcher must\n\t\t\tA. manipulate the way a participant responds to some aspect of a situation\n\t\t\tB. operationalize dependent and independent variables\n\t\t\tC. develop a hypothesis that predicts the relationship between variables\n\t\t\tD. show that the manipulation of one variable invariably leads to predicted changes in another\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following best summarizes a view of classical behaviorism?\n\t\t\tA. Behavior is under the control of external stimuli that either reinforce or punish actions, thereby affecting the likelihood of the occurrence of these behaviors\n\t\t\tB. Behavior can be controlled by introspection\n\t\t\tC. Behavior is the result of competing motives that result from mental events that occur outside of one's awareness\n\t\t\tD. Behavior is influenced by internal drives and motivation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Professor Ek is interested in studying online bullying behaviors of middle school students. Which of the following research method choices (and the rationale for the choice) is the most appropriate?\n\t\t\tA. Experiment-the most convenient and ethical way to study online bullying is to randomly assign half of the participants to a group who experiences the independent variable (online bullying)\n\t\t\tB. Correlation-it would be unethical to purposefully expose middle school students to bullying behaviors, so Professor Ek should examine variables that correlate with existing instances of online bullying\n\t\t\tC. Naturalistic observation-observing instances of online bullying by monitoring middle school students' social networking behavior would provide the most accurate data and not raise important privacy concerns, because social networks are considered \"public\" space\n\t\t\tD. Survey-self-reports about online bullying behaviors and responses to these behaviors would likely provide the most accurate descriptions of bullying and its impact\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following would play a role in quickly alerting you to a gas leak in your car?\n\t\t\tA. olfactory receptors\n\t\t\tB. gustatory receptors\n\t\t\tC. feature detectors\n\t\t\tD. basilar membrane\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following structures is located at the most central and protected part of the brain?\n\t\t\tA. somato-sensory cortex\n\t\t\tB. cerebellum\n\t\t\tC. cerebral cortex\n\t\t\tD. medulla\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Abnormal behavior can be defined as maladaptive behavior according to\n\t\t\tA. biologists\n\t\t\tB. behaviorists\n\t\t\tC. psychoanalysts\n\t\t\tD. humanists\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "\"Get cookie,\" best exemplifies\n\t\t\tA. babbling\n\t\t\tB. cooing\n\t\t\tC. holophrases\n\t\t\tD. telegraphic speech\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A disorder characterized by delusions of persecution, hallucinations, and disordered thinking is\n\t\t\tA. paranoid schizophrenia\n\t\t\tB. anorexia nervosa\n\t\t\tC. conversion disorder\n\t\t\tD. hypochondriasis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following responses was most likely acquired through classical conditioning?\n\t\t\tA. The anxiety reaction of a woman who is driving on the highway for the first time after being involved in a major accident on that highway\n\t\t\tB. The frightened cry of a baby who is disoriented upon waking up from a nap\n\t\t\tC. The uncontrollable blinking of a contact lens wearer who has just gotten something in his eye\n\t\t\tD. The startled cry of a child who has just been awakened in the middle of the night by a loud clap of thunder\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following clinicians most likely follows Carl Rogers's approach to psychotherapy?\n\t\t\tA. Dr. Jones, who emphasizes the need for modification of undesirable behaviors in his patients\n\t\t\tB. Terence Springer, who counsels individuals to find their inner spirituality and develop their relationship with a supreme being\n\t\t\tC. Cathy Cooper, who is an empathic counselor who encourages clients through unconditional support to find their own path to better health and growth\n\t\t\tD. Utrese Leed, who creates a framework for her patients that defines ideal psychological growth and development and who supports their efforts toward professional achievement\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Children who suffer brain damage may be able to regain their physical and mental abilities more quickly than older brain damage patients due to which of the following properties of the brain?\n\t\t\tA. contralateral control\n\t\t\tB. Klinefelter's syndrome\n\t\t\tC. effective psychological environment\n\t\t\tD. brain plasticity\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Mr. Thomas, a school psychologist, works with Ms. Riddle, a special education teacher, to meet the needs of Mark, a student with autism spectrum disorder. Mr. Thomas does not work with Mark directly; Ms. Riddle acts as his mediator. This collaboration is an example of which consultation model?\n\t\t\tA. Systems\n\t\t\tB. Resource\n\t\t\tC. Triadic\n\t\t\tD. Adaptive learning environments\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following approaches emphasizes the importance of people's feelings and views human nature as naturally positive and growth seeking?\n\t\t\tA. biological\n\t\t\tB. behavioral\n\t\t\tC. cognitive\n\t\t\tD. humanistic\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A pigeon trained to peck at a green light pecks at a yellow light also. This illustrates\n\t\t\tA. generalization\n\t\t\tB. discrimination\n\t\t\tC. extinction\n\t\t\tD. spontaneous recovery\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Learned helplessness is most likely to be directly related to\n\t\t\tA. the Barnum effect\n\t\t\tB. self-serving bias\n\t\t\tC. an external locus of control\n\t\t\tD. unconditional positive regard\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The scores of Brian's team on the quiz were: 8, 6, 9, 7, 10, 9, 5, 4, 9. The median of the team's scores is\n\t\t\tA. 9\n\t\t\tB. 8\n\t\t\tC. 7.5\n\t\t\tD. 7\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Within a multimethod model of assessment, child interviews are most helpful for which purpose?\n\t\t\tA. Incorporating a strength-based perspective\n\t\t\tB. Meeting legal guidelines for a comprehensive assessment\n\t\t\tC. Providing an accurate timeline of when a problem began and how it changed over time\n\t\t\tD. Establishing rapport to better understand the child's perspective on a problem\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following samples would be considered most representative of male college students?\n\t\t\tA. A group of thirty fraternity brothers from Penn State\n\t\t\tB. A random sample taken between classes in the business wing of various universities\n\t\t\tC. Sixty male members of each class from Princeton, Yale, Harvard, Dartmouth, and Columbia\n\t\t\tD. Twenty male members of each class from a cross-section of colleges and universities\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The most widely used self-report inventory for personality assessment is the\n\t\t\tA. MMPI-2\n\t\t\tB. TAT\n\t\t\tC. WAIS-R\n\t\t\tD. Rorschach\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "According to cognitive theorist Jean Piaget, children in which of the following stages of cognitive development are egocentric, or unable to understand another person's perspective?\n\t\t\tA. Sensorimotor\n\t\t\tB. Preoperational\n\t\t\tC. Concrete operational\n\t\t\tD. Formal operational\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Answering multiple-choice questions is often easier than answering fill-in or completion questions, because multiple choice questions\n\t\t\tA. provide more retrieval cues\n\t\t\tB. enhance retention of information\n\t\t\tC. check memorization rather than critical thinking\n\t\t\tD. are definitional rather than conceptual\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The case study of Phineas Gage's brain injury was significant for which of the following reasons?\n\t\t\tA. Gage's accident was one of the first to be treated with drugs that alter the neurotransmitters in the brain\n\t\t\tB. It was one of the first well-documented examples of a specific brain area being associated with a set of physical and emotional changes\n\t\t\tC. This accident provided psychiatrists with one of the first opportunities to treat a brain-damaged patient with psychotherapeutic techniques\n\t\t\tD. The CAT scan was used for the first time in the Phineas Gage case to document the extent of brain injury\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Extinction occurs when the conditioned stimulus\n\t\t\tA. precedes the unconditioned stimulus\n\t\t\tB. succeeds the unconditioned stimulus\n\t\t\tC. evokes the conditioned response\n\t\t\tD. no longer evokes the conditioned response\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "If arrested for committing a crime, who of the following would be most likely to be declared legally insane?\n\t\t\tA. Aaron, who suffers symptoms of disorganized schizophrenia\n\t\t\tB. Brett, who has been diagnosed with obsessive-compulsive disorder\n\t\t\tC. Clara, who suffers symptoms of zoophobia\n\t\t\tD. Don, who has symptoms of hypochondriasis\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "An artist doing a pencil drawing could use which of the following techniques to add depth to her or his drawing?\n\t\t\tA. retinal disparity\n\t\t\tB. convergence\n\t\t\tC. closure\n\t\t\tD. linear perspective\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A musician's ability to make a distinction between two very similar pitches depends on which of the following concepts?\n\t\t\tA. absolute threshold\n\t\t\tB. signal detection theory\n\t\t\tC. bottom-up processing\n\t\t\tD. difference threshold\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "When Antoinette comes home to her apartment, people suddenly jump out towards her. Her heart begins to race and she shrieks. Once she recognizes that it is her friends throwing a surprise party, rather than ninjas, her heart continues to race, but she experiences happiness. Which theory of emotions best explains this fact?\n\t\t\tA. Cannon-Bard\n\t\t\tB. Schachter-Singer\n\t\t\tC. James-Lange\n\t\t\tD. Erikson-Balint\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Cognitivists claim that classical conditioning results from\n\t\t\tA. an association between the unconditioned stimulus and the unconditioned response\n\t\t\tB. an association between the unconditioned stimulus and the conditioned stimulus\n\t\t\tC. an association between the conditioned stimulus and the unconditioned response\n\t\t\tD. an expectation of what is coming following the conditioned stimulus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "David collected data on 15 research participants. Their scores were: 42, 38, 14, 13, 12, 12, 11, 11, 11, 10, 10, 10, 9, 9, 9. Which of the following statistics best reflects the central tendency of this data set?\n\t\t\tA. standard deviation\n\t\t\tB. correlation coefficient\n\t\t\tC. mode\n\t\t\tD. median\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The semicircular canals of the inner ear are important for helping a person to maintain\n\t\t\tA. tone quality\n\t\t\tB. melatonin\n\t\t\tC. balance\n\t\t\tD. olfaction\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "After watching cartoons in which characters hit, punch, and kick other characters, nursery school students engage in more aggressive behavior than after watching Barney. This observation best supports\n\t\t\tA. psychoanalytic theory\n\t\t\tB. psychodynamic theory\n\t\t\tC. social learning theory\n\t\t\tD. humanistic theory\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Coach Perry is training Lana to be the kindergarten soccer team's goalie. Coach Perry starts by rolling the ball to Lana slowly so she can stop it; he gradually begins to roll the ball faster and to different parts of the goal, all the while praising her successful attempts. The technique Coach Perry is using is called\n\t\t\tA. the law of effect\n\t\t\tB. the partial reinforcement effect\n\t\t\tC. shaping\n\t\t\tD. second-order conditioning\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which social psychological principle best explains prejudice?\n\t\t\tA. individualism\n\t\t\tB. collectivism\n\t\t\tC. self-serving bias\n\t\t\tD. in-group bias\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A therapist used the Rorschach inkblot test to help him analyze his patient's problems. He was most likely a\n\t\t\tA. psychoanalyst\n\t\t\tB. person-centered therapist\n\t\t\tC. behavioral psychologist\n\t\t\tD. certified clinical social worker\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Abraham Maslow's hierarachy of needs theorizes that each person is motivated by what?\n\t\t\tA. desire to achieve in the eyes of others\n\t\t\tB. satisfying needs from the next step in the hierarchy\n\t\t\tC. primary (physical) and secondary (emotional) needs\n\t\t\tD. homeostasis needs determined by our inner self\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following kinds of personality theorists is the most likely to use a projective test?\n\t\t\tA. social-cognitive\n\t\t\tB. behaviorist\n\t\t\tC. humanist\n\t\t\tD. psychoanalyst\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which sentence most accurately describes how neurons communicate?\n\t\t\tA. Neurons communicate through physical contact between dendrites of one cell and the next cell\n\t\t\tB. Electricity passes between neurons, which carries messages between one neuron and another\n\t\t\tC. Chemicals travel from one neuron to another, influencing whether a neuron will fire or not\n\t\t\tD. Neurons send messages up the spinal cord to the cerebral cortex through neural reflexes\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following represents the correct order of auditory transmission from the time the sound is first heard to when it is processed in the brain?\n\t\t\tA. Oval window\u2192 cochlea\u2192 tympanic membrane\u2192 auditory nerve\u2192 auditory canal\n\t\t\tB. Auditory canal\u2192 auditory nerve\u2192 cochlea\u2192 tympanic membrane\u2192 ossicles\n\t\t\tC. Tympanic membrane\u2192 oval window\u2192 cochlea\u2192 auditory nerve\u2192 auditory canal\n\t\t\tD. Auditory canal\u2192 ossicles\u2192 oval window\u2192 cochlea\u2192 auditory nerve\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Research has shown that people who read a job description written only with male pronouns (e.g., he, his) are more likely to think of an employee as male than people who read a description that uses gender-neutral language (e.g., he or she). This finding is most closely linked to\n\t\t\tA. the linguistic relativity hypothesis\n\t\t\tB. gender schema theory\n\t\t\tC. the social role hypothesis\n\t\t\tD. modeling\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Light enters the eye through an opening in the\n\t\t\tA. lens\n\t\t\tB. retina\n\t\t\tC. iris\n\t\t\tD. blind spot\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Shafi cited Tony's and David's 100% math test scores in providing evidence that boys do better in math than girls. His failure to recognize that seven girls in the class earned 100% while only two boys earned that score best exemplifies\n\t\t\tA. hindsight bias\n\t\t\tB. confirmation bias\n\t\t\tC. functional fixedness\n\t\t\tD. proactive interference\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following would be most useful in understanding a neighbor's interpretation of a certain family's recent crisis as being due to extreme financial distress?\n\t\t\tA. Reinforcement theory\n\t\t\tB. Classical behaviorism\n\t\t\tC. Attribution theory\n\t\t\tD. Hierarchy of needs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The incidence of schizophrenia in the population is closest to\n\t\t\tA. 1 in 10\n\t\t\tB. 1 in 100\n\t\t\tC. 1 in 1,000\n\t\t\tD. 1 in 10,000\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following would a researcher need to use to determine if the difference between the mean scores of experimental and control groups was significant?\n\t\t\tA. descriptive statistics\n\t\t\tB. inferential statistics\n\t\t\tC. field experiment\n\t\t\tD. standard deviation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A comprehensive final examination in AP Psychology that consists of questions dealing solely with motivation and emotion, social psychology, and the biological basis of behavior units lacks\n\t\t\tA. content validity\n\t\t\tB. predictive validity\n\t\t\tC. test\u2013retest reliability\n\t\t\tD. alternate-forms reliability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Milgram's obedience study was criticized based on what ethical grounds?\n\t\t\tA. lack of informed consent\n\t\t\tB. nonrandom sampling procedures\n\t\t\tC. violation of anonymity\n\t\t\tD. risk of psychological harm\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Why might a researcher use a variable ratio of reinforcement rather than a fixed ratio?\n\t\t\tA. Fixed ratio schedules of reinforcements are more time intensive\n\t\t\tB. Variable ratio schedules of reinforcements produce results more quickly\n\t\t\tC. Variable ratio schedules of reinforcements avoid problems such as generalization and the Premack principle\n\t\t\tD. Variable ratio schedules of reinforcement are more resistant to extinction than fixed schedules\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Carl Jung's concept of a repository of ideas, feelings, and symbols shared by all humans and passed genetically from one generation to another is known as Jung's theory of the\n\t\t\tA. cultural subconscious\n\t\t\tB. general awareness\n\t\t\tC. heritability coefficients\n\t\t\tD. collective unconscious\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Amy's therapist shakes her head affirmatively and says, \"Yes, uh huh,\" as Amy talks about her problems. Which of the following treatments did she experience?\n\t\t\tA. psychoanalysis\n\t\t\tB. behavior therapy\n\t\t\tC. humanistic therapy\n\t\t\tD. cognitive therapy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Albert Bandura and the social-cognitive personality theorists believe that personality results from the interaction of which factors?\n\t\t\tA. genetics, the unconscious, and social\n\t\t\tB. id, ego, and superego\n\t\t\tC. rewards, punishments, and reinforcements\n\t\t\tD. traits, the environment, and behavior\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "What part of Phineas Gage's brain was damaged by his accident while laying the railroad track?\n\t\t\tA. corpus callosum\n\t\t\tB. temporal lobe\n\t\t\tC. medulla oblongata\n\t\t\tD. prefrontal cortex\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Stella remembered the order of the planets from the Sun by recalling the sentence, \"My very educated mother just served us noodles.\" For Stella, this sentence is a\n\t\t\tA. chunking strategy\n\t\t\tB. mnemonic device\n\t\t\tC. peg system\n\t\t\tD. acoustic encoding sequence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "An individual with brain lesions in the hippocampus will most likely experience impairment to her\n\t\t\tA. emotional regulation\n\t\t\tB. motor coordination\n\t\t\tC. speech production\n\t\t\tD. learning\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following refers to the benefit of having an emotional release to reduce aggressive tendencies?\n\t\t\tA. James-Lange theory of emotion\n\t\t\tB. Counterconditioning\n\t\t\tC. Catharsis hypothesis\n\t\t\tD. Transference\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "What kinds of factors are ignored or de-emphasized when people commit the fundamental attribution error?\n\t\t\tA. dispositional\n\t\t\tB. situational\n\t\t\tC. social\n\t\t\tD. cognitive\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The decision in Tarasoff v. Regents of the University of California (1974, 1976) established which of the following principles regarding confidentiality in counseling relationships?\n\t\t\tA. Duty to warn and protect\n\t\t\tB. Responsibility to maintain privacy\n\t\t\tC. Need to obtain informed consent\n\t\t\tD. Need to maintain accurate records\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following statements is true about the relationship between reliability and validity?\n\t\t\tA. Reliability and validity are mutually exclusive: a test can be reliable or valid, but it can't be both\n\t\t\tB. If a test is reliable, then it is valid, but if a test is not reliable, it cannot be valid\n\t\t\tC. Validity is a concept related to achievement tests, and reliability is the corresponding concept related to aptitude tests\n\t\t\tD. A test can be reliable but not valid\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following structures in the eye is most specifically responsible for color vision?\n\t\t\tA. rods\n\t\t\tB. optic nerve\n\t\t\tC. cornea\n\t\t\tD. cones\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following LEAST influences sexual behavior?\n\t\t\tA. hypothalamus\n\t\t\tB. pituitary\n\t\t\tC. gonads\n\t\t\tD. reticular formation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following is not considered a primary facial expression?\n\t\t\tA. surprise\n\t\t\tB. disgust\n\t\t\tC. anger\n\t\t\tD. love\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "In a team tug of war, Ty did not pull as hard as he would have if he were pulling alone against one competitor. His behavior exemplifies\n\t\t\tA. deindividuation\n\t\t\tB. groupthink\n\t\t\tC. social loafing\n\t\t\tD. bystander effect\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The obsessive fear of being in places or situations from which escape might be difficult is known as\n\t\t\tA. claustrophobia\n\t\t\tB. arachnophobia\n\t\t\tC. social phobia\n\t\t\tD. agoraphobia\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A doctor who smokes cigarettes knows that it is unhealthy, but thinks that he can keep smoking, since he eats healthily. Which concept best explains this thought process?\n\t\t\tA. reaction formation\n\t\t\tB. affective retraining\n\t\t\tC. cognitive dissonance\n\t\t\tD. obsessive compulsion\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A participant in a single-trial free-recall task is presented with a list of words, one at a time, in the following order: house, flower, dog, table, license, water, computer, salad. In accord with the serial position curve, which of the following words is the participant most likely to forget?\n\t\t\tA. House\n\t\t\tB. Computer\n\t\t\tC. Flower\n\t\t\tD. License\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "When a 17-year-old student is failing at school, which society would most likely hold the parents accountable?\n\t\t\tA. United States of America\n\t\t\tB. Canadian\n\t\t\tC. Japanese\n\t\t\tD. English\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Jeanette locked the front door and then checked it by turning the knob. She checked it a second time. After walking halfway down the path to the street, Jeanette went back to the door and checked to make sure that it was locked. Her behavior appears to be\n\t\t\tA. psychotic\n\t\t\tB. schizophrenic\n\t\t\tC. obsessive\n\t\t\tD. compulsive\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which term describes the phenomenon of like-minded groups taking more extreme positions than the individuals that comprise the group?\n\t\t\tA. social facilitation\n\t\t\tB. deindividuation\n\t\t\tC. groupthink\n\t\t\tD. group polarization\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "According to Abraham Maslow, esteem needs must at least be partially met before one is prompted to satisfy\n\t\t\tA. belongingness needs\n\t\t\tB. physiological needs\n\t\t\tC. self-actualization needs\n\t\t\tD. love needs\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "If a distribution of scores includes one or more outliers, which of the following measures of central tendency should be used?\n\t\t\tA. standard deviation\n\t\t\tB. range\n\t\t\tC. median\n\t\t\tD. mean\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "According to researchers Darley and Latanne, bystander intervention decreases when a large number of people witness a crime. What social psychology concept could best explain this phenomenon?\n\t\t\tA. Social loafing\n\t\t\tB. Prejudice\n\t\t\tC. Conformity\n\t\t\tD. Diffusion of responsibility\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following terms is most closely associated with creativity?\n\t\t\tA. hypothesis testing\n\t\t\tB. contextual intelligence\n\t\t\tC. divergent thinking\n\t\t\tD. habituation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Carlos could consistently differentiate the note middle C on the violin from middle C on the piano because of the difference in\n\t\t\tA. frequency\n\t\t\tB. primary wavelength\n\t\t\tC. amplitude\n\t\t\tD. timbre\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "In classical conditioning the learner learns to associate the unconditioned stimulus with\n\t\t\tA. an unconditioned response\n\t\t\tB. a conditioned stimulus\n\t\t\tC. a conditioned response\n\t\t\tD. a negative reinforcer\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "What type of test is the Advanced Placement Examination in Psychology?\n\t\t\tA. aptitude\n\t\t\tB. projective\n\t\t\tC. achievement\n\t\t\tD. intelligence\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "All people have essentially the same set of traits, differing only in terms of the extent to which they show each trait, according to which of the following personality theories?\n\t\t\tA. nomothetic\n\t\t\tB. idiographic\n\t\t\tC. Freudian\n\t\t\tD. somatotype\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following best exemplifies sensory adaptation?\n\t\t\tA. enjoying a song the more you hear it\n\t\t\tB. responding immediately every time the fire alarm is sounded\n\t\t\tC. not realizing how cold the pool is after you are under the water for a few minutes\n\t\t\tD. relying heavily on your hearing when you are walking down a dark corridor\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "In developmental research, studying the same subjects over time is known as\n\t\t\tA. cross-sectional research\n\t\t\tB. cross-cultural research\n\t\t\tC. in-cohort sequential research\n\t\t\tD. longitudinal research\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which research method would most likely be used to test the following hypothesis: People who conserve energy by buying hybrid cars are more likely to spend more money on organic foods.\n\t\t\tA. experiment\n\t\t\tB. naturalistic observation\n\t\t\tC. case study\n\t\t\tD. correlation\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "The perceived volume of a tone is mainly determined by its\n\t\t\tA. frequency\n\t\t\tB. timbre\n\t\t\tC. amplitude\n\t\t\tD. overtones\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "En route to the brain, information from the two eyes' retinas crosses at the\n\t\t\tA. optic nerve\n\t\t\tB. optic chiasm\n\t\t\tC. fovea\n\t\t\tD. lateral geniculate nucleus\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "All of the following are conditions sanctioned by the APA regarding the use of deception in a study EXCEPT\n\t\t\tA. the research is of great importance and cannot be conducted without the use of deception\n\t\t\tB. participants are expected to find the procedures reasonable upon being informed of them\n\t\t\tC. participants must be allowed to withdraw from the experiment at any time\n\t\t\tD. the research must be conducted as a double-blind study\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Erikson's initiative versus guilt stage is most closely related to Freud's\n\t\t\tA. oral stage\n\t\t\tB. anal stage\n\t\t\tC. phallic stage\n\t\t\tD. latency period\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "EEGs that consist primarily of alpha and beta waves are characteristic of\n\t\t\tA. consciousness\n\t\t\tB. stage 1 sleep\n\t\t\tC. stage 2 sleep\n\t\t\tD. stage 3 sleep\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Which of the following is not a basic somatosensation?\n\t\t\tA. pain\n\t\t\tB. touch\n\t\t\tC. cold\n\t\t\tD. itch\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "Behavioral therapy typically alters the patterns of responding of clients by\n\t\t\tA. helping patients identify a hierarchy of anxiety-arousing experiences\n\t\t\tB. vigorously challenging clients' illogical ways of thinking\n\t\t\tC. influencing patients by controlling the consequences of their actions\n\t\t\tD. repeating or rephrasing what a client says during the course of therapy\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "C",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "During World War II, millions of Jews and other minorities were slaughtered because they were blamed for the financial and social problems of Germany. Such scapegoating illustrates\n\t\t\tA. sour grapes rationalization\n\t\t\tB. displacement\n\t\t\tC. sweet lemons rationalization\n\t\t\tD. projection\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "B",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "A common criticism of labeling students as disabled is that individuals tend to perform in accordance with characteristics associated with a label. This performing phenomenon is known by which of the following names?\n\t\t\tA. The self-fulfilling prophecy\n\t\t\tB. The law of effect\n\t\t\tC. The primacy effect\n\t\t\tD. Social loafing\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "A",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "What would a psychometrician conclude about a personality test that tells a person she is an extreme extrovert the first time she takes the test and an extreme introvert the next time she takes it?\n\t\t\tA. This personality test has low reliability but high validity\n\t\t\tB. The test is probably high in construct validity but isn't very predictive\n\t\t\tC. These test norms and standardization probably need improvement\n\t\t\tD. The results indicate that the test has low test-retest reliability\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    },
+    {
+        "instruction": "To treat Zoe's anorexia nervosa, her doctors put her on intravenous feeding tubes, tried to change her irrational belief that she was too fat, and discussed how her early family relationships may have contributed to her current problems. This approach would best be classified as\n\t\t\tA. cognitive behavioral\n\t\t\tB. biological\n\t\t\tC. psychodynamic\n\t\t\tD. eclectic\n\t\t\tAnswer with the letter of the correct answer.\n\t\t\tAnswer:",
+        "target_score": "D",
+        "dataset": "high_school_psychology"
+    }
+]

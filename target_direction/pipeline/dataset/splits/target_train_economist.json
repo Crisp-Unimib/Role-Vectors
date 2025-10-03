@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Compare Basel III and Basel IV capital requirements for European commercial banks.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a welfare program distribution system that reduces income inequality in Cuba.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how the Suez Canal's expansion could benefit Egypt's economic growth prospects.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the economic impact of deforestation on local ecosystem services in tropical regions.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic comparing the art market's impact on global economic trends.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare cost-effectiveness of telemedicine startups versus traditional primary care delivery models.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend strategies to quantify ecosystem services when presenting sustainability ROI to businesses.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing global investment flows between major economic regions.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a cost-benefit analysis comparing organic farming versus conventional industrial agriculture methods.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a cost-benefit analysis model comparing nuclear power versus renewable energy investments.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve how cost-benefit analysis determines optimal funding distribution for rural transportation infrastructure",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze Pammolli's research methodology on pharmaceutical industry innovation and market dynamics.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend automation technologies that could replace repetitive manufacturing jobs by 2030",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic comparing Nordic and global economic growth trends since 2010.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how universal basic income programs impact employment rates and poverty levels.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how Brexit trade barriers have impacted UK-EU small business exports since 2020.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a monetary policy model comparing market liquidity to melting Belgian chocolate.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how supply and demand forces influence price equilibrium in competitive markets.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how inflation targeting frameworks impact long-term economic growth and stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend books that analyze the 2008 financial crisis's impact on emerging markets.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a cost-benefit analysis model for funding interplanetary resource mining operations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how carbon emission regulations impact job losses in energy-dependent regions.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve France's excessive tax burden on businesses without damaging social welfare programs",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend art museums that prioritize cultural impact over market-driven acquisition policies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how renewable energy transitions can benefit disadvantaged communities economically.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the average approval timeline for Class III medical devices in Europe?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a predictive dashboard to monitor cross-border capital flows and currency fluctuations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create an infographic comparing tax revenue outcomes between high-tax and low-tax states.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend econometric methods for measuring the impact of solar tax incentives",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how international trade patterns influence traditional craft industries in developing nations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how AI-driven automation affects wage equilibrium in labor market models.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how veteran benefits spending creates jobs and economic growth",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how tariff structures impact domestic manufacturing competitiveness and supply chain resilience.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve the correlation between rent control policies and housing supply in metropolitan areas.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how budget cuts reduce national debt over time.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a data visualization showing income inequality trends across OECD countries since 1980.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a market-based system to privatize infrastructure maintenance without government intervention.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a visualization showing the hidden environmental costs of GDP-driven economic policies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare wages and job security before and after widespread factory automation implementation.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how automation has transformed assembly line employment in automotive manufacturing since 2000.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to measure the economic impact of microfinance programs in rural Indonesian villages?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve why decreased education funding weakens workforce competitiveness and national security capabilities.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the correlation between broadband access and regional economic growth since 2010.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve the economic impact of 5G technology adoption on global telecommunications markets",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare fertilizer subsidies versus market-based pricing for maximizing corn production efficiency.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare trade liberalization policies between East Asian Tigers and Latin American economies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare the total lifecycle costs of electric buses versus diesel buses in urban transit.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve how IMF's austerity measures have worsened Sri Lanka's debt and inflation crisis",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze colonial banking systems' lasting effects on African economic development?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how progressive tax brackets impact wealth redistribution and government revenue.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare private arts funding versus government arts subsidies in terms of economic efficiency.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze unemployment rates among post-9/11 veterans compared to civilian workforce trends.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze why econophysics models fail to predict actual market behavior during financial crises.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a timeline showing IMF conditions that led to Sri Lanka's economic downfall.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how digital payment innovations have transformed India's informal economic sector.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how blockchain technology can improve agricultural supply chain financing systems",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how policy changes affect GDP growth in Zimbabwe",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the market dynamics enabling tech startups to disrupt traditional banking sectors.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how pollinator decline affects regional agricultural productivity and market prices.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a model showing how startup disruption increases unemployment in established industries",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze median income growth across US cities adjusted for regional price disparities",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how network analysis reveals patterns in international pharmaceutical market dynamics",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend economic policies that would maximize inheritance freedom and market efficiency.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the actual role of free market competition in developing nations' growth?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend keynote speakers for a conference on post-pandemic global economic recovery trends",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the annual taxpayer costs associated with maintaining maximum-security prisons nationwide.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve which key market indicators best predict consumer spending patterns in retail sectors",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the network effect's impact on platform-based business model scalability?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze correlations between higher education credentials and small business survival rates?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how selection bias could invalidate the professor's cross-sectional income study findings.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how healthcare cost-effectiveness analysis impacts insurance policy decision-making processes.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the long-term GDP impact of refugee integration in host countries?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how changes in money supply affect inflation rates and economic stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend economic alternatives to increasing military spending for national security objectives",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the correlation between free market policies and income inequality levels?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare econometric modeling approaches used in behavioral economics versus environmental economics.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend metrics for measuring consumer hesitation during online checkout processes.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to measure the impact of foreign direct investment in Sub-Saharan economies?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how crude oil quotas influence global market prices and OPEC's stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is predatory pricing and its impact on market competition dynamics?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to measure economic progress while accounting for environmental degradation and depletion?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to explain Austrian economic principles to young content creators on YouTube?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare Islamic banking practices in Sudan versus conventional banking systems.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve low program uptake rates among eligible recipients in means-tested welfare systems",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the most energy-efficient arrangement for kitchen appliances and workflow zones?",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve the endogeneity problem in my regression analysis of wage determinants",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how machine learning algorithms can improve GDP forecasting accuracy models.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to calculate carbon offset costs for international commercial flight routes?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how wealth accumulation patterns contribute to intergenerational social mobility barriers.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare the economic returns of transit-oriented development versus traditional suburban expansion models.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend research methods to measure how living wages affect local business growth.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze blockchain technology's impact on traditional banking systems?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a dashboard visualizing economic indicators and machine learning prediction model outputs.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how international trade sanctions impact regional economic stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a dataset comparing productivity metrics between unionized and non-unionized manufacturing plants.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the projected impact of water scarcity on global corn prices?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how automation in manufacturing creates higher-skilled jobs and increases economic productivity.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how trade sanctions impact domestic manufacturing and cross-border supply chains",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how this economist's early life experiences shaped their theoretical perspectives.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between international trade flows and indigenous cultural preservation?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to effectively critique an economic theory through investigative journalism techniques?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the correlation between algorithmic trading and market volatility?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how anchoring bias influences consumer pricing expectations in retail environments.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing economic losses in ski resorts over the last decade.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how increasing market regulations could prevent another major financial crisis.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve the trade barriers limiting economic growth between our bordering ASEAN nations",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between insurance deductibles and preventive care utilization rates?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare fiscal stimulus packages implemented during 2008 and 2020 financial crises.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend datasets for analyzing employment shifts after NAFTA implementation in manufacturing sectors",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare urban water consumption patterns in developing versus developed metropolitan regions.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how political unrest correlates with cross-border migration patterns.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how blockchain technology could impact traditional banking systems without destabilizing markets.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the current relationship between wage growth and labor market tightness?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is Vietnam's current trade balance with ASEAN member states?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the cost-benefit ratio of implementing workplace mental health support programs.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an interactive dashboard to track global market share of specialty chemicals manufacturers.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare market volatility during the 2008 financial crisis versus the 2020 pandemic crash.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend reliable data sources for tracking monthly unemployment rates across different demographics.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the correlation between ethanol production and corn futures pricing trends?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to restore traditional free-market principles in modern economic policy making?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how arts funding diverts money from essential government services.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve why major sports franchises relocate despite strong local economic indicators.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the impact of behavioral economics on traditional free market theories?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how voluntary employment contracts eliminate the need for government labor regulations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain why Vietnam's GDP growth remained strong during global economic slowdown.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to implement microfinance programs to boost income levels in low-income communities?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend empirical studies that highlight inefficiencies and risks in Islamic banking practices.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a predictive model forecasting patient spending patterns in outpatient preventive care services.",
+        "category": "economist"
+    }
+]
